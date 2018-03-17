@@ -41,8 +41,6 @@ public class MainController implements Initializable, MapComponentInitializedLis
     @FXML
     private Label lDuration;
     @FXML
-    private TextArea taLogs;
-    @FXML
     private Pane mapPane;
 
     private GoogleMapView mapView;
@@ -80,22 +78,12 @@ public class MainController implements Initializable, MapComponentInitializedLis
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         tfIterations.textProperty().addListener((observable, oldValue, newValue) -> removeTextIfNotDigit(newValue));
-        taLogs.setEditable(false);
-        taLogs.setWrapText(true);
         cbData.valueProperty().addListener((observable, oldValue, newValue) -> {
             if (newValue.equals("Polish cities (16)"))
                 mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.MAIN_CITIES);
             else
                 mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.ALL_CITIES);
         });
-
-        OutputStream out = new OutputStream() {
-            @Override
-            public void write(int b) throws IOException {
-                appendText(String.valueOf((char) b));
-            }
-        };
-        System.setOut(new PrintStream(out, true));
 
         mapView = new GoogleMapView();
         mapView.addMapInializedListener(this);
@@ -157,8 +145,5 @@ public class MainController implements Initializable, MapComponentInitializedLis
 
     public void changeBasicAlgorithmSolutionVisibility(){
         mapShapeDrawer.changeBasicAlgorithmSolutionVisibility(chboxBasicAlgorithm.isSelected());
-    }
-    private void appendText(String text) {
-        Platform.runLater(() -> taLogs.appendText(text));
     }
 }
