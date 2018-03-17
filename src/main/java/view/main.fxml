@@ -19,7 +19,7 @@
                      <items>
                         <FXCollections fx:factory="observableArrayList">
                            <String fx:value="Polish cities (16)" />
-                           <String fx:value="Polish cities (2292)" />
+                           <String fx:value="Polish cities (600)" />
                         </FXCollections>
                      </items>
                   </ComboBox>
