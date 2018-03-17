@@ -1,0 +1,2292 @@
+Adamów (siedleckie)     2215        5145
+Adamów (zamojskie)      2310        5036
+Adamówka                2242        5016
+Aleksandrów             1959        5116
+Aleksandrów Kujawski    1842        5253
+Aleksandrów £ódzki      1919        5149
+Alwernia                1932        5004
+Andrespol               1937        5144
+Andrychów               1920        4952
+Andrzejewo              2212        5250
+Annopol                 2152        5053
+Augustów                2258        5351
+Babiak                  1841        5220
+Babice                  1926        5004
+Babimost                1550        5209
+Baborów                 1759        5009
+Baboszewo               2015        5242
+Baækowice               2114        5048
+Baka³arzewo             2239        5406
+Baligród                2217        4921
+Ba³tów                  2132        5101
+Banie                   1438        5306
+Banie Mazurskie         2203        5415
+Baranowicze             2602        5308
+Baranowo                2118        5311
+Baranów (kaliskie)      1800        5116
+Baranów (lubelskie)     2209        5134
+Baranów (skierniewickie)  2028        5207
+Baranów Sandomierski    2133        5030
+Barciany                2121        5413
+Barcin                  1757        5252
+Barczewo                2041        5350
+Bardo                   1645        5031
+Barg³ów Koœcielny       2250        5346
+Barlinek                1513        5259
+Bartoszyce              2048        5415
+Baruchowo               1915        5230
+Barwice                 1621        5344
+Batorz                  2230        5050
+B¹dkowo                 1847        5242
+Bedlno                  1934        5213
+Bejsce                  2036        5015
+Belsk Du¿y              2049        5150
+Be³chatów               1922        5122
+Be³¿yce                 2217        5110
+Bestwina                1903        4954
+Bêdków                  1945        5135
+Bêdzin                  1908        5019
+Bêdzino                 1559        5412
+Bia³a (opolskie)        1740        5023
+Bia³a (sieradzkie)      1827        5116
+Bia³a Piska             2204        5337
+Bia³a Podlaska          2307        5202
+Bia³a Rawska            2029        5148
+Bia³aczów               2018        5118
+Bia³e B³ota             1755        5306
+Bia³obrzegi (rzeszow.)  2221        5007
+Bia³obrzegi (radomskie)  2057        5139
+Bia³ogard               1559        5400
+Bia³opole               2344        5059
+Bia³oœliwie             1707        5306
+Bia³owie¿a              2352        5242
+Bia³y Bór               1650        5344
+Bia³y Dunajec           2002        4922
+Bia³ystok               2310        5308
+Biecz                   2116        4944
+Bielany                 2215        5220
+Bielawa                 1637        5042
+Bielawy                 1939        5204
+Bielice                 1443        5312
+Bieliny                 2055        5051
+Bielsk                  1948        5241
+Bielsk Podlaski         2312        5246
+Bielsko-Bia³a           1904        4950
+Bierawa                 1816        5017
+Bierutów                1733        5107
+Bierzwnik               1540        5302
+Biesiekierz             1603        5408
+Bie¿uñ                  1952        5257
+Bi³goraj                2243        5032
+Bircza                  2228        4942
+Biskupice               2007        4958
+Biskupiec (toruñskie)   1921        5330
+Biskupiec (olsztyñskie)  2057        5352
+Biszcza                 2238        5025
+Bisztynek               2054        5405
+Blachownia              1858        5047
+Bledzew                 1524        5231
+Blizanów                1801        5154
+Bli¿yn                  2045        5106
+B³aszki                 1826        5139
+B³a¿owa                 2206        4954
+B³êdów                  2042        5147
+B³onie                  2036        5212
+Bobolice                1635        5357
+Bobowa                  2057        4943
+Bobrowice               1505        5157
+Bobrowniki (katowickie)  1859        5023
+Bobrowniki (w³oc³awskie)  1858        5246
+Bobrowo                 1916        5317
+Bochnia                 2025        4958
+Boæki                   2302        5239
+Bodzanów                2002        5231
+Bodzechów               2123        5051
+Bodzentyn               2057        5057
+Bogatynia               1457        5054
+Bogdaniec               1503        5241
+Bogoria                 2115        5039
+Boguchwa³a              2157        4959
+Boguszów-Gorce          1612        5046
+Boguty-Pianki           2225        5243
+Bojad³a                 1549        5157
+Bojanowo                1645        5142
+Bojanów                 2157        5026
+Boles³aw                2053        5016
+Boles³awiec (kaliskie)   1812        5112
+Boles³awiec (jeleniog.)  1534        5116
+Boleszkowice            1433        5243
+Bolimów                 2010        5205
+Bolków                  1606        5055
+Boniewo                 1854        5228
+Borek Wielkopolski      1715        5155
+Borki                   2232        5144
+Borkowice               2042        5119
+Borowa                  2121        5023
+Borowiczki              1945        5231
+Borowie                 2146        5157
+Borów                   1700        5053
+Borys³aw                2327        4916
+Borzechów               2217        5106
+Borzêcin                2042        5006
+Borzytuchom             1723        5413
+Branice                 1747        5003
+Braniewo                1950        5423
+Brañsk                  2250        5245
+Brañszczyk              2136        5237
+Bras³aw                 2702        5538
+Br¹szewice              1827        5130
+Brodnica (poznañskie)   1653        5209
+Brodnica (toruñskie)    1924        5315
+Brody (kieleckie)       2114        5102
+Brody (zielonogórskie)  1445        5145
+Brody                   2510        5006
+Brojce                  1521        5357
+Brok                    2151        5242
+Brójce                  1938        5140
+Brudzeñ Du¿y            1929        5240
+Brudzew                 1836        5206
+Brusy                   1744        5353
+Brwinów                 2043        5208
+Brzeg                   1729        5052
+Brzeg Dolny             1643        5116
+Brzesko                 2037        4958
+Brzeszcze               1909        4959
+Brzeœæ Kujawski         1853        5237
+Brzeœæ nad Bugiem       2342        5206
+Brzeziny (kaliskie)     1816        5136
+Brzeziny (skierniewic.)  1945        5148
+BrzeŸnica (bielskie)    1937        4958
+BrzeŸnica (zielonogór.)  1524        5143
+BrzeŸnio                1838        5130
+BrzeŸno                 1547        5342
+Brze¿any                2456        4927
+Brzostek                2125        4953
+Brzozie                 1936        5319
+Brzozów                 2202        4942
+Brzuze                  1915        5303
+Brzyska                 2123        4949
+Buczacz                 2523        4904
+Buczek                  1910        5130
+Budry                   2153        5415
+Budzów                  1941        4947
+Budzyñ                  1659        5254
+Buk                     1631        5222
+Bukowiec                1814        5326
+Bukowina Tatrzañska     2006        4920
+Bukowno                 1926        5016
+Bukowsko                2203        4929
+Bulkowo                 2007        5233
+Burzenin                1850        5127
+Busko Zdrój             2048        5028
+Bychawa                 2233        5101
+Byczyna                 1813        5107
+Bydgoszcz               1800        5307
+Bystrzyca K³odzka       1638        5018
+Bytnica                 1509        5209
+Bytom                   1854        5023
+Bytom Odrzañski         1550        5144
+Bytoñ                   1835        5234
+Bytów                   1730        5410
+Cedry Wielkie           1851        5415
+Cedynia                 1412        5253
+Ceg³ów                  2144        5209
+Cekcyn                  1801        5335
+Ceków-Kolonia           1818        5153
+Celestynów              2123        5203
+Ceranów                 2214        5238
+Cewice                  1744        5427
+Charsznica              1956        5025
+Ch¹œno                  1956        5211
+Che³m                   2329        5108
+Che³mek                 1914        5006
+Che³miec                2040        4938
+Che³mno                 1826        5321
+Che³m¿a                 1836        5312
+Chêciny                 2027        5048
+Chlewiska               2046        5115
+Ch³opice                2241        4957
+Chmielnik               2045        5037
+Chmielnik Rzeszowski    2207        4959
+Chmielno                1806        5420
+Choceñ                  1901        5230
+Chocianów               1554        5125
+Chociwel                1519        5327
+Chocz                   1753        5158
+Choczewo                1753        5445
+Chodecz                 1902        5224
+Chodel                  2208        5107
+Chodów                  1902        5215
+Chodzie¿                1655        5259
+Chojna                  1425        5258
+Chojnice                1733        5342
+Chojnów                 1556        5117
+Choreszcz               2259        5309
+Chorkówka               2141        4939
+Choroszcz               2259        5309
+Chorzele                2053        5316
+Chorzów                 1857        5018
+Choszczno               1524        5310
+Chotcza                 2145        5214
+Chrostkowo              1915        5357
+Chrzanów (katowickie)   1924        5008
+Chrzanów (tarnobrzeskie)  2236        5046
+Chrz¹stowice            1804        5040
+Chrzypsko Wielkie       1614        5238
+Chybie                  1849        4954
+Chynów                  2105        5154
+Ciasna                  1837        5046
+Ciechanowiec            2230        5241
+Ciechanów               2038        5252
+Ciechocin               1856        5304
+Ciechocinek             1847        5253
+Ciel¹dz                 2021        5143
+Ciepielów               2135        5115
+Ciep³owody              1655        5041
+Cieplice Œl¹skie-Zdrój  1541        5052
+Cieszanów               2308        5014
+Cieszków                1722        5138
+Cieszyn                 1838        4945
+Ciê¿kowice              2058        4948
+Cisek                   1813        5017
+Cisna                   2220        4913
+Cmolas                  2145        5018
+Cybinka                 1448        5212
+Cyców                   2308        5118
+Czajków                 1821        5129
+Czaplinek               1614        5333
+Czarna (kroœnieñskie)   2241        4919
+Czarna (tarnowskie)     2115        5004
+Czarna (rzeszowskie)    2212        5007
+Czarna Bia³ostocka      2318        5318
+Czarna D¹brówka         1734        5422
+Czarne                  1656        5342
+Czarnia                 2111        5321
+Czarnków                1634        5254
+Czarnocin (kieleckie)   2031        5021
+Czarnocin (piotrkowskie)  1941        5135
+Czrno¿y³y               1834        5117
+Czarny Bór              1607        5046
+Czarny Dunajec          1952        4927
+Czastary                1820        5116
+Czchów                  2041        4950
+Czechowice-Dziedzice    1901        4950
+Czemierniki             2238        5141
+Czempiñ                 1645        5208
+Czeremcha               2321        5231
+Czermin (rzeszowskie)   2120        5020
+Czermin (kaliskie)      1745        5157
+Czernica                1715        5103
+Czernice Borowe         2043        5302
+Czernichów              1941        4959
+Czerniejewo             1729        5226
+Czerniewice             2010        5139
+Czernikowo              1856        5257
+Czersk                  1758        5348
+Czerwieñsk              1526        5201
+Czerwin                 2146        5257
+Czerwiñsk nad Wis³¹     2018        5223
+Czerwonak               1659        5228
+Czerwonka               2112        5253
+Czêstochowa             1907        5048
+Cz³opa                  1606        5305
+Cz³uchów                1721        5341
+Czorsztyn               2019        4926
+Czosnów                 2043        5224
+Czudec                  2151        4957
+Czy¿e                   2326        5247
+Czy¿ew-Osada            2218        5248
+Æmielów                 2131        5054
+Daleszyce               2048        5048
+Dalików                 1906        5153
+Damas³awek              1730        5250
+Damnica                 1717        5430
+Dar³owo                 1624        5425
+Daszyna                 1911        5209
+Dawidgródek             2714        5203
+D¹bie (koniñskie)       1849        5205
+D¹bie (zielonogórskie)  1510        5201
+D¹browa (opolskie)      1745        5041
+D¹browa (bydgoskie)     1757        5244
+D¹browa Bia³ostocka     2321        5339
+D¹browa Biskupia        1832        5247
+D¹browa Che³miñska      1818        5311
+D¹browa Górnicza        1916        5019
+D¹browa Tarnowska       2059        5011
+D¹browa Zielona         1933        5051
+D¹browice               1905        5219
+D¹brówka                2117        5229
+D¹brówno                2003        5326
+Debrzno                 1714        5333
+Deszczno                1518        5240
+Dêbe Wielkie            2126        5212
+Dêbica                  2125        5003
+Dêblin                  2152        5134
+Dêbnica Kaszubska       1710        5423
+Dêbno (tarnowskie)      2043        4958
+Dêbno (gorzowskie)      1442        5244
+Dêbowa K³oda            2301        5136
+Dêbowa £¹ka             1906        5315
+Dêbowiec (kroœnieñskie)  2128        4941
+Dêbowiec (bielskie)     1843        4948
+D³ugo³êka               1712        5110
+D³ugosiod³o             2136        5246
+D³utów                  1924        5133
+Dmosin                  1945        5155
+Dobczyce                2006        4953
+Dobiegniew              1545        5258
+Dobra (koniñskie)       1837        5155
+Dobra (nowos¹deckie)    2015        4943
+Dobra (szczeciñskie)    1423        5329
+Dobra (szczeciñskie)    1518        5334
+Dobrcz                  1809        5316
+Dobre (siedleckie)      2141        5219
+Dobre (w³oc³awskie)     1833        5241
+Dobre Miasto            2024        5359
+Dobrodzieñ              1827        5044
+Dobromierz              1615        5055
+Dobromil                2247        4934
+Dobroszyce              1721        5116
+Dobryszyce              1925        5109
+Dobrzany                1525        5321
+Dobrzelin               1937        5214
+Dobrzeñ Wielki          1751        5046
+Dobrzyca                1737        5152
+Dobrzyniewo Koœcielne   2303        5312
+Dobrzyñ nad Wis³¹       1920        5239
+Dolice                  1512        5311
+Dolsk                   1704        5159
+Do³hobyczów             2402        5035
+Domaniewice             1948        5201
+Domaniów                1708        5059
+Domaradz                2159        4948
+Domaszowice             1753        5103
+Dominowo                1722        5218
+Dopiewo                 1640        5221
+Dorohusk                2349        5109
+Doruchów                1805        5125
+Dragacz                 1844        5330
+Drawno                  1545        5313
+Drawsko                 1602        5251
+Drawsko Pomorskie       1548        5332
+Drelów                  2253        5155
+Drezdenko               1549        5251
+Drobin                  1959        5244
+Drohiczyn               2239        5224
+Drohobycz               2330        4921
+Dru¿bice                1924        5127
+Drwinia                 2026        5006
+Drzewica                2028        5127
+Drzycim                 1819        5331
+Dubeninki               2234        5418
+Dubicze Cerkiewne       2326        5239
+Dubiecko                2224        4950
+Dubienka                2353        5103
+Dukla                   2141        4933
+Duszniki                1624        5227
+Duszniki-Zdrój          1623        5024
+Dwikozy                 2147        5044
+Dydnia                  2212        4941
+Dygowo                  1543        5408
+Dynów                   2214        4949
+Dywity                  2029        5350
+Dziadkowice             2254        5234
+Dziadowa K³oda          1742        5114
+Dzia³dowo               2011        5314
+Dzia³oszyce             2021        5022
+Dzia³oszyn              1852        5107
+Dziemiany               1747        5401
+Dzierz¹¿nia             2014        5238
+Dzierzgoñ               1921        5356
+Dzierzgowo              2039        5309
+Dzierzkowice            2205        5058
+Dzier¿oniów             1638        5043
+Dziwnów                 1445        5402
+Dzwola                  2235        5042
+DŸwierzuty              2058        5342
+Elbl¹g                  1924        5410
+E³k                     2221        5329
+Fabianki                1906        5243
+Fajs³awice              2257        5106
+Fa³ków                  2006        5108
+Filipów                 2237        5411
+Firlej                  2231        5134
+Frampol                 2241        5041
+Fredropol               2245        4942
+Frombork                1941        5421
+Frysztak                2137        4950
+Gaæ                     2222        5002
+Galewice                1816        5120
+Garbatka-Letnisko       2137        5130
+Garbów                  2221        5121
+Gardeja                 1857        5337
+Garwolin                2138        5154
+Gaszowice               1826        5007
+Gaworzyce               1553        5138
+G¹bin                   1943        5224
+G¹sawa                  1745        5246
+Gdañsk                  1838        5422
+Gdów                    2012        4954
+Gdynia                  1832        5432
+Giby                    2322        5402
+Gidle                   1928        5058
+Gielniów                2028        5124
+Giera³towice            1843        5013
+Gietrzwa³d              2015        5345
+Gilowice-Œlemieñ        1918        4942
+Giza³ki                 1747        5203
+Gi¿ycko                 2147        5402
+Glinojeck               2017        5249
+Gliwice                 1840        5017
+G³êbokie                2741        5508
+G³ogów                  1605        5139
+G³ogów Malopolski       2158        5009
+G³ogówek                1751        5021
+G³owaczów               2120        5138
+G³owno                  1943        5158
+G³ówczyce               1722        5437
+G³ubczyce               1750        5012
+G³ucho³azy              1723        5019
+G³uchów                 2004        5147
+G³usk                   2236        5112
+G³uszyca                1622        5041
+Gniew                   1849        5351
+Gniewino                1801        5443
+Gniewkowo               1825        5254
+Gniewoszów              2149        5128
+Gniezno                 1736        5232
+Gnojnik                 2036        4954
+Gnojno                  2051        5037
+Godkowo                 1954        5405
+Godów                   1829        4956
+Godzianów               2002        5153
+Godziesze Wielkie       1811        5139
+Godziszów               2229        5046
+Gogolin                 1802        5030
+Golczewo                1458        5359
+Goleniów                1449        5333
+Goleszów                1844        4944
+Golina                  1806        5215
+Golub-Dobrzyñ           1903        5307
+Go³añcz                 1718        5257
+Go³cza                  1955        5021
+Go³dap                  2218        5418
+Go³uchów                1756        5151
+Go³ymin-Oœrodek         2053        5248
+Gomunice                1929        5110
+Goni¹dz                 2244        5329
+Goraj                   2241        5043
+Gorlice                 2110        4940
+Gorzkowice              1936        5113
+Gorzków                 2300        5056
+Gorzów Œl¹ski           1826        5102
+Gorzów Wielkopolski     1514        5244
+Gorzyce (katowickie)    1824        4958
+Gorzyce (tarnobrzeskie)  2150        5040
+Gostycyn                1748        5329
+Gostynin                1928        5225
+Gostyñ                  1701        5153
+Goszczanów              1831        5147
+Goszczyn                2052        5144
+Goœcieradów             2200        5052
+Goœcino                 1538        5403
+Gowarczów               2027        5117
+Goworowo                2134        5254
+Gozdnica                1506        5126
+Gozdowo                 1941        5244
+Góra                    1633        5140
+Góra Kalwaria           2113        5159
+Góra Œwiêtej Ma³gorzaty   1919        5203
+Górno                   2049        5051
+Górowo I³awieckie       2030        5417
+Górzno (siedleckie)     2143        5151
+Górzno (toruñskie)      1938        5312
+Górzyca                 1438        5229
+Gózd                    2123        5123
+Grabica                 1932        5129
+Grabowiec               2333        5049
+Grabowo                 2209        5328
+Grabów                  1901        5207
+Grabów nad Pilic¹       2114        5144
+Grabów nad Prosn¹       1807        5130
+Grajewo                 2227        5339
+Granowo                 1632        5213
+Gr¹¿awy                 1934        5315
+Grêbków                 2155        5216
+Grêbocice               1610        5136
+Grêboszów               2047        5015
+Grêbów                  2153        5034
+Grodków                 1723        5042
+Grodno                  2350        5341
+Grodziczno              1946        5325
+Grodziec                1804        5202
+Grodzisk                2245        5235
+Grodzisk Mazowiecki     2037        5206
+Grodzisk Wielkopolski   1622        5214
+Grodzisko Dolne         2228        5010
+Gromadka                1546        5122
+Gromnik                 2057        4950
+Gronowo Elbl¹skie       1918        5405
+Gródek                  2340        5306
+Gródek nad Dunajcem     2044        4945
+Grójec                  2052        5152
+Grudusk                 2036        5304
+Grudzi¹dz               1846        5329
+Grunwald                2005        5333
+Gruta                   1858        5327
+Grybów                  2057        4938
+Gryfice                 1512        5354
+Gryfino                 1429        5315
+Gryfów Œl¹ski           1525        5102
+Grzegorzew              1844        5212
+Grzmi¹ca                1626        5350
+Gubin                   1443        5157
+Gzy                     2056        5245
+Haczów                  2154        4940
+Hajnówka                2335        5245
+Halinów                 2121        5214
+Hanna                   2331        5143
+Hañsk                   2324        5124
+Harasiuki               2229        5028
+HaŸlach                 1837        4948
+Hel                     1848        5436
+Herby                   1853        5040
+Horod³o                 2403        5054
+Horyniec                2322        5012
+Hrubieszów              2353        5048
+Huszlew                 2250        5208
+Hy¿ne                   2211        4955
+Igo³omia-Wawrzeñczyce   2018        5006
+I³awa                   1934        5336
+I³owa                   1512        5130
+I³owo-Osada             2018        5310
+I³ów                    2002        5221
+I³¿a                    2115        5110
+Imielno                 2026        5035
+Inow³ódz                2013        5132
+Inowroc³aw              1815        5248
+Iñsko                   1532        5326
+Irz¹dze                 1941        5038
+Istebna                 1854        4934
+Iwaniska                2116        5044
+Iwanowice               1959        5014
+Iwierzyce               2146        5002
+Iwkowa                  2035        4950
+Iwonicz-Zdrój           2148        4934
+Izbica                  2310        5054
+Izbica Kujawska         1846        5225
+Izbicko                 1810        5034
+Jab³onka                1942        4929
+Jab³onna (lubelskie)    2236        5105
+Jab³onna (warszawskie)  2054        5223
+Jab³onna Lacka          2227        5229
+Jab³onowo               1904        5324
+Jab³onowo Pomorskie     1904        5324
+Jab³oñ                  2305        5143
+Jadów                   2138        5229
+Jaktorów                2032        5205
+Jakubów                 2141        5213
+Janikowo                1806        5245
+Janowice Wielkie        1555        5053
+Janowiec                2154        5119
+Janowiec Koœcielny      2031        5318
+Janowiec Wielkopolski   1729        5245
+Janowo                  2040        5319
+Janów (czêstochowskie)  1926        5043
+Janów (bia³ostockie)    2314        5328
+Janów Lubelski          2225        5042
+Janów Podlaski          2313        5212
+Jaraczewo               1718        5158
+Jarczów                 2335        5026
+Jarocin (tarnobrzeskie)   2220        5034
+Jarocin (kaliskie)      1730        5158
+Jaros³aw                2242        5002
+Jasienica               1856        4949
+Jasienica Rosielna      2157        4945
+Jasieniec               2056        5149
+Jasieñ                  1501        5145
+Jasionówka              2302        5324
+Jas³o                   2128        4944
+Jastarnia               1840        5442
+Jastków                 2227        5119
+Jastrowie               1649        5326
+Jastrz¹b                2057        5114
+Jastrzêbia              2112        5128
+Jastrzêbie-Zdrój        1835        4957
+Jaœwi³y                 2258        5324
+Jawor                   1612        5104
+Jawornik Polski         2217        4954
+Jaworzno                1916        5013
+Jaworzyna Œl¹ska        1626        5055
+Jedlicze                2138        4943
+Jedlina-Zdrój           1621        5043
+Jedliñsk                2102        5131
+Jedlnia-Letnisko        2119        5126
+Jednoro¿ec              2103        5309
+Jedwabne                2218        5317
+Jedwabno                2044        5332
+Jelcz-Laskowice         1719        5101
+Jelenia Góra            1544        5054
+Jeleniewo               2255        5413
+Jeleœnia                1919        4939
+Jemielnica              1823        5033
+Jemielno                1633        5132
+Jerzmanowa              1603        5136
+Jerzmanowice-Przeginia    1945        5012
+Jeziora Wielkie         1816        5232
+Jeziorany               2045        5358
+Jeziorzany              2217        5136
+Je¿ewo                  1829        5331
+Je¿owe                  2210        5023
+Je¿ów                   1958        5148
+Je¿ów Sudecki           1545        5056
+Jêdrzejów               2018        5039
+Jod³owa                 2119        4953
+Jod³ownik               2014        4947
+Joniec                  2035        5236
+Jonkowo                 2019        5350
+Jordanów                1950        4939
+Jordanów Œl¹ski         1652        5052
+Józefów (zamojskie)     2304        5029
+Józefów (lubelskie)     2151        5102
+Józefów (warszawskie)   2114        5209
+Juchnowiec Dolny        2308        5301
+Jutrosin                1711        5138
+Kaczory                 1652        5307
+Kadzid³o                2128        5314
+Kalety                  1854        5034
+Kalinowo                2241        5353
+Kaliska                 1813        5355
+Kalisz                  1806        5146
+Kalisz Pomorski         1554        5317
+Kalwaria Zebrzydowska   1940        4953
+Ka³uszyn                2149        5213
+Kamienica               2021        4934
+Kamienica Polska        1909        5041
+Kamieniec               1627        5210
+Kamieniec Z¹bkowicki    1652        5032
+Kamienna Góra           1602        5047
+Kamiennik               1709        5034
+Kamieñ (rzeszowskie)    2209        5020
+Kamieñ (che³mskie)      2335        5106
+Kamieñ Koszyrski        2458        5138
+Kamieñ Krajeñski        1731        5332
+Kamieñ Pomorski         1446        5358
+Kamieñsk                1930        5113
+Kamionka                2228        5129
+Kamionka Strumi³owa     2420        5007
+Kamionka Wielka         2049        4935
+Kampinos                2028        5216
+Kañczuga                2225        4959
+Karczew                 2115        5204
+Karczmiska              2201        5114
+Kargowa                 1552        5204
+Karlino                 1553        5402
+Karnice                 1503        5401
+Karniewo                2059        5250
+Karpacz                 1544        5047
+Karsin                  1755        5354
+Kartuzy                 1812        5420
+Katowice                1900        5015
+Kawêczyn                1832        5154
+Kazanów                 2128        5117
+Kazimierz Biskupi       1810        5219
+Kazimierz Dolny         2158        5119
+Kazimierza Wielka       2029        5016
+KaŸmierz                1635        5230
+K¹kolewnica Wschodnia   2242        5154
+K¹ty Wroc³awskie        1646        5102
+Kcynia                  1729        5259
+Kêdzierzyn-KoŸle        1812        5021
+Kêpice                  1652        5415
+Kêpno                   1759        5117
+Kêsowo                  1734        5334
+Kêtrzyn                 2123        5405
+Kêty                    1913        4953
+Kielce                  2037        5053
+Kie³czyg³ów             1859        5114
+Kiernozia               1952        5216
+Kietrz                  1801        5005
+Kije                    2034        5036
+Kijewo Królewskie       1827        5316
+Kikó³                   1907        5255
+Kisielice               1915        5336
+Kiszkowo                1716        5235
+Kiwerce                 2527        5050
+Kiwity                  2046        5406
+Kleczew                 1811        5222
+Klembów                 2120        5224
+Kleszczele              2320        5235
+Kleszczewo              1710        5220
+Kleszczów               1918        5113
+Klimontów               2127        5040
+Klonowa                 1826        5125
+Kluczbork               1813        5058
+Klucze                  1934        5020
+Kluczewsko              1955        5056
+Kluki                   1914        5121
+Klukowo                 2231        5247
+Klwów                   2038        5132
+K³aj                    2018        5000
+K³ecko                  1726        5237
+K³obuck                 1856        5055
+K³oczew                 2158        5144
+K³odawa (koniñskie)     1855        5215
+K³odawa (gorzowskie)    1512        5247
+K³odzko                 1639        5027
+K³omnice                1922        5056
+Knurów                  1841        5013
+Knyszyn                 2255        5318
+Kobiele Wielkie         1937        5102
+Kobierzyce              1656        5058
+Kobryñ                  2421        5213
+Kobyla Góra             1751        5123
+Kobylanka               1451        5321
+Kobylin                 1714        5142
+Kobylin-Borzymy         2241        5306
+Kobylnica               1659        5427
+Koby³ka                 2111        5221
+Kochanowice             1845        5043
+Kocierzew Po³udniowy    2001        5214
+Kock                    2227        5139
+Kocmyrzów-Luborzyca     2006        5008
+Kocza³a                 1704        5354
+Kodeñ                   2237        5155
+Kodr¹b                  1938        5106
+Kolbudy Górne           1827        5416
+Kolbuszowa              2147        5014
+Kolno (³om¿yñskie)      2156        5324
+Kolno (olsztyñskie)     2100        5359
+Kolonowskie             1823        5039
+Kolsko                  1558        5157
+Koluszki                1949        5145
+Ko³aczkowo              1737        5213
+Ko³aczyce               2126        4948
+Ko³aki Koœcielne        2223        5301
+Ko³baskowo              1425        5320
+Ko³biel                 2129        5204
+Ko³czyg³owy             1714        5414
+Ko³o                    1839        5212
+Ko³obrzeg               1534        5410
+Ko³omyja                2504        4832
+Komañcza                2204        4921
+Komarów-Osada           2329        5038
+Komarówka Podlaska      2257        5148
+Komorniki               1648        5221
+Komprachcice            1749        5038
+Konarzyny               1722        5350
+Kondratowice            1656        5046
+Koneck                  1843        5247
+Koniecpol               1941        5047
+Konin                   1816        5213
+Koniusza                2013        5012
+Konopiska               1901        5044
+Konopnica               1850        5121
+Konstancin-Jeziorna     2108        5205
+Konstantynów            2305        5212
+Konstantynów £ódzki     1920        5145
+Koñskie                 2025        5112
+Koñskowola              2204        5125
+Koprzywnica             2135        5036
+Korczew                 2237        5222
+Korczyna                2149        4943
+Korfantów               1736        5029
+Koronowo                1756        5319
+Korsze                  2108        5410
+Korytnica               2151        5225
+Korzenna                2051        4941
+Kosakowo                1829        5436
+Kosów Lacki             2209        5235
+Kostom³oty              1632        5103
+Kostopol                2626        5053
+Kostrzyn (poznañskie)   1713        5224
+Kostrzyn (gorzowskie)   1438        5236
+Koszalin                1611        5411
+Koszarawa               1924        4938
+Koszêcin                1851        5038
+Koszyce                 2034        5011
+Koœcian                 1639        5205
+Koœcielec               1834        5211
+Koœcierzyna             1758        5407
+Kotla                   1602        5145
+Kotlin                  1739        5155
+Kotuñ                   2204        5211
+Kowal                   1909        5232
+Kowala                  2104        5119
+Kowale Oleckie          2226        5410
+Kowalewo                1854        5310
+Kowalewo Pomorskie      1854        5310
+Kowary                  1549        5048
+Kowel                   2441        5114
+Kowiesy                 2026        5153
+Kozieg³owy              1910        5036
+Kozielice               1448        5306
+Kozienice               2133        5135
+Koz³owo                 2018        5319
+Koz³ów                  2001        5029
+Kozy                    1909        4951
+KoŸmin                  1727        5149
+KoŸminek                1821        5148
+Ko¿uchow                1536        5145
+Kórnik                  1705        5215
+Krajenka                1659        5323
+Kraków                  1957        5003
+Kramsk                  1826        5216
+Krapkowice              1758        5028
+Krasiczyn               2240        4947
+Krasne (rzeszowskie)    2206        5003
+Krasne (ciechanowskie)  2059        5255
+Krasnobród              2314        5033
+Krasnopol               2312        5407
+Krasnosielc             2109        5302
+Krasnystaw              2311        5059
+Krasocin                2007        5054
+Kraszewice              1815        5130
+Kraœniczyn              2322        5056
+Kraœnik                 2214        5055
+Krempna                 2131        4931
+Krobia                  1659        5147
+Kroczyce                1935        5034
+Krokowa                 1810        5446
+Krosno                  2146        4942
+Krosno Odrzañskie       1506        5202
+Kroœcienko nad Dunajcem   2025        4926
+Kroœnice                1722        5128
+Kroœniewice             1910        5216
+Krotoszyce              1603        5109
+Krotoszyn               1726        5141
+Kruklanki               2156        5405
+Kruszwica               1819        5241
+Kruszyna                1917        5058
+Krynica                 2058        4926
+Krynice                 2323        5035
+Krynki                  2347        5316
+Krypno                  2253        5317
+Krzanowice              1808        5001
+Krzczonów               2242        5101
+Krzemieniec             2545        5007
+Krzemieniewo            1651        5151
+Krzepice                1844        5058
+Krzeszowice             1938        5008
+Krzeszów                2221        5025
+Krzeszyce               1500        5235
+Krzêcin                 1529        5305
+Krzykosy                1722        5207
+Krzymów                 1827        5212
+Krzynow³oga Ma³a        2047        5309
+Krzywcza                2233        4948
+Krzywda                 2212        5148
+Krzywiñ                 1649        5158
+Krzy¿                   1600        5253
+Krzy¿anowice            1817        4959
+Krzy¿anów               1928        5211
+Ksi¹¿ Wielki            2008        5027
+Ksi¹¿ Wielkopolski      1714        5203
+Ksi¹¿ki                 1904        5320
+Ksiê¿pol                2244        5025
+Kuczbork-Osada          2002        5305
+Kudowa-Zdrój            1615        5027
+Kulesze Koœcielne       2231        5301
+Kunice                  1615        5114
+Kunów                   2117        5058
+Kurów                   2212        5124
+Kury³ówka               2129        5018
+Kurzêtnik               1934        5324
+Kuœlin                  1619        5222
+Kutno                   1922        5214
+KuŸnia Raciborska       1820        5012
+KuŸnica                 2339        5331
+Kwidzyn                 1856        5344
+Kwilcz                  1605        5233
+Lanckorona              1934        4951
+Laskowa                 2027        4946
+Lasowice Wielkie        1814        5053
+Laszki                  2254        5002
+Latowicz                2149        5202
+L¹dek                   1757        5212
+L¹dek-Zdrój             1652        5021
+Legionowo               2056        5225
+Legnica                 1610        5113
+Legnickie Pole          1615        5109
+Lelis                   2134        5311
+Lelkowo                 2014        5419
+Lelów                   1937        5041
+Leoncin                 2032        5224
+Lesko                   2220        4928
+Leszczyny               1839        5008
+Leszno                  1634        5151
+Leszno (warszawskie)    2036        5216
+Lesznowola              2056        5205
+Leœna                   1516        5101
+Leœna Podlaska          2301        5208
+Leœnica                 1812        5026
+Leœniowice              2329        5059
+Lewin Brzeski           1737        5045
+Le¿ajsk                 2226        5016
+Lêbork                  1745        5433
+Lgota Wielka            1919        5109
+Libi¹¿                  1919        5007
+Lichnowy                1855        5407
+Lida                    2518        5353
+Lidzbark                1949        5316
+Lidzbark Warmiñski      2035        5407
+Limanowa                2025        4943
+Linia                   1756        5428
+Liniewo                 1814        5404
+Lipce Reymontowskie     1956        5154
+Lipiany                 1452        5300
+Lipie                   1848        5101
+Lipinki                 2118        4940
+Lipinki £u¿yckie        1500        5138
+Lipka                   1715        5330
+Lipno                   1910        5251
+Lipnica                 1724        5359
+Lipnica Murowana        2031        4951
+Lipnik                  2130        5044
+Lipno (leszczyñskie)    1634        5155
+Lipno (w³oc³awskie)     1911        5251
+Lipowa                  1905        4941
+Lipowiec Koœcielny      2010        5306
+Lipsk                   2324        5344
+Lipsko                  2140        5109
+Lipusz                  1748        5406
+Lisewo                  1841        5318
+Lisia Góra              2101        5005
+Lisków                  1824        5149
+Liszki                  1946        5003
+Liw                     2157        5223
+Lniano                  1813        5332
+Lubaczów                2308        5009
+Lubanie                 1856        5245
+Lubañ                   1518        5107
+Lubartów                2237        5127
+Lubasz                  1631        5251
+Lubawa                  1945        5330
+Lubawka                 1600        5042
+Lubenia                 2156        4956
+Lubichowo               1823        5352
+Lubicz                  1846        5303
+Lubieñ                  1958        4943
+Lubieñ Kujawski         1910        5224
+Lubiewo                 1802        5328
+Lubin                   1612        5124
+Lubiszyn                1456        5246
+Lublin                  2234        5114
+Lubliniec               1841        5040
+Lubniewice              1515        5231
+Lubochnia               2003        5137
+Lubomia                 1819        5003
+Lubomierz               1531        5101
+Lubomino                2015        5404
+Luboml                  2401        5114
+Luboñ                   1653        5221
+Lubowidz                1951        5307
+Lubraniec               1850        5233
+Lubrza (opolskie)       1738        5020
+Lubrza (zielonogórskie)  1458        5147
+Lubsko                  1458        5147
+Lubsza                  1731        5055
+Lubycza Królewska       2331        5020
+Ludwin                  2255        5121
+Lutocin                 1946        5259
+Lutomiersk              1913        5145
+Lutowiska               2242        4916
+Lututów                 1826        5122
+Luzino                  1807        5434
+Lwów                    2400        4950
+Lwówek                  1611        5227
+Lwówek Œl¹ski           1535        5107
+Lyski                   1823        5007
+£abiszyn                1755        5257
+£abowa                  2051        4932
+£abunie                 2322        5039
+£adzice                 1921        5105
+£agiewniki              1651        5048
+£agów (kieleckie)       2105        5047
+£agów (zielonogórskie)  1518        5220
+£ambinowice             1733        5032
+£aniêta                 1917        5222
+£añcut                  2214        5004
+£apanów                 2017        4952
+£apsze Ni¿ne            2014        4924
+£apy                    2253        5259
+£asin                   1905        5331
+£ask                    1908        5136
+£askarzew               2137        5148
+£aszczów                2343        5032
+£aziska                 2153        5109
+£azy                    1924        5026
+£¹ck                    1937        5028
+£¹cko                   2026        4934
+£eba                    1733        5447
+£êczna                  2253        5118
+£êczyca                 1912        5203
+£êczyce                 1752        5436
+£êka Opatowska          1806        5113
+£êki Szlacheckie        1948        5111
+£êknica                 1444        5133
+£obez                   1537        5338
+£ob¿enica               1715        5316
+£ochów                  2142        5232
+£odygowice              1909        4943
+£omazy                  2311        5154
+£omianki                2053        5220
+£om¿a                   2204        5311
+£oniów                  2132        5034
+£opiennik Górny         2302        5103
+£opuszno                2015        5057
+£osice                  2243        5213
+£ososina Dolna          2036        4944
+£owicz                  1956        5206
+£ódŸ                    1928        5147
+£ubianka                1828        5308
+£ubniany                1800        5047
+£ubnice (tarnobrzeskie)   2109        5025
+£ubnice (kaliskie)      1817        5110
+£ubowo                  1728        5231
+£uck                    2520        5044
+£ukowa                  2257        5023
+£ukowica                2029        4937
+£uków                   2223        5156
+£ukta                   2005        5348
+£u¿na                   2102        4943
+£yse                    2134        5322
+£ysomice                1836        5306
+£yszkowice              1954        5159
+Maciejowice             2134        5142
+Magnuszew               2124        5146
+Majdan Królewski        2145        5023
+Maków                   2003        5157
+Maków Mazowiecki        2106        5252
+Maków Podhalañski       1939        4944
+Malanów                 1824        5157
+Malbork                 1902        5402
+Malczyce                1629        5113
+Malechowo               1630        5418
+Ma³a Wieœ               2006        5228
+Ma³dyty                 1944        5355
+Ma³kinia Górna          2202        5242
+Ma³ogoszcz              2016        5049
+Ma³omice                1527        5133
+Ma³y P³ock              2202        5318
+Manowo                  1618        5407
+Marcinowice             1635        5053
+Marciszów               1602        5051
+Margonin                1705        5258
+Marianowo               1516        5323
+Marki                   2106        5220
+Markowa                 2220        5002
+Markusy                 1922        5403
+Markuszów               2216        5123
+Mas³owice               1947        5107
+Mas³ów                  2043        5054
+Maszewo (szczeciñskie)  1503        5330
+Maszewo (zielonogórskie)  1454        5204
+Medyka                  2257        4948
+Me³giew                 2247        5114
+Mêcinka                 1606        5104
+Mêdrzechów              2057        5017
+Miastko                 1658        5400
+Miastkowo               2150        5309
+Miastków Koœcielny      2150        5153
+Mi¹czyn                 2331        5044
+Micha³owice (krakowskie)  1959        5010
+Micha³owice (warszaw.)  2053        5209
+Micha³owo               2337        5302
+Micha³ów                2023        5030
+Michów                  2219        5131
+Miechów                 2002        5021
+Miedziana Góra          2033        5056
+Miedzichowo             1557        5223
+Miedzna                 2206        5228
+MiedŸna                 1904        4959
+MiedŸno                 1859        5058
+Miejsce Piastowe        2148        4938
+Miejska Górka           1658        5139
+Mielec                  2126        5017
+Mieleszyn               1730        5240
+Mielnik                 2303        5220
+Mielno                  1604        5416
+Mieroszów               1611        5040
+Mierzêcice              1908        5027
+Mieszkowice             1429        5247
+Mieœcisko               1720        5245
+Mietków                 1639        5059
+Miêdzybórz              1740        5123
+Miêdzychód              1553        5236
+Miêdzylesie             1641        5009
+Miêdzyrzecz             1534        5231
+Miêdzyrzecz Podlaski    2248        5159
+Miêdzyzdroje            1426        5356
+Miêkinia                1644        5112
+Miko³ajki               2135        5348
+Miko³ajki Pomorskie     1910        5351
+Miko³ów                 1854        5010
+Mikstat                 1758        5132
+Milanów                 2254        5142
+Milanówek               2039        5207
+Milejczyce              2308        5232
+Milejowo                1932        5413
+Milejów                 2256        5113
+Milicz                  1717        5132
+Milówka                 1905        4934
+Mi³akowo                2005        5401
+Mi³ki                   2153        5357
+Mi³kowice               1604        5116
+Mi³om³yn                1950        5346
+Mi³oradz                1855        5401
+Mi³os³aw                1730        5213
+Miñsk Mazowiecki        2133        5211
+Mircze                  2354        5039
+Miros³awiec             1605        5320
+Mirów                   2103        5111
+Mirsk                   1523        5058
+Mirzec                  2103        5108
+M³awa                   2023        5307
+M³odzieszyn             2012        5218
+M³ynary                 1943        5411
+Mniów                   2029        5101
+Mniszków                2002        5122
+Mochowo                 1933        5246
+Modliborzyce            2220        5045
+Mogielnica              2043        5142
+Mogilany                1953        4956
+Mogilno                 1757        5239
+Mokobody                2207        5216
+Mokrsko                 1829        5111
+Mo³odeczna              2649        5419
+Moñki                   2248        5325
+Morawica                2037        5045
+Mor¹g                   1956        5355
+Mordy                   2231        5213
+Moryñ                   1422        5251
+Morzeszczyn             1841        5351
+Mosina                  1650        5214
+Moskorzew               1956        5039
+Moszczenica (nowos¹d.)  2106        4944
+Moszczenica (piotrkow.)  1942        5130
+Mr¹gowo                 2118        5352
+Mrocza                  1736        5315
+Mrozy                   2149        5210
+Mstów                   1917        5049
+Mszana                  1832        4958
+Mszana Dolna            2004        4941
+Mszczonów               2031        5159
+Mœciwojów               1617        5103
+Mucharz                 1933        4949
+Murowana Goœlina        1700        5234
+Murów                   1757        5052
+Muszyna                 2055        4921
+Mycielin                1815        5156
+Mykanów                 1911        5056
+Mys³akowice             1547        5051
+Mys³owice               1908        5014
+Myszków                 1920        5035
+Myszyniec               2121        5323
+Myœlenice               1957        4950
+Myœlibórz               1451        5255
+Nadarzyn                2048        5206
+Nag³owice-Oksa          2006        5040
+Nak³o nad Noteci¹       1735        5309
+Na³êczów                2213        5117
+Namys³ów                1743        5104
+Narew                   2332        5255
+Narewka                 2345        5251
+Narol                   2320        5021
+Naruszewo               2021        5232
+Nasielsk                2048        5236
+Nawojowa                2045        4934
+Nekla                   1725        5222
+Nêdza                   1819        5010
+Nidzica                 2025        5321
+Nieborów                2004        5204
+Niebylec                2154        4952
+Niechanowo              1741        5228
+Niechlów                1622        5142
+Niedrzwica Du¿a         2223        5107
+NiedŸwiada              2242        5133
+NiedŸwiedŸ              2005        4938
+Niegos³awice            1543        5135
+Niegowa                 1929        5038
+Nielisz                 2303        5048
+Niemce                  2238        5121
+Niemcza                 1650        5043
+Niemodlin               1737        5038
+Niepo³omice             2013        5002
+Nieporêt                2102        5225
+Nieszawa                1854        5250
+Nieszczyce              1624        5133
+Nisko                   2208        5031
+Niwiska                 2138        5013
+Nowa BrzeŸnica          1911        5105
+Nowa Dêba               2146        5026
+Nowa Karczma            1812        5408
+Nowa Ruda               1631        5035
+Nowa Sarzyna            2221        5020
+Nowa S³upia             2105        5052
+Nowa Sól                1543        5148
+Nowa Sucha              2011        5209
+Nowa Wieœ Lêborska      1745        5433
+Nowa Wieœ Wielka        1706        5258
+Nowe                    1843        5338
+Nowe Brzesko            2022        5008
+Nowe Miasteczko         1544        5142
+Nowe Miasto             2038        5239
+Nowe Miasto Lubawskie   1935        5326
+Nowe Miasto nad Pilic¹  2034        5137
+Nowe Miasto nad Wart¹   1725        5205
+Nowe Ostrowy            1912        5218
+Nowe Piekuty            2243        5253
+Nowe Skalmierzyce       1800        5143
+Nowe Warpno             1417        5343
+Nowinka                 2258        5355
+Nowodwór                2205        5139
+Nowogard                1508        5340
+Nowogrodziec            1523        5112
+Nowogród                2154        5314
+Nowogród Bobrzañski     1615        5148
+Nowogród Pomorski       1501        5254
+Nowogródek              2550        5336
+Nowosolna               1935        5148
+Nowy Duninów            1928        5235
+Nowy Dwór               2333        5338
+Nowy Dwór Gdañski       1906        5413
+Nowy Dwór Mazowiecki    2043        5226
+Nowy Kawêczyn           2015        5153
+Nowy Korczyn            2049        5019
+Nowy S¹cz               2042        4937
+Nowy Staw               1900        5403
+Nowy Targ               2002        4929
+Nowy Tomyœl             1608        5219
+Nowy Wiœnicz            2027        4955
+Nowy ¯migród            2132        4937
+Nozdrzec                2213        4947
+Nur                     2219        5241
+Nurzec-Stacja           2305        5228
+Nysa                    1720        5028
+Oborniki                1649        5238
+Oborniki Œl¹skie        1655        5118
+Obrazów                 2139        5041
+Obrowo                  1853        5158
+Obryte                  2115        5243
+Obrzycko                1631        5242
+Obsza                   2258        5019
+Ochotnica Dolna         2019        4932
+Odolanów                1740        5134
+Odrzywó³                2033        5131
+Ogrodzieniec            1931        5027
+Ojrzeñ                  2033        5247
+Okonek                  1651        5332
+Olecko                  2230        5402
+Olesno (czêstochowskie)  1825        5053
+Olesno (tarnowskie)     2056        5013
+Oleszyce                2302        5010
+Oleœnica (kieleckie)    2104        5028
+Oleœnica (wroc³awskie)  1723        5112
+Olkusz                  1904        5017
+Olszanica               2227        4929
+Olszanka (bialskopodl.)  2240        5209
+Olszanka (opolskie)     1729        5048
+Olszewo-Borki           2131        5304
+Olszówka                1852        5211
+Olsztyn                 2030        5347
+Olsztyn (czêstochowskie)  1916        5045
+Olsztynek               2017        5335
+Olszyna                 1522        5104
+O³awa                   1718        5057
+Opalenica               1624        5219
+Opatowiec               2043        5015
+Opatów (czêstochowskie)  1848        5058
+Opatów (tarnobrzeskie)  2125        5049
+Opatówek                1813        5144
+Opinogóra Górna         2043        5255
+Opoczno                 2017        5123
+Opole                   1756        5040
+Opole Lubelskie         2159        5109
+Oporów                  1934        5216
+Orchowo                 1801        5230
+Orla                    2320        5242
+Or³y                    2248        4953
+Orneta                  2008        5407
+Oroñsko                 2059        5119
+Orzesze                 1845        5009
+Orzysz                  2157        5348
+Osie                    1821        5336
+Osieck                  2126        5158
+Osieczna                1812        5347
+Osiecznica              1525        5120
+Osiek (bielskie)        1905        4957
+Osiek (gdañskie)        1829        5343
+Osiek (tarnobrzeskie)   2126        5031
+Osiek (toruñskie)       1923        5310
+Osiek Jasielski         2129        4938
+Osiek Ma³y              1836        5216
+Osielsko                1804        5311
+Osiêciny                1843        5238
+Osina                   1501        5336
+Osjaków                 1848        5118
+Ostaszewo               1857        5413
+Ostro³êka               2135        5305
+Ostroróg                1626        5238
+Ostrowice               1558        5338
+Ostrowiec Œwiêtokrzyski  2123        5051
+Ostrowite               1803        5223
+Ostróda                 1958        5342
+Ostróg                  2631        5020
+Ostrów                  2136        5006
+Ostrów Lubelski         2252        5130
+Ostrów Mazowiecka       2153        5248
+Ostrów Wielkopolski     1749        5138
+Ostrówek (lubelskie)    2237        5135
+Ostrówek (sieradzkie)   1837        5121
+Ostrzeszów              1756        5125
+Oszmina                 2556        5425
+Oœno                    1452        5227
+Oœno Lubuskie           1452        5227
+Oœwiêcim                1908        5002
+Otmuchów                1710        5028
+Otwock                  2115        5207
+Otyñ                    1543        5151
+Ozimek                  1813        5041
+Ozorków                 1917        5158
+O¿arów                  2140        5053
+O¿arów Mazowiecki       2048        5213
+Pabianice               1922        5140
+Pacanów                 2102        5024
+Pacyna                  1943        5218
+Paczków                 1701        5028
+Padew Narodowa          2131        5026
+Pajêczno                1900        5109
+Pakos³aw                1704        5137
+Pakos³awice             1722        5032
+Pakoœæ                  1805        5248
+Panki                   1845        5053
+Papowo Biskupie         1834        5315
+Paprotnia               2228        5218
+Parady¿                 2006        5119
+Parchowo                1741        5413
+Parczew                 2255        5138
+Parysów                 2142        5158
+Parzêczew               1912        5157
+Pas³êk                  1940        5404
+Pasym                   2047        5339
+Paszowice               1611        5102
+Paw³osiów               2240        5000
+Paw³owice               1843        4958
+Paw³owiczki             1803        5015
+Paw³ów                  2107        5058
+Pawonków                1835        5042
+P¹tnów                  1838        5108
+Pcim                    1958        4945
+Pelplin                 1842        5356
+Pe³czyce                1518        5302
+Perlejewo               2234        5234
+Perzów                  1749        5116
+Pêc³aw                  1614        5138
+Pêczniew                1844        5149
+Pêpowo                  1707        5146
+Piaseczno               2102        5204
+Piaski (leszczyñskie)   1704        5153
+Piaski (lubelskie)      2251        5108
+Piastów                 2051        5211
+Pi¹tek                  1928        5204
+Pi¹tnica                2205        5311
+Piechowice              1535        5051
+Piecki                  2120        5345
+Piekary Œl¹skie         1857        5023
+Piekoszów               2027        5053
+Pielgrzymka             1549        5107
+Pieniê¿no               2008        5414
+Pieñsk                  1502        5115
+Pierzchnica             2044        5042
+Pieszyce                1635        5043
+Pietrowice Wielkie      1905        5005
+Pilawa                  2132        5157
+Pilchowice              1834        5013
+Pilica                  1939        5029
+Pilzno                  2117        4959
+Pi³a                    1645        5310
+Pi³awa Górna            1644        5041
+Piñczów                 2032        5032
+Piñsk                   2604        5207
+Pionki                  2127        5129
+Piotrków Trybunalski    1941        5124
+Piotrków Kujawski       1830        5233
+Pisz                    2148        5338
+Piszczac                2323        5159
+Piwniczna               2042        4926
+Platerów                2249        5218
+Platerówka              1511        5104
+Pleszew                 1747        5153
+Pleœna                  2056        4956
+P³aska                  2316        5354
+P³ock                   1942        5233
+P³oniawy-Bramura        2104        5259
+P³oñsk                  2023        5238
+P³oskinia               1956        5416
+P³oœnica                2001        5316
+P³oty                   1516        5348
+P³u¿nica                1847        5318
+Pniewy (poznañskie)     1616        5231
+Pniewy (radomskie)      2044        5155
+Pobiedziska             1717        5228
+Poczesna                1909        5043
+Poddêbice               1857        5153
+Podedwórze              2313        5141
+Podegrodzie             2036        4935
+Podgórzyn               1541        5050
+Podkowa Leœna           2043        5207
+Pogorzela               1714        5148
+Pokój                   1730        5054
+Pokrzywnica             2101        5238
+Polanica-Zdrój          1631        5024
+Polanów                 1641        5407
+Police                  1433        5333
+Policzna                2138        5127
+Polkowice               1604        5136
+Polska Cerekiew         1809        5014
+Po³ajewo                1643        5247
+Po³aniec                2117        5026
+Po³czyn-Zdrój           1606        5345
+Pomiechówek             2044        5228
+Poniatowa               2205        5112
+Poniec                  1648        5146
+Popielów                1744        5049
+Popów                   1857        5102
+Poraj                   1913        5041
+Por¹bka                 1913        4949
+Postomino               1642        5430
+Poœwiêtne (bia³ostockie)  2250        5255
+Poœwiêtne (piotrkowskie)  2022        5132
+Poœwiêtne (siedleckie)  2125        5220
+Potêgowo                1729        5429
+Potok Górny             2232        5023
+Potok Wielki            2214        5047
+Potworów                2043        5131
+Pozezdrze               2152        5408
+Poznañ                  1655        5225
+Prabuty                 1912        5346
+Praszka                 1827        5103
+Pra¿mów                 2059        5157
+Prochowice              1623        5117
+Promna                  2058        5141
+Prostki                 2226        5342
+Proszowice              2017        5012
+Prószków                1753        5035
+Pruchnik                2232        4954
+Prudnik                 1736        5019
+Prusice                 1652        5122
+Pruszcz                 1812        5320
+Pruszcz Gdañski         1838        5416
+Pruszków                2048        5210
+Przasnysz               2053        5301
+Przechlewo              1715        5348
+Przeciszów              2022        5000
+Przec³aw                2129        5012
+Przedbórz               1952        5106
+Przedecz                1854        5220
+Przelewice              1505        5306
+Przemêt                 1618        5201
+Przemków                1547        5132
+Przemyœl                2247        4948
+Przeroœl                2239        5415
+Przesmyki               2235        5217
+Przeworno               1711        5041
+Przeworsk               2229        5003
+Przewóz                 1458        5128
+Przodkowo               1817        5423
+Przybiernów             1446        5345
+Przygodzice             1750        5135
+Przykona                1837        5158
+Przy³êk                 2145        5119
+Przyrów                 1931        5048
+Przystajñ               1841        5053
+Przysucha               2038        5122
+Przytoczna              1540        5235
+Przytu³y                2219        5322
+Przytyk                 2055        5128
+Przywidz                1819        5412
+Psary                   1908        5023
+Pszczew                 1546        5228
+Pszczó³ki               1841        5411
+Pszczyna                1857        4959
+Puchaczów               2259        5118
+Puck                    1824        5444
+Pu³awy                  2158        5125
+Pu³tusk                 2105        5243
+Puñsk                   2311        5415
+Purda                   2042        5343
+Puszcza Mariañska       2021        5159
+Puszczykowo             1650        5217
+Pyrzyce                 1453        5308
+Pyskowice               1838        5024
+Pysznica                2208        5034
+Pyzdry                  1741        5210
+Raba Wy¿na              1953        4934
+Rabka                   1957        4937
+Rachanie                2333        5033
+Raci¹¿                  2007        5247
+Raci¹¿ek                1848        5251
+Racibórz                1814        5005
+Raciechowice            2008        4950
+Rac³awice-Pa³ecznica    2014        5020
+Raczki                  2247        5359
+Radecznica              2250        5046
+Radgoszcz               2107        5013
+Radków (czêstochowskie)  1959        5043
+Radków (wa³brzyskie)    1624        5030
+Rad³ów (czêstochowskie)  1832        5056
+Rad³ów (tarnowskie)     2051        5005
+Radom                   2110        5124
+Radomin                 1912        5305
+Radomsko                1927        5104
+Radomyœl                2157        5041
+Radomyœl Wielki         2117        5012
+Radoszyce               2016        5104
+Radowo Ma³e             1527        5340
+Radymno                 2250        4957
+Radwanice               1552        5134
+Radzanowo               1953        5235
+Radzanów                2005        5257
+Radziechowy-Wieprz      1910        4938
+Radziejowice            2033        5201
+Radziejów               1831        5238
+Radziemnice             2014        5015
+Radzi³ów                2225        5325
+Radziwi³³ówka           2302        5222
+Radzymin                2111        5225
+Radzyñ Che³miñski       1856        5323
+Radzyñ Podlaski         2238        5148
+Rajcza                  1906        4930
+Rajgród                 2242        5344
+Rakoniewice             1616        5209
+Raków                   2102        5041
+Rakszawa                2214        5012
+Rani¿ów                 2159        5016
+Raszków                 1744        5143
+Raszyn                  2055        5208
+Rataje                  1926        5226
+Rawa Mazowiecka         2016        5146
+Rawa Ruska              2337        5014
+Rawicz                  1652        5136
+R¹bino                  1556        5352
+Recz                    1533        5315
+Reda                    1820        5437
+Regimin                 2034        5257
+Rejowiec                2318        5106
+Rejowiec Fabryczny      2316        5107
+Reñska Wieœ             1809        5019
+Repki                   2224        5223
+Resko                   1524        5346
+Reszel                  2109        5403
+Rewal                   1500        5404
+Rêczno                  1951        5111
+Rêdziny                 1913        5052
+Rogowo (bydgoskie)      1739        5243
+Rogowo (w³oc³awskie)    1923        5258
+RogoŸno                 1659        5245
+Rogów                   1953        5149
+RogóŸno                 1856        5333
+Rohatyñ                 2437        4925
+Rojewo                  1817        5254
+Rokiciny                1947        5140
+Rokietnica (poznañskie)  1645        5231
+Rokietnica (przemyskie)  2239        4954
+Rokitno                 2318        5208
+Ropczyce                2137        5003
+Rossosz                 2309        5152
+Roœciszewo              1946        5254
+Rozdra¿ew               1731        5146
+Rozogi                  2122        5329
+Rozprza                 1938        5118
+RoŸwienica              2236        4957
+Równe                   2615        5037
+Ró¿an                   2124        5253
+Ruciane-Nida            2134        5339
+Ruda-Huta               2336        5114
+Ruda Maleniecka         2013        5119
+Ruda Œl¹ska             1852        5016
+Rudna                   1616        5131
+Rudnik (katowickie)     1812        5008
+Rudnik (tarnobrzeskie)  2216        5027
+Rudnik (zamojskie)      2259        5053
+Rudniki                 1836        5102
+Rudziniec               1825        5022
+Ruja                    1624        5111
+Rumia                   1824        5434
+Rusiec                  1859        5119
+Rusinów                 2035        5126
+Rutka-Tartak            2258        5419
+Rutki                   2226        5306
+Rybczewice              2251        5102
+Rybnik                  1833        5005
+Rybno                   1956        5323
+Rychliki                1931        5359
+Rychtal                 1751        5109
+Rychwa³                 1810        5204
+Ryczywó³                1650        5248
+Rydzyna                 1640        5148
+Ryglice                 2108        4953
+Ryjewo                  1857        5351
+Ryki                    2157        5137
+Rymanów                 2153        4934
+Rymañ                   1532        5356
+Ryn                     2132        5356
+Rypin                   1924        5304
+Rytwiany                2112        5032
+Rz¹œnia                 1903        5114
+Rz¹œnik                 2121        5243
+Rzeczenica              1706        5346
+Rzeczniów               2127        5108
+Rzeczyca                2018        5136
+Rzekuñ                  2138        5303
+Rzepiennik Strzy¿ewski  2102        4948
+Rzepin                  1449        5221
+Rzeszów                 2201        5003
+Rzewnie                 2121        5251
+Rzezawa                 2031        5000
+Rzgów (koniñskie)       1803        5209
+Rzgów (³ódzkie)         1930        5140
+Sabnie                  2218        5230
+Sadki                   1727        5310
+Sadkowice               2031        5144
+Sadlinki                1853        5340
+Sadowie                 2123        5051
+Sadowne                 2151        5238
+Sambor                  2311        4932
+Samborzec               2139        5039
+Sandomierz              2145        5041
+Sanniki                 1952        5220
+Sanok                   2213        4933
+Santok                  1524        5244
+Sarnaki                 2253        5219
+Sarny                   2636        5121
+Sawin                   2327        5116
+Secemin                 1950        5046
+Sejny                   2321        5406
+Serniki                 2240        5126
+Serock                  2104        5231
+Serokomla               2219        5142
+Sêdziejowice            1902        5131
+Sêdziszów               2004        5035
+Sêdziszów Ma³opolski    2142        5004
+Sêkowa                  2112        4937
+Sêpopol                 2101        5416
+Sêpólno Krajeñskie      1732        5327
+Sianów                  1618        5413
+Sicienko                1747        5313
+Sidra                   2327        5333
+Sieciechów              2145        5133
+Siedlce                 2217        5211
+Siedlec                 1600        5203
+Siedlisko               1548        5146
+Siedliszcze             2310        5112
+Siekierczyn             1512        5108
+Siemianowice Œl¹skie    1902        5018
+Siemiatycze             2252        5226
+Siemi¹tkowo Koziebródz.  2001        5253
+Siemieñ                 2236        5138
+Siemkowice              1854        5112
+Siemyœl                 1532        5402
+Sieniawa                2237        5011
+Siennica                2137        5206
+Siennica Ró¿ana         2320        5100
+Sienno                  2129        5106
+Siepraw                 1958        4955
+Sieradz                 1844        5136
+Sierakowice             1753        5422
+Sieraków                1605        5239
+Sieroszewice            1759        5138
+Sierpc                  1940        5252
+Siewierz                1914        5028
+Silnowo                 1629        5337
+Sitkówka-Nowiny         2034        5049
+Sitno                   2323        5045
+Skalbmierz              2024        5020
+Ska³a                   1951        5014
+Skarszewy               1827        5405
+Skaryszew               2115        5119
+Skar¿ysko-Kamienna      2051        5107
+Skawina                 1949        4959
+Sk¹pe                   1527        5209
+Skêpe                   1921        5252
+Skierbieszów            2322        5051
+Skierniewice            2008        5158
+Skoczów                 1843        4948
+Skoki                   1709        5240
+Sko³yszyn               2121        4945
+Skomlin                 1823        5110
+Skoroszyce              1722        5035
+Skórcz                  1832        5348
+Skórzec                 2208        5207
+Skrwilno                1937        5301
+Skrzeszew               2053        5228
+Skrzyszów               2106        4959
+Skulsk                  1820        5229
+Skwierzyna              1529        5236
+S³aboszów               2017        5023
+S³awa                   1604        5153
+S³awatycze              2334        5146
+S³awków                 1920        5017
+S³awno (piotrkowskie)   2009        5123
+S³awno (s³upskie)       1639        5422
+S³awoborze              1542        5353
+S³omniki                2005        5015
+S³onim                  2519        5306
+S³oñsk                  1448        5234
+S³ubice (gorzowskie)    1434        5221
+S³ubice (p³ockie)       1956        5223
+S³upca                  1753        5217
+S³upia (kieleckie)      1958        5036
+S³upia (skierniewickie)  1958        5151
+S³upsk                  1702        5428
+Smêtowo Graniczne       1841        5346
+Smo³dzino               1713        5440
+Sobienie-Jeziory        2119        5156
+Sobków                  2027        5042
+Sobolew                 2141        5144
+Sobótka                 1645        5054
+Sochaczew               2013        5214
+Sochocin                2028        5242
+Sokolniki               1821        5118
+Soko³ów Ma³opolski      2207        5014
+Soko³ów Podlaski        2216        5224
+Soko³y                  2242        5259
+Sokó³ka                 2330        5324
+Solec Kujawski          1814        5305
+Solec nad Wis³¹         2147        5108
+Solec-Zdrój             2053        5022
+Solina                  2227        4924
+Somianka                2117        5233
+Somonino                1812        5417
+Sompolno                1830        5223
+Soñsk                   2043        5247
+Sopot                   1833        5426
+Sorkwity                2109        5351
+Sosnowica               2305        5131
+Sosnowiec               1908        5017
+Sosnówka                2320        5146
+Soœnicowice             1832        5016
+Soœnie                  1737        5128
+Soœno                   1741        5324
+Spiczyn                 2246        5121
+Spytkowice              1930        5000
+Srokowo                 2131        5413
+Stalowa Wola            2205        5034
+Stanin                  2212        5153
+Stanis³awów (siedleckie)  2133        5218
+Stanis³awów             2443        4855
+Stara Bia³a             1938        5237
+Stara B³otnica          2059        5133
+Stara D¹browa           1508        5325
+Stara Kamienica         1534        5055
+Stara Kiszewa           1810        5359
+Stara Kornica           2257        5211
+Starachowice            2104        5102
+Stare Babice            2051        5215
+Stare Bogaczowice       1611        5052
+Stare Czarnowo          1446        5317
+Stare Juchy             2211        5356
+Stare Kurowo            1540        5252
+Stare Miasto            1813        5211
+Stare Pole              1912        5403
+Stargard Szczeciñski    1502        5320
+Starogard Gdañski       1832        5358
+StaroŸreby              1958        5238
+Stary Brus              2318        5129
+Stary Dzierzgoñ         1925        5351
+Stary Dzikowiec         2151        5016
+Staru Dzików            2256        5014
+Stary Lubotyñ           2156        5257
+Stary S¹cz              2038        4934
+Stary Targ              1910        5356
+Stary Zamoœæ            2311        5049
+Staszów                 2110        5034
+Stawiguda               2024        5339
+Stawiski                2210        5323
+Stawiszyn               1806        5155
+St¹porków               2033        5109
+Stegna                  1906        5420
+Stepnica                1437        5339
+Sterdyñ                 2217        5234
+Stêszew                 1641        5217
+Stê¿yca                 1757        5413
+Stoczek                 2154        5233
+Stoczek £ukowski        2158        5158
+Stolno                  1830        5319
+Stopnica                2056        5026
+Stoszowice              1638        5036
+Strachówka              2138        5225
+Strawczyn               2025        5057
+Stromiec                2106        5139
+Stronie Œl¹skie         1652        5018
+Strumieñ                1846        4955
+Stryj                   2351        4916
+Stryków                 1935        5154
+Stryszawa               1932        4943
+Stryszów                1937        4950
+Strza³kowo              1749        5219
+Strzegom                1621        5058
+Strzegowo-Osada         2017        5254
+Strzelce                1924        5219
+Strzelce Krajeñskie     1531        5253
+Strzelce Opolskie       1818        5031
+Strzelce Wielkie        1908        5108
+Strzeleczki             1751        5028
+Strzelin                1704        5047
+Strzelno                1810        5238
+Strzy¿ewice             2227        5103
+Strzy¿ów                2147        4952
+Stubno                  2258        4953
+Studzienice             1735        5406
+Stupsk                  2027        5301
+Subkowy                 1846        5401
+Sucha Beskidzka         1929        4944
+Suchañ                  1519        5317
+Suchedniów              2050        5103
+Suchowola               2306        5335
+Sucho¿ebry              2216        5216
+Suchy Las               1653        5228
+Sulechów                1537        5205
+Sulejów                 1952        5122
+Sulejówek               2116        5213
+Sulêcin                 1507        5227
+Sulêczyno               1746        5414
+Sulików                 1504        5104
+Sulmierzyce             1912        5111
+Su³kowice               1948        4952
+Su³oszowa               1944        5017
+Su³ów                   2258        5046
+Supraœl                 2320        5313
+Sura¿                   2257        5257
+Susiec                  2312        5025
+Susz                    1921        5343
+Suszec                  1848        5002
+Suwa³ki                 2256        5406
+Swarzêdz                1704        5224
+Syców                   1743        5118
+Sypniewo                2118        5301
+Szadek                  1859        5142
+Szamocin                1707        5302
+Szamotu³y               1634        5236
+Szastarka               2219        5052
+Szczaniec               1541        5216
+Szczawin Koœcielny      1937        5223
+Szczawnica              2028        4926
+Szczawno-Zdrój          1616        5049
+Szczebrzeszyn           2259        5042
+Szczecin                1434        5326
+Szczecinek              1641        5343
+Szczekociny             1948        5038
+Szczerców               1907        5120
+Szczucin                2104        5019
+Szczuczyn               2218        5334
+Szczurowa               5008        2038
+Szczutowo               1934        5256
+Szczyrk                 1902        4943
+Szczytna                1626        5025
+Szczytniki              1820        5141
+Szczytno                2059        5334
+Szelków                 2113        5250
+Szemud                  1814        5429
+Szepietowo              2233        5252
+Szerzyny                2114        4949
+Szklarska Porêba        1532        5050
+Szlichtyngowa           1615        5143
+Szprotawa               1532        5134
+Szreñsk                 2007        5301
+Sztabin                 2307        5341
+Sztum                   1902        5356
+Sztutowo                1910        5420
+Szubin                  1745        5301
+Szudzia³owo             2340        5317
+Szumowo                 2206        5256
+Szyd³owiec              2051        5114
+Szyd³owo                1636        5310
+Szyd³ów                 2100        5036
+Szypliszki              2304        5415
+Œcinawa                 1626        5125
+Œlesin                  1818        5222
+Œliwice                 1810        5343
+Œmigiel                 1632        5201
+Œniadowo                2159        5302
+Œrem                    1701        5205
+Œroda Œl¹ska            1635        5109
+Œroda Wielkopolska      1716        5214
+Œwi¹tki                 2015        5355
+Œwi¹tniki Górne         1958        4956
+Œwidnica (wa³brzyskie)  1629        5050
+Œwidnica (zielonogór.)  1525        5153
+Œwidnik                 2241        5112
+Œwidwin                 1547        5347
+Œwiebodzice             1620        5052
+Œwiebodzin              1532        5215
+Œwiecie                 1826        5325
+Œwiecie nad Os¹         1906        5327
+Œwiedziebnia            1933        5309
+Œwieradów-Zdrój         1521        5054
+Œwiercze                2046        5241
+Œwierczów               1746        5058
+Œwierklaniec            1856        5026
+Œwierklany              1836        5002
+Œwierzawa               1554        5101
+Œwierzno                1457        5357
+Œwieszyno               1610        5407
+Œwiêciechowa            1631        5152
+Œwiêta Katarzyna        1707        5102
+Œwiêtajno (olsztyñskie)  2113        5334
+Œwiêtajno (suwalskie)   2220        5400
+Œwiêtoch³owice          1855        5019
+Œwilcza                 2155        5005
+Œwinice Warckie         1856        5202
+Œwinna                  1915        4940
+Œwinoujœcie             1415        5355
+Tarczyn                 2050        5159
+Tar³ów                  2143        5100
+Tarnawatka              2324        5032
+Tarnobrzeg              2141        5035
+Tarnogród               2245        5021
+Tarnopol                2536        4934
+Tarnowiec               2136        4943
+Tarnowo Podgórne        1640        5228
+Tarnowskie Góry         1852        5027
+Tarnów                  2100        5002
+Tarnów Opolski          1805        5035
+Tarnówka                1650        5321
+Tatrzañska              1957        4918
+T¹pkowice               1902        5027
+Tczew                   1843        5406
+Tczów                   2127        5120
+Telatyn                 2350        5032
+Teresin                 2025        5212
+Terespol                2337        5205
+Tereszpol               2253        5034
+T³uchowo                1928        5245
+T³uszcz                 2127        5226
+Tokarnia                1953        4944
+Tolkmicko               1931        5419
+Tomaszów Lubelski       2325        5027
+Tomaszów Mazowiecki     2002        5132
+Tomice                  1929        4954
+Topólka                 1843        5231
+Toruñ                   1837        5302
+Torzym                  1504        5219
+Toszek                  1831        5028
+Trawniki                2301        5108
+Tr¹bki Wielkie          1832        5410
+Trojanów                2150        5142
+Troszyn                 2144        5302
+Tryñcza                 2233        5010
+Trzcianka               1628        5303
+Trzcianne               2241        5321
+Trzciel                 1552        5222
+Trzcinica               1801        5110
+Trzciñsko-Zdrój         1435        5258
+Trzebiatów              1515        5404
+Trzebiechów             1544        5202
+Trzebiel                1449        5138
+Trzebielino             1706        5412
+Trzebieszów             2233        5159
+Trzebinia               1928        5010
+Trzebnica               1704        5118
+Trzebownisko            2202        5005
+Trzemeszno              1749        5234
+Trzeszczany             2344        5049
+Trzyci¹¿                1946        5019
+Trzydnik Du¿y           2209        5051
+Tuchola                 1751        5336
+Tuchomie                1720        5407
+Tuchów                  2103        4954
+Tuczêpy                 2059        5031
+Tuczna                  2326        5153
+Tuczno                  1608        5311
+Tuliszków               1818        5204
+Tu³owice                2017        5222
+Tuplice                 1449        5140
+Turawa                  1805        5044
+Turek                   1830        5201
+Turobin                 2245        5049
+Turoœl                  2144        5323
+Turoœñ Koœcielna        2303        5301
+Tuszów Narodowy         2128        5022
+Tuszyn                  1932        5136
+Twardogóra              1728        5122
+Tworóg                  1843        5033
+Tychowo                 1615        5355
+Tychy                   1859        5008
+Tychy Paprocany         1900        5006
+Tyczyn                  2202        4958
+Tykocin                 2246        5312
+Tymbark                 2019        4944
+Tyrawa Wo³oska          2222        4934
+Tyszowice               2341        5037
+Uchanie                 2339        5055
+Udanin                  1627        5102
+Ujazd (opolskie)        1821        5024
+Ujazd (piotrkowskie)    1955        5136
+Ujso³y                  1909        4929
+Ujœcie                  1644        5304
+Ulan-Majorat            2229        5148
+Ulanów                  2217        5030
+Ulhówek                 2348        5027
+U³ê¿                    2207        5136
+Uniejów                 1848        5158
+Unis³aw                 1823        5313
+Urszulin                2312        5124
+Urzêdów                 2209        5100
+Ustka                   1651        5435
+Ustronie Morskie        1545        5413
+Ustroñ                  1849        4943
+Ustrzyki Dolne          2236        4926
+Uœcie Gorlickie         2108        4931
+Uœcimów                 2256        5128
+Wadowice                1930        4953
+Wadowice Górne          2118        5016
+Walce                   1800        5022
+Walim                   1627        5042
+Wa³brzych               1617        5047
+Wa³cz                   1627        5316
+Wapno                   1728        5254
+Warka                   2112        5147
+Warlubie                1838        5335
+Warnice                 1459        5315
+Warszawa                2102        5212
+Warta                   1838        5142
+Warta Boles³awiecka     1539        5114
+Wartkowice              1901        5158
+Wasilków                2312        5312
+Waœniów                 2013        5054
+W¹brzeŸno               1857        5317
+W¹chock                 2101        5105
+W¹dro¿e Wielkie         1620        5107
+W¹growiec               1712        5248
+W¹pielsk                1917        5308
+W¹sewo                  2141        5253
+W¹sosz                  1641        5134
+W¹wolnica               2209        5117
+Wejherowo               1815        5436
+Werbkowice              2346        5045
+Wêgierska Górka         1907        4937
+Wêgliniec               1513        5117
+Wêgorzewo               2145        5413
+Wêgorzyno               1533        5332
+Wêgrów                  2201        5224
+Wi¹zowna                2118        5211
+Wi¹zownica              2242        5005
+Wi¹zów                  1717        5049
+Wicko                   1737        5440
+Widawa                  1857        5126
+Widuchowa               1422        5307
+Wieczfnia Koœcielna     2029        5312
+Wielbark                2056        5324
+Wieleñ                  1610        5254
+Wielgie                 1916        5245
+Wielgom³yny             1946        5101
+Wielichowo              1621        5207
+Wieliczka               2003        4959
+Wieliczki               2234        5359
+Wielka Nieszawka        1829        5300
+Wielka Wieœ             1951        5010
+Wielke Oczy             2310        5001
+Wielopole Skrzyñskie    2137        4957
+Wielowieœ               1837        5031
+Wieluñ                  1834        5113
+Wieniawa                2048        5122
+Wieprz                  1922        4954
+Wieruszów               1810        5117
+Wierzbica (che³mskie)   2319        5116
+Wierzbica (radomskie)   2105        5115
+Wierzbinek              1831        5226
+Wierzbno                2151        5218
+Wierzchlas              1840        5112
+Wierzchos³awice         2052        5002
+Wierzchowo              1606        5327
+Wietrzychowice          2046        5012
+Wiêcbork                1729        5321
+Wijewo                  1611        5155
+Wilamowice              1909        4955
+Wilczêta                1953        5410
+Wilczyce                2140        5045
+Wilczyn                 1810        5229
+Wilejka                 2653        5430
+Wilga                   2123        5152
+Wilko³az                2221        5101
+Wilkowice               1906        4946
+Wilków (lubelskie)      2153        5116
+Wilków (opolskie)       1739        5106
+Wilno                   2519        5441
+Winnica                 2057        5239
+Wiñsko                  1637        5123
+Wiskitki                2023        5205
+Wis³a                   1852        4939
+Wisznia Ma³a            1703        5115
+Wisznice                2313        5148
+Wiœlica                 2041        5021
+Wiœniew                 2217        5205
+Wiœniewo                2021        5304
+Wiœniowa (krakowskie)   2006        4948
+Wiœniowa (rzeszowskie)  2139        4952
+Witkowo                 1747        5226
+Witnica                 1453        5241
+Witonia                 1918        5208
+Wizna                   2223        5313
+Wi¿ajny                 2252        5422
+Wleñ                    1541        5101
+W³adys³awowo            1824        5448
+W³adys³awów             1829        5206
+W³oc³awek               1903        5239
+W³odawa                 2333        5133
+W³odowice               1927        5033
+W³odzimierz Wo³yñski    2420        5051
+W³oszakowice            1622        5156
+W³oszczowa              1958        5051
+Wodynie                 2157        5202
+Wodzierady              1909        5143
+Wodzis³aw               2011        5031
+Wodzis³aw Œl¹ski        1828        5001
+Wohyñ                   2247        5146
+Wojaszówka              2141        4947
+Wojciechowice           2135        5051
+Wojciechów              2215        5114
+Wojcieszków             2219        5146
+Wojcieszów              1555        5058
+Wojnicz                 2050        4958
+Wojs³awice              2333        5055
+Wola Krzysztoporska     1935        5121
+Wola Mys³owska          2157        5151
+Wola Uhruska            2338        5119
+Wolanów                 2059        5123
+Wolbórz                 1950        5131
+Wolbrom                 1946        5023
+Wolin                   1431        5350
+Wolsztyn                1607        5207
+Wo³czyn                 1803        5101
+Wo³kowysk               2428        5310
+Wo³omin                 2114        5221
+Wo³ów                   1639        5121
+WoŸniki                 1904        5035
+Wólka                   2239        5116
+Wrêczyca Wielka         1855        5050
+Wroc³aw                 1702        5107
+Wronki                  1622        5243
+Wróblew                 1837        5136
+Wrzeœnia                1735        5220
+Wschowa                 1618        5148
+Wydminy                 2202        5359
+Wymiarki                1505        5131
+Wyryki                  2323        5133
+Wyrzysk                 1716        5309
+Wysoka                  1704        5311
+Wysokie                 2240        5045
+Wysokie Mazowieckie     2230        5255
+Wyszki                  2259        5251
+Wyszków                 2127        5236
+Wyszogród               2012        5223
+Wyœmierzyce             2048        5138
+Zabierzów               1948        5007
+Zab³udów                2321        5301
+Zabór                   1543        5157
+Zabrodzie               2126        5230
+Zabrze                  1847        5018
+Zadzim                  1851        5146
+Zagnañsk                2041        5058
+Zagórów                 1754        5210
+Zagórz                  2216        4931
+Zagrodno                1552        5112
+Zakliczyn               2049        4951
+Zaklików                2207        5046
+Zakopane                1957        4918
+Zakroczym               2037        5226
+Zakrzew (radomskie)     2100        5127
+Zakrzew (zamojskie)     2236        5054
+Zakrzewo (pilskie)      1708        5325
+Zakrzewo (w³oc³awskie)  1837        5245
+Zakrzówek               2222        5056
+Zalesie                 2323        5202
+Zaleszany               2154        5039
+Zalewo                  1936        5351
+Za³uski                 2031        5232
+Zambrów                 2215        5259
+Zamoœæ                  2316        5043
+Zaniemyœl               1710        5210
+Zapolice                1853        5132
+Zarêby Koœcielne        2208        5246
+Zarszyn                 4935        2201
+Zarzecze                2232        4959
+Zator                   1926        4959
+Zatory                  2111        5236
+Zawady                  2239        5309
+Zawadzkie               1829        5037
+Zawichost               2151        5049
+Zawidów                 1504        5101
+Zawidz                  1952        5249
+Zawiercie               1925        5030
+Zawoja                  1934        4940
+Zawonia                 1712        5119
+Z¹bki                   2107        5217
+Z¹bkowice Œl¹skie       1649        5035
+Zb¹szynek               1549        5215
+Zb¹szyñ                 1555        5215
+Zbiczno                 1923        5320
+Zblewo                  1820        5356
+Zbójna                  2147        5315
+Zbójno                  1909        5300
+Zbros³awice             1845        5025
+Zbuczyn Poduchowny      2206        5206
+Zduny (kaliskie)        1722        5138
+Zduny (skierniewickie)   1948        5209
+Zduñska Wola            1856        5136
+Zdzieszowice            1807        5025
+Zebrzydowice            1837        4953
+Zelów                   1913        5128
+Zembrzyce               1936        4946
+Zêbowice                1821        5046
+Zgierz                  1925        5152
+Zgorzelec               1501        5109
+Zielona Góra            1530        5156
+Zielonka                2109        5218
+Zielonki                1955        5007
+Ziêbice                 1703        5037
+Z³awieœ Wielka          1820        5306
+Z³ocieniec              1600        5332
+Z³oczew                 1837        5125
+Z³oczów                 2452        4947
+Z³ota                   2036        5023
+Z³otniki Kujawskie      1809        5254
+Z³otoryja               1555        5108
+Z³otów                  1702        5322
+Z³oty Stok              1652        5027
+Zwierzyn                1533        5249
+Zwierzyniec             2258        5037
+Zwoleñ                  2136        5122
+¯abia Wola              2041        5202
+¯abno                   2053        5007
+¯agañ                   1519        5137
+¯arki                   1922        5038
+¯arnowiec               1952        5029
+¯arnów                  2011        5115
+¯arów                   1630        5057
+¯ary                    1508        5138
+¯elechów                2154        5149
+¯egocina                2025        4948
+¯elazków                1811        5151
+¯elechlinek             2002        5143
+¯elechów                2154        5149
+¯erków                  1734        5204
+¯migród                 1654        5128
+¯mudŸ                   2340        5101
+¯nin                    1743        5251
+¯o³ynia                 2218        5010
+¯ory                    1842        5003
+¯ó³kiewka               2250        5054
+¯órawina                1703        5059
+¯ukowice                1559        5140
+¯ukowo                  1821        5421
+¯urawica                2247        4949
+¯uromin                 1954        5304
+¯ychlin                 1937        5215
+¯yraków                 2125        5006
+¯yrardów                2026        5203
+¯yrzyn                  2206        5130
+¯ytno                   1937        5056
+¯ywiec                  1912        4942

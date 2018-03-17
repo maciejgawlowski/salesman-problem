@@ -1,0 +1,5 @@
+city_name longitude latitude
+
+coordinates given in pattern: DDmm where:
+DD - degrees
+mm - minutes

@@ -1,0 +1,16 @@
+Bia³ystok               2310        5308
+Bydgoszcz               1800        5307
+Gdañsk                  1838        5422
+Gorzów Wielkopolski     1514        5244
+Katowice                1900        5015
+Kielce                  2037        5053
+Kraków                  1957        5003
+Lublin                  2234        5114
+£ódŸ                    1928        5147
+Olsztyn                 2030        5347
+Opole                   1756        5040
+Poznañ                  1655        5225
+Rzeszów                 2201        5003
+Szczecin                1434        5326
+Warszawa                2102        5212
+Wroc³aw                 1702        5107
