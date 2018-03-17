@@ -12,6 +12,7 @@ import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.*;
 import javafx.scene.layout.Pane;
+import lombok.Getter;
 import model.data.loader.CitiesDistancesLoader;
 import model.data.loader.CitiesLoader;
 import model.domain.City;
@@ -46,13 +47,11 @@ public class MainController implements Initializable, MapComponentInitializedLis
 
     private GoogleMapView mapView;
     private GoogleMap map;
-    private List<Polyline> basicAlgorithmPolylinesOnMap = new ArrayList<>();
-    private List<Polyline> optimizionAlgorithmPolylinesOnMap = new ArrayList<>();
-    private List<Marker> currentMarkersOnMap = new ArrayList<>();
+    private MapShapeDrawer mapShapeDrawer;
 
-    private NearestNeighbourCalc nearestNeighbourCalc = new NearestNeighbourCalc();
-    private RandomPathCalc randomPathCalc = new RandomPathCalc();
-    private TwoOptCalc twoOptCalc = new TwoOptCalc();
+    private NearestNeighbourCalc nearestNeighbourCalc;
+    private RandomPathCalc randomPathCalc;
+    private TwoOptCalc twoOptCalc;
 
     @Override
     public void mapInitialized() {
@@ -70,21 +69,12 @@ public class MainController implements Initializable, MapComponentInitializedLis
         mapView.setPrefSize(1000, 600);
         map = mapView.createMap(mapOptions);
 
-        addMarkersToMapForPoints(CitiesLoader.MAIN_CITIES);
-    }
+        mapShapeDrawer = new MapShapeDrawer(map);
+        mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.MAIN_CITIES);
 
-    private void addMarkersToMapForPoints(List<City> cities) {
-        map.removeMarkers(currentMarkersOnMap);
-        currentMarkersOnMap.clear();
-        for (City city : cities) {
-            MarkerOptions markerOptions = new MarkerOptions();
-            markerOptions.title(city.getName());
-            markerOptions.position(new LatLong(city.getLatitude(), city.getLongitude()));
-            markerOptions.icon(MarkerImageFactory.createMarkerImage("file:///D:/IdeaProjects/salesman-problem/src/main/resources/map_marker_icon.png", "png").replace("(", "").replace(")", ""));
-            Marker marker = new Marker(markerOptions);
-            currentMarkersOnMap.add(marker);
-            map.addMarker(marker);
-        }
+        nearestNeighbourCalc = new NearestNeighbourCalc(mapShapeDrawer);
+        randomPathCalc = new RandomPathCalc(mapShapeDrawer);
+        twoOptCalc = new TwoOptCalc(mapShapeDrawer);
     }
 
     @Override
@@ -94,9 +84,9 @@ public class MainController implements Initializable, MapComponentInitializedLis
         taLogs.setWrapText(true);
         cbData.valueProperty().addListener((observable, oldValue, newValue) -> {
             if (newValue.equals("Polish cities (16)"))
-                addMarkersToMapForPoints(CitiesLoader.MAIN_CITIES);
+                mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.MAIN_CITIES);
             else
-                addMarkersToMapForPoints(CitiesLoader.ALL_CITIES);
+                mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.ALL_CITIES);
         });
 
         OutputStream out = new OutputStream() {
@@ -110,10 +100,6 @@ public class MainController implements Initializable, MapComponentInitializedLis
         mapView = new GoogleMapView();
         mapView.addMapInializedListener(this);
         mapPane.getChildren().add(mapView);
-
-        this.nearestNeighbourCalc.setMainController(this);
-        this.randomPathCalc.setMainController(this);
-        this.twoOptCalc.setMainController(this);
     }
 
     private void removeTextIfNotDigit(String newValue) {
@@ -134,7 +120,7 @@ public class MainController implements Initializable, MapComponentInitializedLis
 
         List<City> points = isChosenData("Polish cities (16)") ? CitiesLoader.MAIN_CITIES : CitiesLoader.ALL_CITIES;
         List<PointsDistance> pointsDistances = isChosenData("Polish cities (16)") ? CitiesDistancesLoader.MAIN_CITIES_DISTANCES : CitiesDistancesLoader.ALL_CITIES_DISTANCES;
-        clearAllMapPolylines();
+        mapShapeDrawer.clearAllMapPolylines();
 
         for (int i = 1; i <= Integer.valueOf(tfIterations.getText()); i++) {
             long startTime = System.currentTimeMillis();
@@ -165,46 +151,14 @@ public class MainController implements Initializable, MapComponentInitializedLis
         return cbOptimization.getSelectionModel().selectedItemProperty().getValue().equals("2-opt");
     }
 
+    public void changeOptimizationAlgorithmSolutionVisibility(){
+        mapShapeDrawer.changeOptimizationAlgorithmSolutionVisibility(chboxOptimizationAlgorithm.isSelected());
+    }
+
+    public void changeBasicAlgorithmSolutionVisibility(){
+        mapShapeDrawer.changeBasicAlgorithmSolutionVisibility(chboxBasicAlgorithm.isSelected());
+    }
     private void appendText(String text) {
         Platform.runLater(() -> taLogs.appendText(text));
-    }
-
-    public void clearAllMapPolylines() {
-        basicAlgorithmPolylinesOnMap.forEach(polyline -> map.removeMapShape(polyline));
-        basicAlgorithmPolylinesOnMap.clear();
-        clearOptimizionAlgorithmPolylines();
-    }
-
-    public void clearOptimizionAlgorithmPolylines() {
-        optimizionAlgorithmPolylinesOnMap.forEach(polyline -> map.removeMapShape(polyline));
-        optimizionAlgorithmPolylinesOnMap.clear();
-    }
-
-    public void addLineToBasicAlgorithmPolylines(City startCity, City endCity) {
-        LatLong[] path = {new LatLong(startCity.getLatitude(), startCity.getLongitude()), new LatLong(endCity.getLatitude(), endCity.getLongitude())};
-        PolylineOptions polylineOptions = new PolylineOptions();
-        polylineOptions.path(new MVCArray(path));
-        polylineOptions.strokeWeight(1.5);
-        Polyline polyline = new Polyline(polylineOptions);
-        basicAlgorithmPolylinesOnMap.add(polyline);
-        map.addMapShape(polyline);
-    }
-
-    public void addLineToOptimizionAlgorithmPolylines(City startCity, City endCity) {
-        LatLong[] path = {new LatLong(startCity.getLatitude(), startCity.getLongitude()), new LatLong(endCity.getLatitude(), endCity.getLongitude())};
-        PolylineOptions polylineOptions = new PolylineOptions();
-        polylineOptions.path(new MVCArray(path));
-        polylineOptions.strokeColor("Red");
-        polylineOptions.strokeWeight(1.5);
-        Polyline polyline = new Polyline(polylineOptions);
-        optimizionAlgorithmPolylinesOnMap.add(polyline);
-        map.addMapShape(polyline);
-    }
-
-    public void changeOptimizationAlgorithmSolutionVisibility(){
-        optimizionAlgorithmPolylinesOnMap.forEach(polyline -> polyline.setVisible(chboxOptimizationAlgorithm.isSelected()));
-    }
-    public void changeBasicAlgorithmSolutionVisibility(){
-        basicAlgorithmPolylinesOnMap.forEach(polyline -> polyline.setVisible(chboxBasicAlgorithm.isSelected()));
     }
 }

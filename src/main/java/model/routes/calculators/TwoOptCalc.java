@@ -1,8 +1,7 @@
 package model.routes.calculators;
 
 import com.google.common.collect.Lists;
-import controller.MainController;
-import lombok.Setter;
+import controller.MapShapeDrawer;
 import model.domain.City;
 import model.domain.PointsDistance;
 import model.domain.TSPResult;
@@ -14,8 +13,11 @@ import java.util.List;
 import static model.routes.calculators.Predicates.findDistance;
 
 public class TwoOptCalc {
-    @Setter
-    private MainController mainController;
+    private MapShapeDrawer mapShapeDrawer;
+
+    public TwoOptCalc(MapShapeDrawer mapShapeDrawer) {
+        this.mapShapeDrawer = mapShapeDrawer;
+    }
 
     public TSPResult getPath(List<PointsDistance> pointsDistances, TSPResult currentResult) {
         int bestDistance = currentResult.getTotalDistance();
@@ -66,12 +68,12 @@ public class TwoOptCalc {
     }
 
     private void drawNewRoute(List<City> bestRoute) {
-        mainController.clearOptimizionAlgorithmPolylines();
+        mapShapeDrawer.clearOptimizionAlgorithmPolylines();
         Iterator<City> routeIterator = bestRoute.iterator();
         City currentCity = routeIterator.next();
         while (routeIterator.hasNext()) {
             City nextCity = routeIterator.next();
-            mainController.addLineToOptimizionAlgorithmPolylines(currentCity, nextCity);
+            mapShapeDrawer.addLineToOptimizionAlgorithmPolylines(currentCity, nextCity);
             currentCity = nextCity;
         }
     }

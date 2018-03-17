@@ -1,7 +1,6 @@
 package model.routes.calculators;
 
-import controller.MainController;
-import lombok.Setter;
+import controller.MapShapeDrawer;
 import model.domain.City;
 import model.domain.PointsDistance;
 import model.domain.TSPResult;
@@ -15,12 +14,14 @@ import java.util.stream.Collectors;
 import static model.routes.calculators.Predicates.findDistance;
 
 public class NearestNeighbourCalc {
-    @Setter
-    private MainController mainController;
+    private MapShapeDrawer mapShapeDrawer;
+
+    public NearestNeighbourCalc(MapShapeDrawer mapShapeDrawer) {
+        this.mapShapeDrawer = mapShapeDrawer;
+    }
 
     public TSPResult getPath(List<City> cities, List<PointsDistance> citiesDistances) {
         List<City> points = new ArrayList<>(cities);
-//        List<String> pointsOrder = new ArrayList<>();
         List<City> pointsOrder = new ArrayList<>();
         int totalDistance = 0;
         City startPoint = points.get((new Random()).nextInt(points.size()));
@@ -32,7 +33,7 @@ public class NearestNeighbourCalc {
             PointsDistance nearestNeighbour = getNearestNeighbourPointsDistance(citiesDistances, points, currentPoint);
             String nearestNeighbourPoint = nearestNeighbour.getPointA().equals(currentPoint.getName()) ? nearestNeighbour.getPointB() : nearestNeighbour.getPointA();
             pointsOrder.add(points.stream().filter(city -> city.getName().equals(nearestNeighbourPoint)).findAny().orElseThrow(NullPointerException::new));
-            mainController.addLineToBasicAlgorithmPolylines(currentPoint, points.stream().filter(point -> point.getName().equals(nearestNeighbourPoint)).findAny().get());
+            mapShapeDrawer.addLineToBasicAlgorithmPolylines(currentPoint, points.stream().filter(point -> point.getName().equals(nearestNeighbourPoint)).findAny().get());
             totalDistance += nearestNeighbour.getDistance();
 
             points.remove(currentPoint);
@@ -40,7 +41,7 @@ public class NearestNeighbourCalc {
         }
 
         totalDistance += citiesDistances.stream().filter(findDistance(points.get(0).getName(), startPoint.getName())).map(PointsDistance::getDistance).findAny().orElseThrow(NullPointerException::new);
-        mainController.addLineToBasicAlgorithmPolylines(currentPoint, startPoint);
+        mapShapeDrawer.addLineToBasicAlgorithmPolylines(currentPoint, startPoint);
         pointsOrder.add(startPoint);
 
         return TSPResult.builder().pointsOrder(pointsOrder).totalDistance(totalDistance).build();
