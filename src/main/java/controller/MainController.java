@@ -6,6 +6,7 @@ import com.lynden.gmapsfx.javascript.object.GoogleMap;
 import com.lynden.gmapsfx.javascript.object.LatLong;
 import com.lynden.gmapsfx.javascript.object.MapOptions;
 import com.lynden.gmapsfx.javascript.object.MapTypeIdEnum;
+import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
@@ -66,7 +67,7 @@ public class MainController implements Initializable, MapComponentInitializedLis
         mapShapeDrawer = new MapShapeDrawer(map);
         mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.MAIN_CITIES);
 
-        nearestNeighbourCalc = new NearestNeighbourCalc(mapShapeDrawer, taLogs);
+        nearestNeighbourCalc = new NearestNeighbourCalc(mapShapeDrawer, this);
         randomPathCalc = new RandomPathCalc(mapShapeDrawer);
         twoOptCalc = new TwoOptCalc(mapShapeDrawer);
     }
@@ -109,8 +110,8 @@ public class MainController implements Initializable, MapComponentInitializedLis
             for (int i = 1; i <= Integer.valueOf(tfIterations.getText()); i++) {
                 long startTime = System.currentTimeMillis();
                 TSPResult tspResult = isChosenAlgorithm("Nearest neighbour") ? nearestNeighbourCalc.getPath(points, pointsDistances) : randomPathCalc.getPath(points, pointsDistances);
-                System.out.println("Iteration #" + i + ": " + tspResult.getTotalDistance() + " km");
-                System.out.println("Iteration #" + i + " duration: " + (System.currentTimeMillis() - startTime) + " ms");
+                log("Nearest Neighbour TSP resolving duration: " + ((System.currentTimeMillis() - startTime)/1000.0) + " s");
+                log("Nearest Neighbour TSP distance: " + tspResult.getTotalDistance() + " km");
 
                 if (isChosenOptimization()) {
                     startTime = System.currentTimeMillis();
@@ -143,5 +144,9 @@ public class MainController implements Initializable, MapComponentInitializedLis
 
     public void changeBasicAlgorithmSolutionVisibility() {
         mapShapeDrawer.changeBasicAlgorithmSolutionVisibility(chboxBasicAlgorithm.isSelected());
+    }
+
+    public void log(String text) {
+        Platform.runLater(() -> taLogs.appendText(text + "\n"));
     }
 }
