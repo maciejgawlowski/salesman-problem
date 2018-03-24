@@ -29,7 +29,7 @@ public class NearestNeighbourCalc {
         City currentPoint = startPoint;
         pointsOrder.add(currentPoint);
         while (!allCitiesAreVisited(points)) {
-//            System.out.println("Current point: " + currentPoint);
+            System.out.println("Current point: " + currentPoint);
             PointsDistance nearestNeighbour = getNearestNeighbourPointsDistance(citiesDistances, points, currentPoint);
             String nearestNeighbourPoint = nearestNeighbour.getPointA().equals(currentPoint.getName()) ? nearestNeighbour.getPointB() : nearestNeighbour.getPointA();
             pointsOrder.add(points.stream().filter(city -> city.getName().equals(nearestNeighbourPoint)).findAny().orElseThrow(NullPointerException::new));

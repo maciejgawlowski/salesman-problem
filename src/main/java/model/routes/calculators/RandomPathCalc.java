@@ -35,7 +35,7 @@ public class RandomPathCalc {
         Iterator<City> iterator = points.iterator();
         City currentPoint = iterator.next();
         while (iterator.hasNext()) {
-//            System.out.println("Current point: " + currentPoint);
+            System.out.println("Current point: " + currentPoint);
             City nextPoint = iterator.next();
             totalDistance += pointsDistances.stream().filter(Predicates.findDistance(currentPoint.getName(), nextPoint.getName())).map(PointsDistance::getDistance).findAny().orElseThrow(NullPointerException::new);
             mapShapeDrawer.addLineToBasicAlgorithmPolylines(currentPoint, nextPoint);

@@ -27,13 +27,14 @@ public class TwoOptCalc {
         while (true) {
             for (int i = 1; i < bestRoute.size() - 1; i++) {
                 for (int k = i + 1; k < bestRoute.size() - 1; k++) {
-                    List<City> newPointsOrder = swapTwoEdges(bestRoute, i, k);
-                    int newDistance = calculateTotalDistance(newPointsOrder, pointsDistances);
+                    long time = System.currentTimeMillis();
+                    int newDistance = recalculate(i, k, bestRoute, bestDistance, pointsDistances);
+                    System.out.println("[" + i + "." + k + "] calculate distance duration: " + (System.currentTimeMillis() - time));
                     if (newDistance < bestDistance) {
-//                        System.out.println("newBestDistance: " + newDistance + " previousBestDistance: " + bestDistance + " (i = " + i + ", k = " + k + ")");
+                        System.out.println("newBestDistance: " + newDistance + " previousBestDistance: " + bestDistance + " (i = " + i + ", k = " + k + ")");
+                        List<City> newPointsOrder = swapTwoEdges(bestRoute, i, k);
                         bestDistance = newDistance;
                         bestRoute = newPointsOrder;
-                        drawNewRoute(bestRoute);
                         continue outerLoop;
                     }
                 }
@@ -41,6 +42,7 @@ public class TwoOptCalc {
             break;
         }
 
+        drawNewRoute(bestRoute);
         return TSPResult.builder().totalDistance(bestDistance).pointsOrder(bestRoute).build();
     }
 
@@ -55,16 +57,12 @@ public class TwoOptCalc {
         return newRoute;
     }
 
-    private int calculateTotalDistance(List<City> newPointsOrder, List<PointsDistance> pointsDistances) {
-        int totalDistance = 0;
-        Iterator<City> iterator = newPointsOrder.iterator();
-        City currentPoint = iterator.next();
-        while (iterator.hasNext()) {
-            City nextPoint = iterator.next();
-            totalDistance += pointsDistances.stream().filter(findDistance(currentPoint.getName(), nextPoint.getName())).map(PointsDistance::getDistance).findAny().orElseThrow(NullPointerException::new);
-            currentPoint = nextPoint;
-        }
-        return totalDistance;
+    private int recalculate(int i, int k, List<City> bestRoute, int bestDistance, List<PointsDistance> pointsDistances) {
+        return bestDistance
+                - pointsDistances.stream().filter(findDistance(bestRoute.get(i - 1).getName(), bestRoute.get(i).getName())).map(PointsDistance::getDistance).findAny().orElseThrow(NullPointerException::new)
+                - pointsDistances.stream().filter(findDistance(bestRoute.get(k).getName(), bestRoute.get(k + 1).getName())).map(PointsDistance::getDistance).findAny().orElseThrow(NullPointerException::new)
+                + pointsDistances.stream().filter(findDistance(bestRoute.get(i - 1).getName(), bestRoute.get(k).getName())).map(PointsDistance::getDistance).findAny().orElseThrow(NullPointerException::new)
+                + pointsDistances.stream().filter(findDistance(bestRoute.get(i).getName(), bestRoute.get(k + 1).getName())).map(PointsDistance::getDistance).findAny().orElseThrow(NullPointerException::new);
     }
 
     private void drawNewRoute(List<City> bestRoute) {
