@@ -1,8 +1,8 @@
 import com.google.common.collect.Iterables
-import model.domain.PointsDistance
-import model.routes.calculators.NearestNeighbourCalc
-import model.data.loader.CitiesDistancesLoader
-import model.data.loader.CitiesLoader
+import tsp.domain.PointsDistance
+import tsp.routes.calculators.NearestNeighbourCalc
+import tsp.data.loader.CitiesDistancesLoader
+import tsp.data.loader.CitiesLoader
 import spock.lang.Specification
 import spock.lang.Unroll
 

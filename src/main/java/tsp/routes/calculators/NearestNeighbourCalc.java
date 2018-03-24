@@ -1,9 +1,9 @@
-package model.routes.calculators;
+package tsp.routes.calculators;
 
 import controller.MapShapeDrawer;
-import model.domain.City;
-import model.domain.PointsDistance;
-import model.domain.TSPResult;
+import tsp.domain.City;
+import tsp.domain.PointsDistance;
+import tsp.domain.TSPResult;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
 
-import static model.routes.calculators.Predicates.findDistance;
+import static tsp.routes.calculators.Predicates.findDistance;
 
 public class NearestNeighbourCalc {
     private MapShapeDrawer mapShapeDrawer;

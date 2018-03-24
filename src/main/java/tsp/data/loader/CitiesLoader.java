@@ -1,8 +1,8 @@
-package model.data.loader;
+package tsp.data.loader;
 
 import com.google.common.base.CharMatcher;
 import lombok.Getter;
-import model.domain.City;
+import tsp.domain.City;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

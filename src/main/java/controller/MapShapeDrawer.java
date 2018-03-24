@@ -4,7 +4,7 @@ import com.lynden.gmapsfx.javascript.object.*;
 import com.lynden.gmapsfx.shapes.Polyline;
 import com.lynden.gmapsfx.shapes.PolylineOptions;
 import com.lynden.gmapsfx.util.MarkerImageFactory;
-import model.domain.City;
+import tsp.domain.City;
 
 import java.util.ArrayList;
 import java.util.List;

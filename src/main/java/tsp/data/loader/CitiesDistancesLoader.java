@@ -1,7 +1,7 @@
-package model.data.loader;
+package tsp.data.loader;
 
 import lombok.Getter;
-import model.domain.PointsDistance;
+import tsp.domain.PointsDistance;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

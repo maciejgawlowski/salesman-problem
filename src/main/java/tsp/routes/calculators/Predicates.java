@@ -1,6 +1,6 @@
-package model.routes.calculators;
+package tsp.routes.calculators;
 
-import model.domain.PointsDistance;
+import tsp.domain.PointsDistance;
 
 import java.util.function.Predicate;
 

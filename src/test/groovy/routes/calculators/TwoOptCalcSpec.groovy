@@ -1,11 +1,11 @@
 package routes.calculators
 
-import model.domain.PointsDistance
-import model.domain.TSPResult
-import model.routes.calculators.TwoOptCalc
+import tsp.domain.PointsDistance
+import tsp.domain.TSPResult
+import tsp.routes.calculators.TwoOptCalc
 import spock.lang.Specification
 import spock.lang.Unroll
-import model.data.loader.CitiesDistancesLoader
+import tsp.data.loader.CitiesDistancesLoader
 
 @Unroll
 class TwoOptCalcSpec extends Specification {

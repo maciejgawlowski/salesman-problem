@@ -1,9 +1,9 @@
-package model.routes.calculators;
+package tsp.routes.calculators;
 
 import controller.MapShapeDrawer;
-import model.domain.City;
-import model.domain.PointsDistance;
-import model.domain.TSPResult;
+import tsp.domain.City;
+import tsp.domain.PointsDistance;
+import tsp.domain.TSPResult;
 
 import java.util.*;
 

@@ -1,16 +1,16 @@
-package model.routes.calculators;
+package tsp.routes.calculators;
 
 import com.google.common.collect.Lists;
 import controller.MapShapeDrawer;
-import model.domain.City;
-import model.domain.PointsDistance;
-import model.domain.TSPResult;
+import tsp.domain.City;
+import tsp.domain.PointsDistance;
+import tsp.domain.TSPResult;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import static model.routes.calculators.Predicates.findDistance;
+import static tsp.routes.calculators.Predicates.findDistance;
 
 public class TwoOptCalc {
     private MapShapeDrawer mapShapeDrawer;

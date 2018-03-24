@@ -17,7 +17,7 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        URL url = new File("src/main/java/view/main.fxml").toURL();
+        URL url = new File("src/main/resources/view/main.fxml").toURL();
         Parent root = FXMLLoader.load(url);
         primaryStage.setTitle("TSP");
         primaryStage.setScene(new Scene(root, 1200, 800));

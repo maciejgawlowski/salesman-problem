@@ -1,4 +1,4 @@
-package model.domain;
+package tsp.domain;
 
 import lombok.Data;
 
