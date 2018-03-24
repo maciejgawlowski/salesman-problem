@@ -1,6 +1,7 @@
 package tsp.routes.calculators;
 
 import controller.MapShapeDrawer;
+import javafx.scene.control.TextArea;
 import tsp.domain.City;
 import tsp.domain.PointsDistance;
 import tsp.domain.TSPResult;
@@ -15,9 +16,11 @@ import static tsp.routes.calculators.Predicates.findDistance;
 
 public class NearestNeighbourCalc {
     private MapShapeDrawer mapShapeDrawer;
+    private TextArea textArea;
 
-    public NearestNeighbourCalc(MapShapeDrawer mapShapeDrawer) {
+    public NearestNeighbourCalc(MapShapeDrawer mapShapeDrawer, TextArea textArea) {
         this.mapShapeDrawer = mapShapeDrawer;
+        this.textArea = textArea;
     }
 
     public TSPResult getPath(List<City> cities, List<PointsDistance> citiesDistances) {
@@ -30,12 +33,12 @@ public class NearestNeighbourCalc {
         pointsOrder.add(currentPoint);
         while (!allCitiesAreVisited(points)) {
             System.out.println("Current point: " + currentPoint);
+//            Platform.runLater(() -> textArea.appendText("hahahah"));
             PointsDistance nearestNeighbour = getNearestNeighbourPointsDistance(citiesDistances, points, currentPoint);
             String nearestNeighbourPoint = nearestNeighbour.getPointA().equals(currentPoint.getName()) ? nearestNeighbour.getPointB() : nearestNeighbour.getPointA();
             pointsOrder.add(points.stream().filter(city -> city.getName().equals(nearestNeighbourPoint)).findAny().orElseThrow(NullPointerException::new));
             mapShapeDrawer.addLineToBasicAlgorithmPolylines(currentPoint, points.stream().filter(point -> point.getName().equals(nearestNeighbourPoint)).findAny().get());
             totalDistance += nearestNeighbour.getDistance();
-
             points.remove(currentPoint);
             currentPoint = points.stream().filter(point -> point.getName().equals(nearestNeighbourPoint)).findAny().get();
         }

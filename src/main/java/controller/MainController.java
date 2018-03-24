@@ -2,7 +2,10 @@ package controller;
 
 import com.lynden.gmapsfx.GoogleMapView;
 import com.lynden.gmapsfx.MapComponentInitializedListener;
-import com.lynden.gmapsfx.javascript.object.*;
+import com.lynden.gmapsfx.javascript.object.GoogleMap;
+import com.lynden.gmapsfx.javascript.object.LatLong;
+import com.lynden.gmapsfx.javascript.object.MapOptions;
+import com.lynden.gmapsfx.javascript.object.MapTypeIdEnum;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
@@ -33,6 +36,8 @@ public class MainController implements Initializable, MapComponentInitializedLis
     private Label lDuration;
     @FXML
     private Pane mapPane;
+    @FXML
+    private TextArea taLogs;
 
     private GoogleMapView mapView;
     private GoogleMap map;
@@ -61,7 +66,7 @@ public class MainController implements Initializable, MapComponentInitializedLis
         mapShapeDrawer = new MapShapeDrawer(map);
         mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.MAIN_CITIES);
 
-        nearestNeighbourCalc = new NearestNeighbourCalc(mapShapeDrawer);
+        nearestNeighbourCalc = new NearestNeighbourCalc(mapShapeDrawer, taLogs);
         randomPathCalc = new RandomPathCalc(mapShapeDrawer);
         twoOptCalc = new TwoOptCalc(mapShapeDrawer);
     }
@@ -96,26 +101,28 @@ public class MainController implements Initializable, MapComponentInitializedLis
 //            }
 //        }).run();
 //        System.out.println("Started resolving TSP");
+        Thread thread = new Thread(() -> {
+            List<City> points = isChosenData("Polish cities (16)") ? CitiesLoader.MAIN_CITIES : CitiesLoader.ALL_CITIES;
+            List<PointsDistance> pointsDistances = isChosenData("Polish cities (16)") ? CitiesDistancesLoader.MAIN_CITIES_DISTANCES : CitiesDistancesLoader.ALL_CITIES_DISTANCES;
+            mapShapeDrawer.clearAllMapPolylines();
 
-        List<City> points = isChosenData("Polish cities (16)") ? CitiesLoader.MAIN_CITIES : CitiesLoader.ALL_CITIES;
-        List<PointsDistance> pointsDistances = isChosenData("Polish cities (16)") ? CitiesDistancesLoader.MAIN_CITIES_DISTANCES : CitiesDistancesLoader.ALL_CITIES_DISTANCES;
-        mapShapeDrawer.clearAllMapPolylines();
+            for (int i = 1; i <= Integer.valueOf(tfIterations.getText()); i++) {
+                long startTime = System.currentTimeMillis();
+                TSPResult tspResult = isChosenAlgorithm("Nearest neighbour") ? nearestNeighbourCalc.getPath(points, pointsDistances) : randomPathCalc.getPath(points, pointsDistances);
+                System.out.println("Iteration #" + i + ": " + tspResult.getTotalDistance() + " km");
+                System.out.println("Iteration #" + i + " duration: " + (System.currentTimeMillis() - startTime) + " ms");
 
-        for (int i = 1; i <= Integer.valueOf(tfIterations.getText()); i++) {
-            long startTime = System.currentTimeMillis();
-            TSPResult tspResult = isChosenAlgorithm("Nearest neighbour") ? nearestNeighbourCalc.getPath(points, pointsDistances) : randomPathCalc.getPath(points, pointsDistances);
-            System.out.println("Iteration #" + i + ": " + tspResult.getTotalDistance() + " km");
-            System.out.println("Iteration #" + i + " duration: " + (System.currentTimeMillis() - startTime) + " ms");
-
-            if (isChosenOptimization()) {
-                startTime = System.currentTimeMillis();
-                TSPResult optimizedTspResult = twoOptCalc.getPath(pointsDistances, tspResult);
-                System.out.println("Iteration #" + i + " optimized: " + optimizedTspResult.getTotalDistance() + " km");
-                System.out.println("Iteration #" + i + " optimization duration: " + (System.currentTimeMillis() - startTime) + " ms");
+                if (isChosenOptimization()) {
+                    startTime = System.currentTimeMillis();
+                    TSPResult optimizedTspResult = twoOptCalc.getPath(pointsDistances, tspResult);
+                    System.out.println("Iteration #" + i + " optimized: " + optimizedTspResult.getTotalDistance() + " km");
+                    System.out.println("Iteration #" + i + " optimization duration: " + (System.currentTimeMillis() - startTime) + " ms");
+                }
             }
-        }
-        changeOptimizationAlgorithmSolutionVisibility();
-        changeBasicAlgorithmSolutionVisibility();
+            changeOptimizationAlgorithmSolutionVisibility();
+            changeBasicAlgorithmSolutionVisibility();
+        });
+        thread.start();
     }
 
     private boolean isChosenData(String data) {
@@ -130,11 +137,11 @@ public class MainController implements Initializable, MapComponentInitializedLis
         return cbOptimization.getSelectionModel().selectedItemProperty().getValue().equals("2-opt");
     }
 
-    public void changeOptimizationAlgorithmSolutionVisibility(){
+    public void changeOptimizationAlgorithmSolutionVisibility() {
         mapShapeDrawer.changeOptimizationAlgorithmSolutionVisibility(chboxOptimizationAlgorithm.isSelected());
     }
 
-    public void changeBasicAlgorithmSolutionVisibility(){
+    public void changeBasicAlgorithmSolutionVisibility() {
         mapShapeDrawer.changeBasicAlgorithmSolutionVisibility(chboxBasicAlgorithm.isSelected());
     }
 }

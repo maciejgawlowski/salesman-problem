@@ -2,6 +2,7 @@ package tsp.routes.calculators;
 
 import com.google.common.collect.Lists;
 import controller.MapShapeDrawer;
+import javafx.application.Platform;
 import tsp.domain.City;
 import tsp.domain.PointsDistance;
 import tsp.domain.TSPResult;
@@ -22,6 +23,8 @@ public class TwoOptCalc {
     public TSPResult getPath(List<PointsDistance> pointsDistances, TSPResult currentResult) {
         int bestDistance = currentResult.getTotalDistance();
         List<City> bestRoute = currentResult.getPointsOrder();
+        List<City> finalBestRoute = bestRoute;
+        Platform.runLater(() -> drawNewRoute(finalBestRoute));
 
         outerLoop:
         while (true) {
@@ -35,6 +38,10 @@ public class TwoOptCalc {
                         List<City> newPointsOrder = swapTwoEdges(bestRoute, i, k);
                         bestDistance = newDistance;
                         bestRoute = newPointsOrder;
+
+                        List<City> finallBestRoute = bestRoute;
+                        Platform.runLater(() -> drawNewRoute(finallBestRoute));
+
                         continue outerLoop;
                     }
                 }
@@ -42,7 +49,7 @@ public class TwoOptCalc {
             break;
         }
 
-        drawNewRoute(bestRoute);
+        drawNewRoute(bestRoute); //to ensure best route has been drawn on map
         return TSPResult.builder().totalDistance(bestDistance).pointsOrder(bestRoute).build();
     }
 
