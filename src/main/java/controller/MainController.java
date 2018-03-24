@@ -29,6 +29,8 @@ import tsp.routes.calculators.TwoOptCalc;
 import java.net.URL;
 import java.util.List;
 import java.util.ResourceBundle;
+import java.util.Timer;
+import java.util.TimerTask;
 
 public class MainController implements Initializable, MapComponentInitializedListener {
 
@@ -90,22 +92,21 @@ public class MainController implements Initializable, MapComponentInitializedLis
     }
 
     public void startTsp(ActionEvent actionEvent) {
-//        new Thread(() -> {
-//            try {
-//                int i = 0;
-//                Thread.sleep(1000);
-//                lDuration.setText(String.valueOf(++i));
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//        }).run();
-//        System.out.println("Started resolving TSP");
         Thread thread = new Thread(() -> {
+            Platform.runLater(() -> lDuration.setText(Integer.toString(0)));
+            Timer timer = new Timer();
+            timer.scheduleAtFixedRate(new TimerTask() {
+                @Override
+                public void run() {
+                    Platform.runLater(() -> lDuration.setText(Integer.toString(Integer.valueOf(lDuration.getText()) + 1)));
+                }
+            }, 0, 1000);
+
+            long startTime = System.currentTimeMillis();
             List<City> points = isChosenData("Polish cities (16)") ? CitiesLoader.MAIN_CITIES : CitiesLoader.ALL_CITIES;
             List<PointsDistance> pointsDistances = isChosenData("Polish cities (16)") ? CitiesDistancesLoader.MAIN_CITIES_DISTANCES : CitiesDistancesLoader.ALL_CITIES_DISTANCES;
             mapShapeDrawer.clearAllMapPolylines();
 
-            long startTime = System.currentTimeMillis();
             TSPResult tspResult = isChosenAlgorithm("Nearest neighbour") ? nearestNeighbourCalc.getPath(points, pointsDistances) : randomPathCalc.getPath(points, pointsDistances);
             String logPrefix = isChosenAlgorithm("Nearest neighbour") ? "Nearest Neighbour" : "Random Path";
             log(logPrefix + " TSP resolving duration: " + ((System.currentTimeMillis() - startTime) / 1000.0) + " s");
@@ -117,8 +118,10 @@ public class MainController implements Initializable, MapComponentInitializedLis
                 log("Two opt TSP result optimization duration: " + ((System.currentTimeMillis() - startTime) / 1000.0) + " s");
                 log("Two opt TSP distance: " + optimizedTspResult.getTotalDistance() + " km");
             }
+
             changeOptimizationAlgorithmSolutionVisibility();
             changeBasicAlgorithmSolutionVisibility();
+            timer.cancel();
         });
         thread.start();
     }
