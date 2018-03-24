@@ -10,11 +10,13 @@ import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
-import javafx.scene.control.*;
+import javafx.scene.control.CheckBox;
+import javafx.scene.control.ComboBox;
+import javafx.scene.control.Label;
+import javafx.scene.control.TextArea;
 import javafx.scene.layout.Pane;
 import org.joda.time.DateTime;
 import org.joda.time.format.DateTimeFormat;
-import org.joda.time.format.DateTimeFormatter;
 import tsp.data.loader.CitiesDistancesLoader;
 import tsp.data.loader.CitiesLoader;
 import tsp.domain.City;
@@ -32,8 +34,6 @@ public class MainController implements Initializable, MapComponentInitializedLis
 
     @FXML
     private ComboBox<String> cbData, cbAlgorithm, cbOptimization;
-    @FXML
-    private TextField tfIterations;
     @FXML
     private CheckBox chboxBasicAlgorithm, chboxOptimizationAlgorithm;
     @FXML
@@ -77,7 +77,6 @@ public class MainController implements Initializable, MapComponentInitializedLis
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
-        tfIterations.textProperty().addListener((observable, oldValue, newValue) -> removeTextIfNotDigit(newValue));
         cbData.valueProperty().addListener((observable, oldValue, newValue) -> {
             if (newValue.equals("Polish cities (16)"))
                 mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.MAIN_CITIES);
@@ -88,10 +87,6 @@ public class MainController implements Initializable, MapComponentInitializedLis
         mapView = new GoogleMapView();
         mapView.addMapInializedListener(this);
         mapPane.getChildren().add(mapView);
-    }
-
-    private void removeTextIfNotDigit(String newValue) {
-        tfIterations.setText(newValue.matches("\\d*") ? newValue : newValue.replaceAll("[^\\d]", ""));
     }
 
     public void startTsp(ActionEvent actionEvent) {
@@ -110,19 +105,17 @@ public class MainController implements Initializable, MapComponentInitializedLis
             List<PointsDistance> pointsDistances = isChosenData("Polish cities (16)") ? CitiesDistancesLoader.MAIN_CITIES_DISTANCES : CitiesDistancesLoader.ALL_CITIES_DISTANCES;
             mapShapeDrawer.clearAllMapPolylines();
 
-            for (int i = 1; i <= Integer.valueOf(tfIterations.getText()); i++) {
-                long startTime = System.currentTimeMillis();
-                TSPResult tspResult = isChosenAlgorithm("Nearest neighbour") ? nearestNeighbourCalc.getPath(points, pointsDistances) : randomPathCalc.getPath(points, pointsDistances);
-                String logPrefix = isChosenAlgorithm("Nearest neighbour") ? "Nearest Neighbour" : "Random Path";
-                log(logPrefix + " TSP resolving duration: " + ((System.currentTimeMillis() - startTime) / 1000.0) + " s");
-                log(logPrefix + " TSP distance: " + tspResult.getTotalDistance() + " km");
+            long startTime = System.currentTimeMillis();
+            TSPResult tspResult = isChosenAlgorithm("Nearest neighbour") ? nearestNeighbourCalc.getPath(points, pointsDistances) : randomPathCalc.getPath(points, pointsDistances);
+            String logPrefix = isChosenAlgorithm("Nearest neighbour") ? "Nearest Neighbour" : "Random Path";
+            log(logPrefix + " TSP resolving duration: " + ((System.currentTimeMillis() - startTime) / 1000.0) + " s");
+            log(logPrefix + " TSP distance: " + tspResult.getTotalDistance() + " km");
 
-                if (isChosenOptimization()) {
-                    startTime = System.currentTimeMillis();
-                    TSPResult optimizedTspResult = twoOptCalc.getPath(pointsDistances, tspResult);
-                    log("Two opt TSP result optimization duration: " + ((System.currentTimeMillis() - startTime) / 1000.0) + " s");
-                    log("Two opt TSP distance: " + optimizedTspResult.getTotalDistance() + " km");
-                }
+            if (isChosenOptimization()) {
+                startTime = System.currentTimeMillis();
+                TSPResult optimizedTspResult = twoOptCalc.getPath(pointsDistances, tspResult);
+                log("Two opt TSP result optimization duration: " + ((System.currentTimeMillis() - startTime) / 1000.0) + " s");
+                log("Two opt TSP distance: " + optimizedTspResult.getTotalDistance() + " km");
             }
             changeOptimizationAlgorithmSolutionVisibility();
             changeBasicAlgorithmSolutionVisibility();

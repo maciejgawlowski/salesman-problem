@@ -20,7 +20,8 @@ public class Main extends Application {
         URL url = new File("src/main/resources/view/main.fxml").toURL();
         Parent root = FXMLLoader.load(url);
         primaryStage.setTitle("TSP");
-        primaryStage.setScene(new Scene(root, 1200, 800));
+        primaryStage.setScene(new Scene(root));
+        primaryStage.setResizable(false);
         primaryStage.show();
     }
 }

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.text.*?>
 <?import javafx.collections.*?>
 <?import javafx.collections.FXCollections?>
 <?import javafx.geometry.*?>
@@ -7,15 +8,20 @@
 <?import javafx.scene.layout.*?>
 <?import java.lang.*?>
 
-<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.MainController">
+<HBox maxHeight="800.0" maxWidth="1250.0" minHeight="800.0" minWidth="1250.0" prefHeight="800.0" prefWidth="1250.0" scaleShape="false" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.MainController">
    <children>
-      <Pane fx:id="mapPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1000.0" />
-      <VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="200.0">
+      <VBox prefHeight="200.0" prefWidth="100.0">
          <children>
-            <HBox maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="50.0" prefWidth="200.0">
+            <Pane fx:id="mapPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1000.0" />
+            <TextArea fx:id="taLogs" prefHeight="200.0" prefWidth="200.0" />
+         </children>
+      </VBox>
+      <VBox maxHeight="800.0" maxWidth="250.0" minHeight="800.0" minWidth="250.0" prefHeight="800.0" prefWidth="250.0">
+         <children>
+            <HBox maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="50.0" prefWidth="250.0">
                <children>
                   <Label prefWidth="75.0" text="Data:" />
-                  <ComboBox fx:id="cbData" maxWidth="-Infinity" prefWidth="125.0" promptText="Number in brackets is quantity of cities" value="Polish cities (16)">
+                  <ComboBox fx:id="cbData" maxWidth="-Infinity" prefWidth="150.0" promptText="Number in brackets is quantity of cities" value="Polish cities (16)">
                      <items>
                         <FXCollections fx:factory="observableArrayList">
                            <String fx:value="Polish cities (16)" />
@@ -25,13 +31,13 @@
                   </ComboBox>
                </children>
                <padding>
-                  <Insets left="10.0" right="10.0" top="10.0" />
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                </padding>
             </HBox>
-            <HBox maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="50.0" prefWidth="200.0">
+            <HBox maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="50.0" prefWidth="250.0">
                <children>
                   <Label prefWidth="75.0" text="Algorithm:" />
-                  <ComboBox fx:id="cbAlgorithm" maxWidth="-Infinity" prefWidth="125.0" value="Nearest neighbour">
+                  <ComboBox fx:id="cbAlgorithm" maxWidth="-Infinity" prefWidth="150.0" value="Nearest neighbour">
                      <items>
                         <FXCollections fx:factory="observableArrayList">
                            <String fx:value="Nearest neighbour" />
@@ -41,13 +47,13 @@
                   </ComboBox>
                </children>
                <padding>
-                  <Insets left="10.0" right="10.0" top="10.0" />
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                </padding>
             </HBox>
-            <HBox maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="50.0" prefWidth="200.0">
+            <HBox maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="50.0" prefWidth="250.0">
                <children>
                   <Label prefWidth="75.0" text="Optimization:" />
-                  <ComboBox fx:id="cbOptimization" maxWidth="-Infinity" prefWidth="125.0" value="None">
+                  <ComboBox fx:id="cbOptimization" maxWidth="-Infinity" prefWidth="150.0" value="None">
                      <items>
                         <FXCollections fx:factory="observableArrayList">
                            <String fx:value="None" />
@@ -57,36 +63,38 @@
                   </ComboBox>
                </children>
                <padding>
-                  <Insets left="10.0" right="10.0" top="10.0" />
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                </padding>
             </HBox>
-            <HBox maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="50.0" prefWidth="200.0">
-               <children>
-                  <Label prefWidth="75.0" text="Iterations:" />
-                  <TextField fx:id="tfIterations" text="1" />
-               </children>
-               <padding>
-                  <Insets left="10.0" right="10.0" top="10.0" />
-               </padding>
-            </HBox>
-            <Button fx:id="bStart" mnemonicParsing="false" onAction="#startTsp" text="Start">
-               <VBox.margin>
-                  <Insets bottom="20.0" top="10.0" />
-               </VBox.margin>
-            </Button>
-            <HBox maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="50.0" prefWidth="200.0">
+            <HBox maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="50.0" prefWidth="250.0">
                <children>
                   <Label prefWidth="75.0" text="Duration:" />
-                  <Label fx:id="lDuration" prefWidth="75.0" text="0" />
+                  <Label fx:id="lDuration" prefHeight="17.0" prefWidth="35.0" text="0" />
                   <Label prefWidth="75.0" text="sec." />
                </children>
                <padding>
-                  <Insets left="10.0" right="10.0" top="10.0" />
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                </padding>
             </HBox>
-            <TextArea fx:id="taLogs" prefHeight="200.0" prefWidth="200.0" />
-            <CheckBox fx:id="chboxBasicAlgorithm" mnemonicParsing="false" onAction="#changeBasicAlgorithmSolutionVisibility" selected="true" text="Visible basic algorithm TSP solution" />
-            <CheckBox fx:id="chboxOptimizationAlgorithm" mnemonicParsing="false" onAction="#changeOptimizationAlgorithmSolutionVisibility" selected="true" text="Visible optimization algorithm TSP solution" />
+            <Button fx:id="bStart" mnemonicParsing="false" onAction="#startTsp" prefHeight="30.0" prefWidth="70.0" text="Start">
+               <VBox.margin>
+                  <Insets bottom="20.0" left="90.0" top="10.0" />
+               </VBox.margin>
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Button>
+            <CheckBox fx:id="chboxBasicAlgorithm" mnemonicParsing="false" onAction="#changeBasicAlgorithmSolutionVisibility" selected="true" text="Visible basic algorithm TSP result">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding></CheckBox>
+            <CheckBox fx:id="chboxOptimizationAlgorithm" mnemonicParsing="false" onAction="#changeOptimizationAlgorithmSolutionVisibility" selected="true" text="Visible optimized TSP result">
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding></CheckBox>
          </children>
       </VBox>
    </children>
