@@ -12,6 +12,9 @@ import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.*;
 import javafx.scene.layout.Pane;
+import org.joda.time.DateTime;
+import org.joda.time.format.DateTimeFormat;
+import org.joda.time.format.DateTimeFormatter;
 import tsp.data.loader.CitiesDistancesLoader;
 import tsp.data.loader.CitiesLoader;
 import tsp.domain.City;
@@ -68,8 +71,8 @@ public class MainController implements Initializable, MapComponentInitializedLis
         mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.MAIN_CITIES);
 
         nearestNeighbourCalc = new NearestNeighbourCalc(mapShapeDrawer, this);
-        randomPathCalc = new RandomPathCalc(mapShapeDrawer);
-        twoOptCalc = new TwoOptCalc(mapShapeDrawer);
+        randomPathCalc = new RandomPathCalc(mapShapeDrawer, this);
+        twoOptCalc = new TwoOptCalc(mapShapeDrawer, this);
     }
 
     @Override
@@ -110,14 +113,15 @@ public class MainController implements Initializable, MapComponentInitializedLis
             for (int i = 1; i <= Integer.valueOf(tfIterations.getText()); i++) {
                 long startTime = System.currentTimeMillis();
                 TSPResult tspResult = isChosenAlgorithm("Nearest neighbour") ? nearestNeighbourCalc.getPath(points, pointsDistances) : randomPathCalc.getPath(points, pointsDistances);
-                log("Nearest Neighbour TSP resolving duration: " + ((System.currentTimeMillis() - startTime)/1000.0) + " s");
-                log("Nearest Neighbour TSP distance: " + tspResult.getTotalDistance() + " km");
+                String logPrefix = isChosenAlgorithm("Nearest neighbour") ? "Nearest Neighbour" : "Random Path";
+                log(logPrefix + " TSP resolving duration: " + ((System.currentTimeMillis() - startTime) / 1000.0) + " s");
+                log(logPrefix + " TSP distance: " + tspResult.getTotalDistance() + " km");
 
                 if (isChosenOptimization()) {
                     startTime = System.currentTimeMillis();
                     TSPResult optimizedTspResult = twoOptCalc.getPath(pointsDistances, tspResult);
-                    System.out.println("Iteration #" + i + " optimized: " + optimizedTspResult.getTotalDistance() + " km");
-                    System.out.println("Iteration #" + i + " optimization duration: " + (System.currentTimeMillis() - startTime) + " ms");
+                    log("Two opt TSP result optimization duration: " + ((System.currentTimeMillis() - startTime) / 1000.0) + " s");
+                    log("Two opt TSP distance: " + optimizedTspResult.getTotalDistance() + " km");
                 }
             }
             changeOptimizationAlgorithmSolutionVisibility();
@@ -147,6 +151,6 @@ public class MainController implements Initializable, MapComponentInitializedLis
     }
 
     public void log(String text) {
-        Platform.runLater(() -> taLogs.appendText(text + "\n"));
+        Platform.runLater(() -> taLogs.appendText(DateTime.now().toString(DateTimeFormat.forPattern("[HH:mm:ss] ")) + text + "\n"));
     }
 }

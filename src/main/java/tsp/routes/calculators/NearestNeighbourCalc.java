@@ -4,6 +4,7 @@ import controller.MainController;
 import controller.MapShapeDrawer;
 import javafx.application.Platform;
 import javafx.scene.control.TextArea;
+import org.joda.time.DateTime;
 import tsp.domain.City;
 import tsp.domain.PointsDistance;
 import tsp.domain.TSPResult;

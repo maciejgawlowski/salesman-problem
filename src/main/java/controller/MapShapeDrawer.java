@@ -43,6 +43,7 @@ public class MapShapeDrawer {
             LatLong[] path = {new LatLong(startCity.getLatitude(), startCity.getLongitude()), new LatLong(endCity.getLatitude(), endCity.getLongitude())};
             PolylineOptions polylineOptions = new PolylineOptions();
             polylineOptions.path(new MVCArray(path));
+            polylineOptions.strokeColor("Blue");
             polylineOptions.strokeWeight(1.5);
             Polyline polyline = new Polyline(polylineOptions);
             basicAlgorithmPolylinesOnMap.add(polyline);
@@ -55,7 +56,7 @@ public class MapShapeDrawer {
             LatLong[] path = {new LatLong(startCity.getLatitude(), startCity.getLongitude()), new LatLong(endCity.getLatitude(), endCity.getLongitude())};
             PolylineOptions polylineOptions = new PolylineOptions();
             polylineOptions.path(new MVCArray(path));
-            polylineOptions.strokeColor("Blue");
+            polylineOptions.strokeColor("Red");
             polylineOptions.strokeWeight(1.5);
             Polyline polyline = new Polyline(polylineOptions);
             optimizionAlgorithmPolylinesOnMap.add(polyline);

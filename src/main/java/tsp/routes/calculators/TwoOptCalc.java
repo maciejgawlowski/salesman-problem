@@ -1,6 +1,7 @@
 package tsp.routes.calculators;
 
 import com.google.common.collect.Lists;
+import controller.MainController;
 import controller.MapShapeDrawer;
 import javafx.application.Platform;
 import tsp.domain.City;
@@ -15,12 +16,15 @@ import static tsp.routes.calculators.Predicates.findDistance;
 
 public class TwoOptCalc {
     private MapShapeDrawer mapShapeDrawer;
+    private MainController mainController;
 
-    public TwoOptCalc(MapShapeDrawer mapShapeDrawer) {
+    public TwoOptCalc(MapShapeDrawer mapShapeDrawer, MainController mainController) {
         this.mapShapeDrawer = mapShapeDrawer;
+        this.mainController = mainController;
     }
 
     public TSPResult getPath(List<PointsDistance> pointsDistances, TSPResult currentResult) {
+        mainController.log("Two opt TSP result optimization started");
         int bestDistance = currentResult.getTotalDistance();
         List<City> bestRoute = currentResult.getPointsOrder();
         List<City> finalBestRoute = bestRoute;
@@ -30,11 +34,12 @@ public class TwoOptCalc {
         while (true) {
             for (int i = 1; i < bestRoute.size() - 1; i++) {
                 for (int k = i + 1; k < bestRoute.size() - 1; k++) {
-                    long time = System.currentTimeMillis();
+                    System.out.println("Current i = " + i + " k = " + k);
                     int newDistance = recalculate(i, k, bestRoute, bestDistance, pointsDistances);
-                    System.out.println("[" + i + "." + k + "] calculate distance duration: " + (System.currentTimeMillis() - time));
                     if (newDistance < bestDistance) {
-                        System.out.println("newBestDistance: " + newDistance + " previousBestDistance: " + bestDistance + " (i = " + i + ", k = " + k + ")");
+                        mainController.log("Swaped edges (" + bestRoute.get(i - 1).getName() + ", " + bestRoute.get(i).getName() + ") & (" + bestRoute.get(k).getName() + ", " + bestRoute.get(k + 1).getName() + ") " +
+                                "---> (" + bestRoute.get(i - 1).getName() + ", " + bestRoute.get(k).getName() + ") & (" + bestRoute.get(i).getName() + ", " + bestRoute.get(k + 1).getName() + ")");
+                        mainController.log("Distance optimized from " + bestDistance + " km to " + newDistance + " km");
                         List<City> newPointsOrder = swapTwoEdges(bestRoute, i, k);
                         bestDistance = newDistance;
                         bestRoute = newPointsOrder;
@@ -50,6 +55,7 @@ public class TwoOptCalc {
         }
 
         drawNewRoute(bestRoute); //to ensure best route has been drawn on map
+        mainController.log("Two opt TSP result optimization finished");
         return TSPResult.builder().totalDistance(bestDistance).pointsOrder(bestRoute).build();
     }
 
