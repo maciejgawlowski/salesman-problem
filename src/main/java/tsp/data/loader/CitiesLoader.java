@@ -5,6 +5,7 @@ import lombok.Getter;
 import tsp.domain.City;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -12,15 +13,17 @@ import java.util.List;
 
 @Getter
 public class CitiesLoader {
-    private static final String FILENAME_MAIN_CITIES = "D:/IdeaProjects/salesman-problem/src/main/resources/main_polish_cities.txt";
-    private static final String FILENAME_ALL_CITIES = "D:/IdeaProjects/salesman-problem/src/main/resources/polish_cities.txt";
+//    private static final String FILENAME_MAIN_CITIES = "D:/IdeaProjects/salesman-problem/src/main/resources/main_polish_cities.txt";
+    private static final String FILENAME_MAIN_CITIES = "src/main/resources/main_polish_cities.txt";
+//    private static final String FILENAME_ALL_CITIES = "D:/IdeaProjects/salesman-problem/src/main/resources/polish_cities.txt";
+    private static final String FILENAME_ALL_CITIES = "src/main/resources/polish_cities.txt";
 
     public static final List<City> MAIN_CITIES = load(FILENAME_MAIN_CITIES);
     public static final List<City> ALL_CITIES = load(FILENAME_ALL_CITIES);
 
     private static List<City> load(String fileName) {
         List<City> cities = new ArrayList<>();
-        try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(new File(fileName)))) {
             br.lines().forEach(line -> {
                 City city = new City();
                 city.setName(line.split("\\s{2,}")[0]);
