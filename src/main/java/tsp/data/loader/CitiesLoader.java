@@ -13,10 +13,10 @@ import java.util.List;
 
 @Getter
 public class CitiesLoader {
-//    private static final String FILENAME_MAIN_CITIES = "D:/IdeaProjects/salesman-problem/src/main/resources/main_polish_cities.txt";
-    private static final String FILENAME_MAIN_CITIES = "src/main/resources/main_polish_cities.txt";
-//    private static final String FILENAME_ALL_CITIES = "D:/IdeaProjects/salesman-problem/src/main/resources/polish_cities.txt";
-    private static final String FILENAME_ALL_CITIES = "src/main/resources/polish_cities.txt";
+//    private static final String FILENAME_MAIN_CITIES = "src/main/resources/main_polish_cities.txt";
+    private static final String FILENAME_MAIN_CITIES = "main_polish_cities.txt";
+//    private static final String FILENAME_ALL_CITIES = "src/main/resources/polish_cities.txt";
+    private static final String FILENAME_ALL_CITIES = "polish_cities.txt";
 
     public static final List<City> MAIN_CITIES = load(FILENAME_MAIN_CITIES);
     public static final List<City> ALL_CITIES = load(FILENAME_ALL_CITIES);
