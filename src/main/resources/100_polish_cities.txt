@@ -1,0 +1,100 @@
+Bia³ystok               2310        5308
+Bydgoszcz               1800        5307
+Gdañsk                  1838        5422
+Gorzów Wielkopolski     1514        5244
+Katowice                1900        5015
+Kielce                  2037        5053
+Kraków                  1957        5003
+Lublin                  2234        5114
+£ódŸ                    1928        5147
+Olsztyn                 2030        5347
+Opole                   1756        5040
+Poznañ                  1655        5225
+Rzeszów                 2201        5003
+Szczecin                1434        5326
+Warszawa                2102        5212
+Wroc³aw                 1702        5107
+W³oc³awek               1903        5239
+Chorzele                2053        5316
+Zgierz                  1925        5152
+Stargard Szczeciñski    1502        5320
+Starogard Gdañski       1832        5358
+Nowy S¹cz               2042        4937
+Be³chatów               1922        5122
+Zielona Góra            1530        5156
+¯ywiec                  1912        4942
+Inowroc³aw              1815        5248
+I³awa                   1934        5336
+Grudzi¹dz               1846        5329
+Gostynin                1928        5225
+£om¿a                   2204        5311
+Suwa³ki                 2256        5406
+Zamoœæ                  2316        5043
+Kalisz                  1806        5146
+Rawicz                  1652        5136
+Nysa                    1720        5028
+O¿arów Mazowiecki       2048        5213
+Toruñ                   1837        5302
+Jelenia Góra            1544        5054
+Sandomierz              2145        5041
+Czêstochowa             1907        5048
+Krosno                  2146        4942
+Pi³a                    1645        5310
+Ko³obrzeg               1534        5410
+Ko³o                    1839        5212
+Gi¿ycko                 2147        5402
+Elbl¹g                  1924        5410
+E³k                     2221        5329
+Bia³a Podlaska          2307        5202
+Radom                   2110        5124
+Zakopane                1957        4918
+Busko Zdrój             2048        5028
+Bukowina Tatrzañska     2006        4920
+Augustów                2258        5351
+Bytom                   1854        5023
+Kwidzyn                 1856        5344
+Koœcierzyna             1758        5407
+Bytów                   1730        5410
+Chojnice                1733        5342
+Ciechocinek             1847        5253
+¯nin                    1743        5251
+Oborniki                1649        5238
+Gniezno                 1736        5232
+Brzeg                   1729        5052
+K³odzko                 1639        5027
+Rybnik                  1833        5005
+Gliwice                 1840        5017
+Gorlice                 2110        4940
+Mielec                  2126        5017
+Stalowa Wola            2205        5034
+Starachowice            2104        5102
+Lubartów                2237        5127
+Bi³goraj                2243        5032
+Warka                   2112        5147
+Wadowice                1930        4953
+P³ock                   1942        5233
+Tuchola                 1751        5336
+Che³m                   2329        5108
+Sokó³ka                 2330        5324
+W³oszczowa              1958        5051
+Bia³owie¿a              2352        5242
+Siemiatycze             2252        5226
+Lesko                   2220        4928
+Lidzbark Warmiñski      2035        5407
+Ciechanów               2038        5252
+Wa³brzych               1617        5047
+Nowa Sól                1543        5148
+Œwiebodzin              1532        5215
+Œwiecie                 1826        5325
+Miêdzychód              1553        5236
+Pabianice               1922        5140
+Z³otoryja               1555        5108
+Z³otów                  1702        5322
+¯ary                    1508        5138
+Zgorzelec               1501        5109
+Zielonka                2109        5218
+W³adys³awowo            1824        5448
+Wis³a                   1852        4939
+Rypin                   1924        5304
+Pu³awy                  2158        5125
+Pu³tusk                 2105        5243

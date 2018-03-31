@@ -1,0 +1,50 @@
+Bia³ystok               2310        5308
+Bydgoszcz               1800        5307
+Gdañsk                  1838        5422
+Gorzów Wielkopolski     1514        5244
+Katowice                1900        5015
+Kielce                  2037        5053
+Kraków                  1957        5003
+Lublin                  2234        5114
+£ódŸ                    1928        5147
+Olsztyn                 2030        5347
+Opole                   1756        5040
+Poznañ                  1655        5225
+Rzeszów                 2201        5003
+Szczecin                1434        5326
+Warszawa                2102        5212
+Wroc³aw                 1702        5107
+W³oc³awek               1903        5239
+Chorzele                2053        5316
+Zgierz                  1925        5152
+Stargard Szczeciñski    1502        5320
+Starogard Gdañski       1832        5358
+Nowy S¹cz               2042        4937
+Be³chatów               1922        5122
+Zielona Góra            1530        5156
+¯ywiec                  1912        4942
+Inowroc³aw              1815        5248
+I³awa                   1934        5336
+Grudzi¹dz               1846        5329
+Gostynin                1928        5225
+£om¿a                   2204        5311
+Suwa³ki                 2256        5406
+Zamoœæ                  2316        5043
+Kalisz                  1806        5146
+Rawicz                  1652        5136
+Nysa                    1720        5028
+O¿arów Mazowiecki       2048        5213
+Toruñ                   1837        5302
+Jelenia Góra            1544        5054
+Sandomierz              2145        5041
+Czêstochowa             1907        5048
+Krosno                  2146        4942
+Pi³a                    1645        5310
+Ko³obrzeg               1534        5410
+Ko³o                    1839        5212
+Gi¿ycko                 2147        5402
+Elbl¹g                  1924        5410
+E³k                     2221        5329
+Bia³a Podlaska          2307        5202
+Radom                   2110        5124
+Zakopane                1957        4918

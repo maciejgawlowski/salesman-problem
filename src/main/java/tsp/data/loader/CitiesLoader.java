@@ -13,13 +13,16 @@ import java.util.List;
 
 @Getter
 public class CitiesLoader {
-//    private static final String FILENAME_MAIN_CITIES = "src/main/resources/main_polish_cities.txt";
-    private static final String FILENAME_MAIN_CITIES = "main_polish_cities.txt";
-//    private static final String FILENAME_ALL_CITIES = "src/main/resources/polish_cities.txt";
-    private static final String FILENAME_ALL_CITIES = "polish_cities.txt";
+    private static final String CITIES_16_FILENAME = "src/main/resources/16_polish_cities.txt";
+//    private static final String CITIES_16_FILENAME = "16_polish_cities.txt";
+    private static final String CITIES_50_FILENAME = "src/main/resources/50_polish_cities.txt";
+//    private static final String CITIES_50_FILENAME = "50_polish_cities.txt";
+    private static final String CITIES_100_FILENAME = "src/main/resources/100_polish_cities.txt";
+//    private static final String CITIES_100_FILENAME = "100_polish_cities.txt";
 
-    public static final List<City> MAIN_CITIES = load(FILENAME_MAIN_CITIES);
-    public static final List<City> ALL_CITIES = load(FILENAME_ALL_CITIES);
+    public static final List<City> CITIES_16 = load(CITIES_16_FILENAME);
+    public static final List<City> CITIES_50 = load(CITIES_50_FILENAME);
+    public static final List<City> CITIES_100 = load(CITIES_100_FILENAME);
 
     private static List<City> load(String fileName) {
         List<City> cities = new ArrayList<>();

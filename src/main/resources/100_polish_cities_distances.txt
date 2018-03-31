@@ -1,0 +1,4950 @@
+Bydgoszcz  Inowroc³aw  39
+Kraków  Bia³a Podlaska  312
+¯ywiec  W³adys³awowo  570
+Kalisz  Elbl¹g  281
+Sandomierz  Zakopane  201
+Starachowice  Œwiecie  320
+Oborniki  Œwiebodzin  97
+Kalisz  Z³otów  192
+Lublin  Wa³brzych  442
+¯ywiec  Wa³brzych  240
+Krosno  Ko³obrzeg  653
+Opole  Stalowa Wola  293
+Bia³owie¿a  Miêdzychód  538
+Gostynin  Starachowice  189
+Gostynin  Bytów  234
+Gorzów Wielkopolski  Katowice  380
+Lublin  W³adys³awowo  485
+Rawicz  Bukowina Tatrzañska  340
+Toruñ  Siemiatycze  294
+£ódŸ  Krosno  283
+Grudzi¹dz  Czêstochowa  299
+Radom  P³ock  163
+Bia³a Podlaska  Koœcierzyna  415
+W³oc³awek  Krosno  379
+Bia³ystok  Pabianice  305
+Kielce  Chorzele  266
+Warszawa  Augustów  224
+Wa³brzych  Zgorzelec  98
+Warszawa  Z³otów  299
+Zielonka  Pu³tusk  47
+Kielce  Nowy S¹cz  141
+Rzeszów  Busko Zdrój  98
+Olsztyn  Czêstochowa  345
+Warszawa  Bi³goraj  219
+Sandomierz  Koœcierzyna  460
+Czêstochowa  Lidzbark Warmiñski  382
+Katowice  Nowa Sól  287
+Pi³a  Warka  338
+Rybnik  Lidzbark Warmiñski  469
+Koœcierzyna  Z³otów  104
+Poznañ  Ko³obrzeg  214
+Œwiebodzin  Zgorzelec  127
+Katowice  Stalowa Wola  221
+Bia³ystok  Mielec  339
+Opole  Nowa Sól  199
+Jelenia Góra  Z³otoryja  29
+Stalowa Wola  Wis³a  251
+Koœcierzyna  Bi³goraj  513
+Zgierz  Œwiecie  185
+Chojnice  Warka  325
+Wadowice  Zgorzelec  347
+Szczecin  O¿arów Mazowiecki  440
+£om¿a  Koœcierzyna  289
+Krosno  Kwidzyn  489
+Bia³a Podlaska  Che³m  103
+Zgierz  Grudzi¹dz  185
+Radom  Chojnice  354
+Be³chatów  Ciechocinek  173
+Zakopane  Wa³brzych  309
+Kielce  Z³otoryja  330
+Szczecin  W³adys³awowo  292
+Nowy S¹cz  E³k  445
+Ko³o  Rybnik  235
+£ódŸ  Pu³awy  177
+Olsztyn  Bytów  201
+Starogard Gdañski  Lidzbark Warmiñski  135
+Bia³ystok  Bytom  424
+Olsztyn  W³oc³awek  159
+Opole  Œwiebodzin  242
+Zielona Góra  Starachowice  398
+Poznañ  Kwidzyn  199
+Zakopane  W³adys³awowo  621
+Pabianice  W³adys³awowo  354
+Zamoœæ  E³k  314
+Szczecin  Wa³brzych  317
+Kwidzyn  Gliwice  384
+Mielec  Pabianice  211
+Katowice  ¯ywiec  63
+Inowroc³aw  Siemiatycze  314
+Toruñ  Lesko  473
+E³k  Ciechocinek  247
+¯nin  Lidzbark Warmiñski  236
+Gorzów Wielkopolski  Pu³awy  483
+Gostynin  Czêstochowa  181
+Kraków  K³odzko  239
+Lidzbark Warmiñski  Zgorzelec  500
+Sandomierz  Che³m  131
+Nysa  Gliwice  97
+Rzeszów  Jelenia Góra  454
+Rawicz  Z³otoryja  84
+Be³chatów  Gostynin  117
+Inowroc³aw  Lesko  467
+Radom  Miêdzychód  385
+Chojnice  Wis³a  459
+Gorlice  Œwiecie  458
+Katowice  Œwiebodzin  328
+K³odzko  Gliwice  144
+Nowy S¹cz  Kalisz  301
+Opole  ¯ywiec  140
+Starogard Gdañski  Pabianice  262
+Zielona Góra  Bytów  282
+Gorzów Wielkopolski  Gliwice  361
+Wroc³aw  Gliwice  148
+Kwidzyn  Pu³awy  329
+O¿arów Mazowiecki  Bia³a Podlaska  159
+Olsztyn  Zielona Góra  394
+I³awa  Elbl¹g  64
+Warka  P³ock  133
+Bydgoszcz  Gi¿ycko  270
+Kraków  Wadowice  37
+Lublin  O¿arów Mazowiecki  164
+W³oc³awek  Gniezno  99
+Olsztyn  Starachowice  308
+W³oc³awek  Gostynin  38
+¯ywiec  Zgorzelec  337
+I³awa  Oborniki  213
+Suwa³ki  Kwidzyn  265
+Ciechanów  Pu³awy  185
+O¿arów Mazowiecki  Wadowice  275
+Bydgoszcz  Ciechocinek  58
+Warszawa  W³oszczowa  167
+W³oc³awek  Gi¿ycko  238
+Bia³a Podlaska  Zakopane  377
+Rzeszów  Tuchola  487
+Sokó³ka  Zielonka  200
+£ódŸ  Gliwice  176
+Brzeg  K³odzko  75
+Ciechocinek  Tuchola  101
+Nowy S¹cz  Sandomierz  140
+Starogard Gdañski  Suwa³ki  288
+Bytom  Zgorzelec  286
+Nowy S¹cz  Zielonka  300
+Czêstochowa  Pabianice  98
+Busko Zdrój  Bi³goraj  136
+Ko³obrzeg  Busko Zdrój  544
+Zamoœæ  Wis³a  335
+Mielec  Lubartów  154
+Kielce  ¯ary  390
+Suwa³ki  Ko³obrzeg  480
+Bydgoszcz  Szczecin  231
+Gi¿ycko  K³odzko  530
+Nowy S¹cz  I³awa  450
+Be³chatów  Gi¿ycko  338
+W³oc³awek  Pu³awy  242
+Kalisz  W³oszczowa  165
+Nysa  Krosno  328
+Rawicz  P³ock  221
+Gorzów Wielkopolski  Krosno  566
+£om¿a  Zakopane  456
+Kielce  Toruñ  276
+Busko Zdrój  Augustów  404
+Wroc³aw  Krosno  370
+Rzeszów  Rypin  381
+Stargard Szczeciñski  Zgorzelec  243
+Ciechocinek  Rypin  46
+Wa³brzych  W³adys³awowo  469
+Bia³ystok  Suwa³ki  109
+Lidzbark Warmiñski  W³adys³awowo  160
+Elbl¹g  Wis³a  504
+Stargard Szczeciñski  Busko Zdrój  508
+Bytom  W³adys³awowo  492
+Mielec  Lidzbark Warmiñski  430
+Œwiebodzin  Rypin  276
+Kraków  Œwiecie  389
+Ko³o  Z³otoryja  223
+Stargard Szczeciñski  Wa³brzych  296
+Wadowice  Wa³brzych  249
+Z³otów  Zielonka  301
+Szczecin  Zgorzelec  256
+Suwa³ki  Œwiebodzin  534
+Busko Zdrój  Brzeg  238
+Stargard Szczeciñski  W³adys³awowo  274
+Gdañsk  Ko³o  241
+Zakopane  Zgorzelec  407
+Bytom  Wa³brzych  190
+Kalisz  Pu³tusk  229
+Sandomierz  Lidzbark Warmiñski  390
+Augustów  P³ock  261
+K³odzko  Siemiatycze  484
+¯nin  Mielec  384
+Sandomierz  E³k  314
+Bia³a Podlaska  Lidzbark Warmiñski  287
+Zamoœæ  Warka  186
+Radom  Bukowina Tatrzañska  242
+Gdañsk  Kielce  410
+Ko³obrzeg  Wa³brzych  379
+Koœcierzyna  Gorlice  541
+Wroc³aw  Siemiatycze  427
+Toruñ  Gniezno  88
+Nowy S¹cz  Warka  243
+Czêstochowa  Bytom  49
+Busko Zdrój  Pu³tusk  251
+Kielce  Bukowina Tatrzañska  176
+Zgierz  Bia³a Podlaska  254
+Rybnik  Che³m  367
+W³oc³awek  Ciechocinek  32
+Tuchola  W³adys³awowo  138
+Bia³ystok  Lubartów  191
+Jelenia Góra  ¯ary  92
+Gdañsk  Starogard Gdañski  45
+Olsztyn  Siemiatycze  218
+Starogard Gdañski  Koœcierzyna  41
+Rybnik  Pabianice  185
+Katowice  Gorlice  168
+Kalisz  ¯nin  123
+Grudzi¹dz  Siemiatycze  298
+Starogard Gdañski  Bytom  399
+Kwidzyn  Gniezno  160
+Gliwice  Œwiecie  349
+I³awa  Augustów  225
+Chorzele  Kalisz  252
+Rzeszów  W³oszczowa  170
+Chorzele  Nysa  395
+Chorzele  Sokó³ka  174
+I³awa  Nowa Sól  328
+Koœcierzyna  W³oszczowa  388
+I³awa  Bi³goraj  403
+Pi³a  E³k  373
+Bytów  K³odzko  417
+Bia³a Podlaska  Zielonka  137
+W³oszczowa  Lidzbark Warmiñski  366
+Kraków  Grudzi¹dz  390
+Gliwice  Ciechanów  318
+Czêstochowa  Zakopane  177
+Stargard Szczeciñski  O¿arów Mazowiecki  407
+Bia³ystok  Lidzbark Warmiñski  202
+Warszawa  ¯nin  236
+Gdañsk  Czêstochowa  398
+Wroc³aw  Pu³awy  345
+K³odzko  Lesko  421
+Olsztyn  Lesko  496
+Warszawa  Pu³tusk  58
+Ciechocinek  W³oszczowa  240
+Stalowa Wola  Warka  149
+Bia³ystok  Pi³a  428
+Zgierz  Be³chatów  56
+Sandomierz  Zielonka  185
+Ko³obrzeg  Brzeg  389
+E³k  Gliwice  436
+Poznañ  Stalowa Wola  412
+Opole  Kwidzyn  348
+Gliwice  Bia³owie¿a  449
+¯ywiec  O¿arów Mazowiecki  301
+K³odzko  Pu³awy  388
+Warszawa  Tuchola  264
+Starogard Gdañski  Zakopane  528
+Warszawa  Oborniki  290
+Stargard Szczeciñski  Jelenia Góra  275
+Bia³ystok  Kraków  408
+Elbl¹g  Wadowice  476
+O¿arów Mazowiecki  Œwiecie  208
+Toruñ  Gliwice  306
+I³awa  ¯nin  149
+Gi¿ycko  Œwiecie  231
+W³oszczowa  Zielonka  181
+Wroc³aw  Gostynin  221
+I³awa  Pu³tusk  141
+Kraków  £ódŸ  196
+Wroc³aw  Gi¿ycko  456
+Brzeg  Œwiecie  291
+Grudzi¹dz  Bytów  113
+I³awa  Brzeg  335
+Jelenia Góra  Ko³o  248
+Jelenia Góra  Rybnik  219
+Stalowa Wola  Zielonka  203
+Suwa³ki  Stalowa Wola  397
+Elbl¹g  Zielonka  238
+Lubartów  Pu³awy  45
+Inowroc³aw  Pu³awy  297
+Sokó³ka  Wis³a  526
+Oborniki  Nowa Sól  119
+Ciechocinek  W³adys³awowo  215
+£ódŸ  Ciechocinek  131
+W³oszczowa  Pabianice  100
+Bia³ystok  Wroc³aw  475
+Zgierz  Wadowice  221
+Kalisz  Augustów  401
+Œwiebodzin  Pu³tusk  379
+Elbl¹g  Warka  291
+Che³m  Sokó³ka  252
+Kalisz  Bi³goraj  350
+Bia³ystok  Che³m  223
+Zamoœæ  Zielonka  229
+Lubartów  Lesko  221
+Grudzi¹dz  Starachowice  314
+Grudzi¹dz  Lesko  510
+Wroc³aw  Gniezno  162
+Gorzów Wielkopolski  Ciechocinek  239
+Ko³obrzeg  Zgorzelec  337
+Gorzów Wielkopolski  Szczecin  90
+Zielona Góra  Czêstochowa  281
+Lidzbark Warmiñski  Wa³brzych  471
+Chojnice  Zielonka  287
+Inowroc³aw  Gniezno  53
+Krosno  Stalowa Wola  99
+Bydgoszcz  Katowice  326
+Warszawa  Elbl¹g  244
+Zamoœæ  Sandomierz  107
+Lubartów  Siemiatycze  111
+£ódŸ  Szczecin  378
+Nowy S¹cz  Wis³a  132
+Lesko  Wis³a  251
+Czêstochowa  Koœcierzyna  377
+Zakopane  Ciechocinek  407
+Bydgoszcz  Krosno  461
+Opole  Poznañ  207
+Nowy S¹cz  Che³m  260
+Kalisz  Oborniki  130
+Kielce  Rzeszów  136
+Z³otoryja  Z³otów  260
+Ko³o  ¯ary  249
+Lublin  Busko Zdrój  150
+Lublin  Szczecin  596
+Poznañ  Pabianice  187
+O¿arów Mazowiecki  Warka  55
+Bytów  Ciechanów  253
+Olsztyn  Miêdzychód  334
+Wa³brzych  Pu³tusk  394
+£om¿a  Nysa  444
+Gorlice  Ciechanów  358
+Zielona Góra  Siemiatycze  505
+Œwiecie  Pabianice  205
+Bia³ystok  Ko³obrzeg  514
+Tuchola  Zgorzelec  333
+Katowice  Kraków  71
+Szczecin  Ciechocinek  288
+Kalisz  Nowa Sól  164
+Starogard Gdañski  Pi³a  148
+Chojnice  Wadowice  445
+Szczecin  Rypin  324
+E³k  Gniezno  335
+Stalowa Wola  Che³m  117
+Lublin  Rypin  297
+Rzeszów  Wa³brzych  414
+Nysa  Ciechocinek  287
+Czêstochowa  Zielonka  218
+Kalisz  Stalowa Wola  308
+Opole  Elbl¹g  402
+Jelenia Góra  Bia³owie¿a  594
+Lublin  Tuchola  414
+Rzeszów  Z³otów  504
+Bia³ystok  Koœcierzyna  360
+Bydgoszcz  W³adys³awowo  189
+Zamoœæ  Rawicz  457
+Gniezno  Wa³brzych  215
+Katowice  Z³otów  372
+Nowy S¹cz  Rawicz  349
+¯ywiec  Tuchola  444
+Œwiecie  Wis³a  420
+Gliwice  ¯ary  289
+Bia³ystok  Zakopane  481
+Bydgoszcz  Gliwice  318
+£om¿a  Pabianice  249
+Oborniki  Lubartów  418
+Zielona Góra  Ko³o  217
+Warszawa  Rypin  146
+£om¿a  Kalisz  311
+Augustów  Rybnik  516
+Czêstochowa  Lubartów  255
+Busko Zdrój  Rypin  305
+Bia³a Podlaska  Mielec  227
+Nysa  Czêstochowa  131
+Suwa³ki  Pabianice  361
+Ciechocinek  Z³otów  129
+Gdañsk  W³oc³awek  193
+Chorzele  Zielonka  109
+Rybnik  Zielonka  306
+Bia³a Podlaska  Pabianice  261
+Bydgoszcz  Wa³brzych  285
+Ko³o  Bukowina Tatrzañska  335
+Zakopane  Busko Zdrój  143
+Opole  Z³otów  306
+Krosno  Pabianice  276
+Lidzbark Warmiñski  Pu³tusk  159
+Rzeszów  Elbl¹g  491
+Inowroc³aw  Bytów  160
+Nowy S¹cz  Lidzbark Warmiñski  500
+Poznañ  Wroc³aw  145
+Zgierz  Rawicz  178
+Gniezno  W³adys³awowo  257
+Zamoœæ  Lidzbark Warmiñski  420
+Sandomierz  Pabianice  199
+Katowice  Elbl¹g  436
+Gniezno  Gliwice  261
+Gostynin  Siemiatycze  231
+Ko³obrzeg  Pu³tusk  399
+Augustów  Ciechanów  190
+Nowa Sól  Z³otoryja  75
+Grudzi¹dz  Ko³o  143
+Mielec  Che³m  173
+Bytom  Brzeg  113
+Rawicz  Miêdzychód  130
+Busko Zdrój  Oborniki  366
+Wroc³aw  Starachowice  282
+Oborniki  Z³otów  83
+Be³chatów  W³adys³awowo  387
+Zielona Góra  Lesko  554
+£om¿a  Wis³a  451
+I³awa  Stalowa Wola  379
+Oborniki  Gorlice  448
+¯ywiec  Pu³tusk  360
+Ciechocinek  Wa³brzych  290
+Kraków  Warka  212
+Krosno  Gorlice  43
+P³ock  Lesko  389
+Lublin  Jelenia Góra  479
+Zielonka  W³adys³awowo  332
+Bukowina Tatrzañska  Rybnik  139
+Z³otoryja  Pu³tusk  396
+Be³chatów  Gniezno  177
+Augustów  Miêdzychód  491
+Starachowice  Ciechanów  206
+Toruñ  Bytów  146
+Starogard Gdañski  Zielonka  255
+Elbl¹g  Zakopane  542
+Sandomierz  Mielec  50
+Nysa  Lesko  374
+Stalowa Wola  Lidzbark Warmiñski  408
+Zamoœæ  Koœcierzyna  521
+Poznañ  Gorlice  426
+Ko³obrzeg  Bi³goraj  631
+Siemiatycze  Zgorzelec  558
+Bytów  Wadowice  495
+Warka  Miêdzychód  374
+Nysa  Bytów  412
+Starachowice  Wadowice  169
+Rawicz  Rybnik  206
+£ódŸ  W³oc³awek  100
+Wadowice  Pu³tusk  334
+¯nin  Lubartów  369
+K³odzko  Starachowice  317
+Pi³a  Sokó³ka  449
+Chorzele  Œwiecie  163
+Lesko  Zielonka  326
+Zamoœæ  Zakopane  285
+Bia³a Podlaska  Lubartów  73
+Stargard Szczeciñski  Z³otów  133
+Szczecin  Pu³tusk  442
+Chorzele  Grudzi¹dz  142
+Opole  Gorlice  256
+Brzeg  Sokó³ka  498
+Stargard Szczeciñski  W³oszczowa  436
+Nowy S¹cz  Wadowice  91
+Bytom  W³oszczowa  91
+Wroc³aw  Zielona Góra  140
+Gorzów Wielkopolski  W³oc³awek  257
+Zamoœæ  Che³m  49
+Bydgoszcz  Gniezno  70
+Radom  Rybnik  235
+I³awa  Jelenia Góra  398
+Augustów  Chojnice  356
+I³awa  Busko Zdrój  358
+Gdañsk  Starachowice  405
+Kraków  I³awa  396
+Grudzi¹dz  Gniezno  131
+Brzeg  Wadowice  180
+Pi³a  Wadowice  412
+Stargard Szczeciñski  Brzeg  321
+Warszawa  ¯ywiec  306
+Starogard Gdañski  Sandomierz  425
+Kraków  Kalisz  231
+Czêstochowa  Kwidzyn  326
+Kraków  Sokó³ka  445
+Bia³ystok  Sandomierz  289
+Kalisz  Zgorzelec  224
+Czêstochowa  Mielec  173
+Chojnice  Che³m  493
+Gniezno  Siemiatycze  357
+E³k  W³adys³awowo  296
+Siemiatycze  Pu³awy  129
+Katowice  Lublin  274
+Rzeszów  O¿arów Mazowiecki  255
+Busko Zdrój  Nowa Sól  384
+Warszawa  Brzeg  287
+Bydgoszcz  Gostynin  126
+Rawicz  Radom  298
+Pi³a  Che³m  512
+Gliwice  Wadowice  74
+Opole  ¯nin  243
+P³ock  Siemiatycze  215
+Gostynin  Gliwice  244
+Ko³obrzeg  Tuchola  162
+Bia³ystok  Œwiebodzin  523
+Ko³obrzeg  W³adys³awowo  196
+Opole  W³oszczowa  144
+O¿arów Mazowiecki  K³odzko  349
+Poznañ  Lidzbark Warmiñski  308
+Elbl¹g  Sokó³ka  282
+Inowroc³aw  Ciechocinek  37
+Poznañ  ¯ywiec  342
+Rzeszów  ¯nin  431
+E³k  Siemiatycze  122
+Starogard Gdañski  Mielec  455
+Gdañsk  Radom  371
+Nowy S¹cz  Nysa  258
+Lesko  Œwiecie  516
+Nysa  Siemiatycze  441
+¯ywiec  Gostynin  303
+Brzeg  Warka  278
+Pi³a  K³odzko  302
+Krosno  Lidzbark Warmiñski  498
+Gliwice  Z³otoryja  215
+Kalisz  Gorlice  318
+Gostynin  Lesko  385
+Wadowice  W³adys³awowo  552
+Kraków  Wis³a  90
+Gostynin  Bukowina Tatrzañska  346
+£om¿a  E³k  38
+Zakopane  W³oszczowa  172
+Bukowina Tatrzañska  Ciechanów  395
+Wa³brzych  Rypin  332
+£om¿a  Lidzbark Warmiñski  143
+Oborniki  Mielec  413
+Lublin  Zgorzelec  526
+Be³chatów  Krosno  251
+Rawicz  Ko³o  139
+Bydgoszcz  Gorzów Wielkopolski  190
+Elbl¹g  Koœcierzyna  94
+Ko³obrzeg  Rypin  281
+Bydgoszcz  Siemiatycze  336
+Rawicz  Chojnice  238
+£om¿a  Che³m  248
+Œwiebodzin  W³adys³awowo  341
+Gorzów Wielkopolski  Gi¿ycko  458
+Bytom  Z³otów  356
+¯ywiec  Krosno  185
+Katowice  Brzeg  127
+Lublin  Krosno  180
+O¿arów Mazowiecki  Sokó³ka  224
+Ko³o  Œwiecie  136
+Lublin  Pu³tusk  194
+Zielona Góra  Bukowina Tatrzañska  434
+Bydgoszcz  O¿arów Mazowiecki  214
+Augustów  Starachowice  339
+Kraków  Rawicz  277
+Ciechocinek  Brzeg  241
+Ko³o  Bia³owie¿a  358
+Gi¿ycko  Bia³a Podlaska  240
+Koœcierzyna  Brzeg  363
+Lublin  Bi³goraj  79
+Zielona Góra  Gniezno  158
+¯ywiec  Bi³goraj  267
+Zamoœæ  Bytom  311
+Gdañsk  Chojnice  102
+Toruñ  Ciechocinek  20
+E³k  Lesko  447
+Kraków  Warszawa  251
+Kraków  Be³chatów  152
+Stargard Szczeciñski  Inowroc³aw  223
+Starogard Gdañski  Kwidzyn  37
+I³awa  Z³otów  170
+Rzeszów  Brzeg  333
+Zgierz  Bia³owie¿a  317
+Inowroc³aw  Czêstochowa  230
+Starogard Gdañski  Lubartów  392
+Gi¿ycko  Rybnik  492
+Pi³a  Lidzbark Warmiñski  274
+Krosno  Elbl¹g  522
+Be³chatów  Zielona Góra  274
+£ódŸ  Inowroc³aw  140
+I³awa  W³oszczowa  307
+Warka  Ciechanów  126
+Zielona Góra  Gliwice  287
+Busko Zdrój  W³adys³awowo  508
+Warszawa  Wa³brzych  365
+Rzeszów  Augustów  428
+¯nin  Zielonka  240
+Suwa³ki  Elbl¹g  230
+Ciechocinek  ¯nin  72
+Poznañ  ¯nin  72
+Kielce  Bia³owie¿a  301
+Stargard Szczeciñski  Augustów  526
+Poznañ  Elbl¹g  255
+Opole  Augustów  492
+Oborniki  Stalowa Wola  430
+Jelenia Góra  Bukowina Tatrzañska  357
+Chojnice  Sokó³ka  394
+Gorzów Wielkopolski  Inowroc³aw  203
+Czêstochowa  Pi³a  309
+Z³otów  Wis³a  432
+Toruñ  Czêstochowa  251
+Elbl¹g  K³odzko  454
+Katowice  Wroc³aw  169
+Katowice  Augustów  483
+Busko Zdrój  Tuchola  403
+Suwa³ki  Augustów  28
+W³oc³awek  Inowroc³aw  56
+Chorzele  Sandomierz  293
+Zamoœæ  Sokó³ka  299
+Szczecin  Tuchola  218
+Zamoœæ  Kalisz  378
+Lidzbark Warmiñski  Rypin  140
+Krosno  ¯nin  449
+Zgierz  K³odzko  249
+Be³chatów  Gliwice  130
+Suwa³ki  ¯nin  372
+Krosno  Augustów  469
+Grudzi¹dz  Gliwice  356
+Stargard Szczeciñski  Elbl¹g  302
+£ódŸ  Gi¿ycko  294
+£om¿a  Rawicz  394
+Radom  Ciechanów  167
+Rawicz  Starachowice  299
+Chorzele  Bia³a Podlaska  204
+Suwa³ki  Lidzbark Warmiñski  153
+Rawicz  Ciechanów  293
+¯ywiec  Rypin  375
+Koœcierzyna  ¯nin  142
+Zielonka  Rypin  146
+£om¿a  Warka  166
+Busko Zdrój  Œwiebodzin  416
+Szczecin  Gostynin  347
+E³k  Wa³brzych  511
+Nowa Sól  ¯ary  44
+Wadowice  Tuchola  429
+Bydgoszcz  Lesko  505
+Kalisz  Jelenia Góra  191
+Chojnice  K³odzko  367
+Kalisz  Busko Zdrój  237
+¯ywiec  Gliwice  75
+O¿arów Mazowiecki  Wis³a  316
+Wadowice  Rypin  354
+Bia³ystok  Stargard Szczeciñski  541
+Poznañ  Augustów  434
+Stalowa Wola  Sokó³ka  330
+Gdañsk  P³ock  214
+Bi³goraj  P³ock  306
+Gostynin  Gniezno  127
+Nysa  Gniezno  231
+Bia³owie¿a  Ciechanów  218
+Chorzele  Zamoœæ  327
+I³awa  Gorlice  451
+Grudzi¹dz  Krosno  469
+Brzeg  ¯ary  184
+Brzeg  Wis³a  167
+Bi³goraj  Miêdzychód  525
+Katowice  ¯nin  302
+Zgierz  Sokó³ka  324
+Gdañsk  Miêdzychód  268
+Kielce  Olsztyn  323
+Zgierz  Kalisz  91
+Opole  Pabianice  150
+Radom  Starachowice  41
+Pi³a  Wis³a  418
+Opole  Rypin  285
+E³k  Rypin  202
+Ciechanów  W³adys³awowo  260
+O¿arów Mazowiecki  Ciechanów  73
+Gorzów Wielkopolski  Zgorzelec  177
+Ciechanów  Wa³brzych  378
+Siemiatycze  Lesko  332
+Bydgoszcz  Zielona Góra  214
+Nowy S¹cz  Grudzi¹dz  450
+Che³m  Bia³owie¿a  176
+Olsztyn  Z³otoryja  428
+Warszawa  O¿arów Mazowiecki  16
+Poznañ  Bi³goraj  453
+Zgorzelec  Wis³a  320
+Kielce  Czêstochowa  106
+Zakopane  Z³otów  495
+Chorzele  Lidzbark Warmiñski  97
+Warka  Lesko  270
+Kraków  Sandomierz  146
+Zakopane  Gniezno  395
+Szczecin  Gniezno  226
+Toruñ  P³ock  91
+Kielce  Starachowice  36
+Siemiatycze  Pu³tusk  125
+Wroc³aw  Miêdzychód  183
+¯ywiec  Gniezno  334
+Zgierz  Wis³a  249
+Tuchola  Siemiatycze  360
+Zamoœæ  K³odzko  468
+Nowa Sól  Miêdzychód  90
+Grudzi¹dz  Gi¿ycko  208
+¯nin  Stalowa Wola  394
+Lublin  Z³otów  445
+Chojnice  Œwiecie  66
+Kraków  Bia³owie¿a  401
+Wroc³aw  Wa³brzych  64
+Nysa  O¿arów Mazowiecki  310
+Bydgoszcz  Rypin  94
+I³awa  Lubartów  316
+¯nin  Œwiebodzin  162
+Katowice  Busko Zdrój  130
+£om¿a  Kwidzyn  216
+Kielce  Œwiecie  319
+Rzeszów  ¯ywiec  206
+Rzeszów  Nowa Sól  482
+Wroc³aw  W³adys³awowo  420
+Busko Zdrój  Kwidzyn  385
+Kielce  Bytów  422
+Rzeszów  Szczecin  636
+Ciechocinek  Nowa Sól  241
+Czêstochowa  Warka  181
+Katowice  Suwa³ki  505
+Be³chatów  Bytów  336
+Toruñ  Radom  251
+Krosno  Koœcierzyna  556
+Oborniki  Lidzbark Warmiñski  299
+Stalowa Wola  Œwiecie  403
+Che³m  Ciechanów  274
+Starachowice  Z³otoryja  360
+Jelenia Góra  Bytów  382
+Opole  Lidzbark Warmiñski  424
+Inowroc³aw  Chojnice  110
+Szczecin  Gliwice  449
+Kwidzyn  Bytów  105
+Gi¿ycko  Zielonka  197
+Warszawa  W³adys³awowo  337
+Krosno  Z³otów  523
+£om¿a  Sokó³ka  98
+Busko Zdrój  Wa³brzych  321
+Zakopane  Pu³awy  275
+Bytom  Gorlice  180
+Olsztyn  Zgierz  225
+Suwa³ki  Brzeg  515
+W³oc³awek  Bytów  197
+Stargard Szczeciñski  Gi¿ycko  451
+Kraków  Ciechanów  317
+¯ary  Zgorzelec  54
+Lublin  Augustów  292
+Nowy S¹cz  Bia³a Podlaska  318
+Oborniki  Brzeg  202
+Grudzi¹dz  Bukowina Tatrzañska  471
+Gniezno  Starachowice  291
+Nowy S¹cz  Pabianice  247
+Ciechanów  Miêdzychód  321
+Starogard Gdañski  Kalisz  246
+Zgierz  Nowy S¹cz  266
+Bukowina Tatrzañska  Chojnice  517
+Stargard Szczeciñski  Gorlice  588
+Bia³ystok  Stalowa Wola  295
+Bukowina Tatrzañska  Miêdzychód  468
+Kalisz  W³adys³awowo  338
+Starogard Gdañski  I³awa  79
+Mielec  Wis³a  197
+Jelenia Góra  Lesko  496
+Gi¿ycko  E³k  72
+Suwa³ki  W³oszczowa  413
+Krosno  Che³m  200
+Zamoœæ  Œwiecie  446
+Rzeszów  Œwiebodzin  514
+Zielona Góra  Gi¿ycko  481
+Wroc³aw  Chojnice  289
+Grudzi¹dz  Ciechocinek  67
+Koœcierzyna  Wa³brzych  388
+Ko³obrzeg  Stalowa Wola  596
+O¿arów Mazowiecki  Zielonka  26
+Gniezno  Pu³tusk  236
+I³awa  Mielec  390
+Gdañsk  Bia³owie¿a  392
+Bi³goraj  Bia³owie¿a  254
+Poznañ  Brzeg  177
+Lublin  Elbl¹g  390
+Gorlice  Z³otoryja  406
+O¿arów Mazowiecki  Sandomierz  183
+Lesko  Pabianice  322
+I³awa  O¿arów Mazowiecki  175
+Nysa  Radom  288
+Bia³ystok  Oborniki  430
+Be³chatów  Zgorzelec  304
+Zielona Góra  ¯ary  42
+Starogard Gdañski  Warka  302
+£om¿a  Ko³obrzeg  442
+Augustów  Siemiatycze  158
+Mielec  Œwiebodzin  465
+O¿arów Mazowiecki  Bia³owie¿a  215
+Lublin  Gliwice  294
+Starachowice  Zielonka  141
+Bi³goraj  Ciechanów  297
+Zgierz  ¯ary  296
+Gdañsk  Ciechanów  213
+Starogard Gdañski  Zamoœæ  484
+Kraków  Zielonka  264
+Ko³obrzeg  Oborniki  190
+W³oc³awek  W³adys³awowo  243
+Kraków  Rzeszów  148
+Bydgoszcz  W³oszczowa  286
+Gdañsk  Gliwice  454
+Szczecin  Bi³goraj  644
+¯ywiec  Gorlice  142
+Krosno  Zakopane  139
+P³ock  Ciechanów  72
+Katowice  Tuchola  381
+Stargard Szczeciñski  Gostynin  314
+Brzeg  Zielonka  299
+Poznañ  W³oszczowa  273
+£om¿a  Lubartów  196
+Radom  Gniezno  275
+Gdañsk  Zgierz  283
+Tuchola  Rypin  119
+Starogard Gdañski  Oborniki  187
+Bia³ystok  ¯ywiec  470
+Zakopane  ¯nin  424
+Mielec  Zielonka  225
+Lublin  Siemiatycze  135
+Lublin  Opole  331
+Gi¿ycko  Bia³owie¿a  203
+Brzeg  Bia³owie¿a  484
+Zgierz  Sandomierz  209
+Chojnice  Lidzbark Warmiñski  204
+I³awa  Kwidzyn  44
+Bia³ystok  Zamoœæ  269
+Miêdzychód  Pu³tusk  351
+Elbl¹g  Che³m  435
+Nowy S¹cz  Be³chatów  216
+Zielona Góra  Ciechocinek  246
+Opole  Zgorzelec  211
+Lublin  Gostynin  250
+Ciechocinek  Gorlice  394
+Krosno  Busko Zdrój  110
+Brzeg  Ciechanów  310
+Szczecin  ¯nin  220
+E³k  W³oszczowa  335
+Ciechocinek  Œwiebodzin  231
+Opole  Brzeg  39
+Gorzów Wielkopolski  O¿arów Mazowiecki  381
+¯nin  Sokó³ka  391
+Oborniki  Bi³goraj  470
+£ódŸ  Starogard Gdañski  251
+Stalowa Wola  Wadowice  199
+Toruñ  Bukowina Tatrzañska  424
+Kielce  Bia³a Podlaska  215
+Kwidzyn  W³adys³awowo  124
+Gorzów Wielkopolski  Starogard Gdañski  258
+Bukowina Tatrzañska  Warka  283
+Gniezno  Brzeg  185
+Be³chatów  Lesko  298
+£ódŸ  Czêstochowa  112
+Katowice  Jelenia Góra  242
+£om¿a  K³odzko  480
+£ódŸ  O¿arów Mazowiecki  103
+Lubartów  Miêdzychód  478
+Kielce  Grudzi¹dz  315
+Zgierz  Warka  123
+Opole  Lubartów  339
+Kielce  W³oc³awek  224
+Pi³a  Bytom  343
+Bytów  Sokó³ka  403
+Zielona Góra  Ciechanów  363
+Kwidzyn  Miêdzychód  239
+Gdañsk  Nowy S¹cz  547
+Warka  Œwiecie  261
+Rzeszów  Gostynin  317
+Busko Zdrój  Mielec  49
+Bia³ystok  Gdañsk  328
+Katowice  Bytom  16
+Suwa³ki  Gorlice  508
+Katowice  Koœcierzyna  436
+Zamoœæ  Bia³a Podlaska  147
+Tuchola  Pu³awy  369
+Gorlice  Zielonka  293
+Rzeszów  Gi¿ycko  443
+Katowice  Stargard Szczeciñski  438
+E³k  Bi³goraj  329
+Bia³a Podlaska  Warka  134
+Gliwice  P³ock  262
+Inowroc³aw  Gi¿ycko  271
+Warszawa  Inowroc³aw  200
+P³ock  ¯ary  328
+I³awa  Pi³a  193
+Mielec  Warka  168
+Zgierz  Zielonka  128
+Gostynin  Ciechocinek  69
+Pi³a  Œwiecie  115
+Zgierz  I³awa  193
+Sandomierz  Warka  128
+Busko Zdrój  Ciechocinek  303
+Gdañsk  Z³otoryja  403
+Kalisz  Pabianice  88
+Koœcierzyna  W³adys³awowo  81
+Starogard Gdañski  Gorlice  511
+Oborniki  Rypin  180
+Be³chatów  Wa³brzych  225
+Gorlice  Wadowice  122
+Czêstochowa  Gorlice  193
+Z³otoryja  Rypin  321
+Gdañsk  Toruñ  148
+Pi³a  Zakopane  484
+Elbl¹g  Pabianice  278
+Olsztyn  Gostynin  167
+Pi³a  Koœcierzyna  133
+W³oc³awek  Starachowice  227
+Rybnik  Wadowice  71
+I³awa  Zgorzelec  412
+Rzeszów  Gorlice  74
+Gorzów Wielkopolski  Czêstochowa  343
+Busko Zdrój  Zgorzelec  413
+Bytów  Z³otoryja  354
+Mielec  Nowa Sól  434
+Inowroc³aw  Miêdzychód  161
+Sokó³ka  Lidzbark Warmiñski  208
+Bydgoszcz  Bi³goraj  433
+W³oc³awek  Jelenia Góra  300
+Gostynin  ¯ary  309
+Sandomierz  Bia³a Podlaska  178
+Gdañsk  Szczecin  286
+Inowroc³aw  Gostynin  93
+Opole  Mielec  251
+Gostynin  Ko³o  61
+Gorzów Wielkopolski  Brzeg  259
+W³oc³awek  Busko Zdrój  271
+Olsztyn  Gi¿ycko  89
+K³odzko  P³ock  315
+Gorzów Wielkopolski  Ko³o  239
+¯ary  Rypin  331
+Kwidzyn  Tuchola  73
+£ódŸ  Zgorzelec  316
+W³oc³awek  Wa³brzych  282
+Lublin  Pu³awy  46
+Tuchola  Z³otów  60
+Chorzele  Bia³owie¿a  209
+Grudzi¹dz  Ciechanów  142
+£ódŸ  Ko³o  73
+£ódŸ  Brzeg  171
+Busko Zdrój  Lubartów  168
+Mielec  Bi³goraj  95
+Wroc³aw  Bukowina Tatrzañska  295
+Zamoœæ  Wadowice  283
+Be³chatów  Miêdzychód  275
+Opole  Pi³a  290
+Miêdzychód  Z³otów  115
+Jelenia Góra  Ciechanów  401
+Grudzi¹dz  Miêdzychód  216
+Chorzele  E³k  100
+Bia³a Podlaska  Œwiecie  351
+£om¿a  Nowa Sól  456
+Lubartów  Zgorzelec  529
+W³oszczowa  Wis³a  155
+I³awa  Œwiebodzin  309
+Stargard Szczeciñski  Siemiatycze  535
+Rzeszów  Pi³a  502
+Gdañsk  Zielona Góra  342
+Bia³a Podlaska  Bytom  346
+W³oc³awek  Pu³tusk  137
+Bukowina Tatrzañska  Wis³a  96
+Kielce  £om¿a  274
+Ciechocinek  Bi³goraj  376
+Koœcierzyna  Stalowa Wola  484
+Gniezno  Z³otów  100
+Bi³goraj  Z³otoryja  482
+Lublin  Inowroc³aw  343
+Olsztyn  Ciechanów  102
+¯nin  Z³otów  73
+Pabianice  Rypin  156
+Rawicz  Bia³owie¿a  493
+Nysa  Busko Zdrój  245
+Gorzów Wielkopolski  Siemiatycze  517
+Opole  Sandomierz  269
+Krosno  Bytom  218
+Olsztyn  Starogard Gdañski  131
+Suwa³ki  Mielec  437
+Bia³a Podlaska  Oborniki  433
+Stargard Szczeciñski  Ko³obrzeg  99
+Be³chatów  Chojnice  287
+Katowice  W³adys³awowo  508
+Radom  Bytów  394
+Grudzi¹dz  Chojnice  84
+Warszawa  Stalowa Wola  196
+Bia³ystok  Warszawa  177
+Bydgoszcz  Poznañ  107
+Olsztyn  Chojnice  194
+Kalisz  Ciechocinek  133
+Busko Zdrój  Pabianice  167
+Poznañ  Mielec  393
+Bukowina Tatrzañska  Bytów  566
+Wadowice  W³oszczowa  112
+Bytom  Kwidzyn  373
+Bia³a Podlaska  Wis³a  399
+Toruñ  Krosno  430
+Augustów  Bia³owie¿a  141
+K³odzko  Z³otoryja  92
+£ódŸ  Siemiatycze  243
+Bukowina Tatrzañska  Œwiecie  469
+Suwa³ki  Zgorzelec  626
+Chorzele  Toruñ  153
+¯ywiec  Ciechocinek  355
+Stargard Szczeciñski  Kwidzyn  262
+Sandomierz  Wis³a  235
+Bytom  Siemiatycze  357
+Zgierz  Ko³o  64
+W³adys³awowo  Rypin  204
+Opole  Bi³goraj  338
+Jelenia Góra  Miêdzychód  189
+Kalisz  Tuchola  205
+Lublin  W³oc³awek  288
+Gostynin  Chojnice  192
+W³oc³awek  Lesko  422
+Chorzele  K³odzko  427
+Kielce  Radom  69
+Wroc³aw  Bytów  341
+Inowroc³aw  Gliwice  281
+Bydgoszcz  Gorlice  442
+Zielona Góra  Chojnice  240
+Zgierz  Starogard Gdañski  241
+Nysa  Starachowice  270
+Poznañ  Zgorzelec  192
+Lublin  Czêstochowa  246
+Bia³ystok  Elbl¹g  274
+£om¿a  Mielec  325
+W³oc³awek  Bukowina Tatrzañska  376
+Zakopane  Lesko  174
+Elbl¹g  Lubartów  371
+Bytów  Zielonka  319
+Mielec  W³oszczowa  121
+Rzeszów  Gliwice  240
+Gostynin  Ciechanów  93
+Siemiatycze  W³adys³awowo  395
+Rzeszów  Lubartów  161
+Toruñ  Rybnik  328
+E³k  Chojnice  318
+Bia³ystok  Rawicz  460
+Nysa  Jelenia Góra  123
+Gi¿ycko  Wadowice  487
+Ko³obrzeg  Augustów  485
+Starogard Gdañski  Be³chatów  295
+Sokó³ka  Œwiebodzin  550
+I³awa  Rypin  60
+Pi³a  Bia³a Podlaska  448
+Katowice  Zakopane  126
+Suwa³ki  Lubartów  295
+Gniezno  Pu³awy  324
+Bydgoszcz  Miêdzychód  153
+Zgierz  Chojnice  239
+Zgierz  Miêdzychód  254
+Busko Zdrój  ¯nin  340
+Radom  ¯ary  418
+Nowy S¹cz  Zamoœæ  220
+Rzeszów  Ko³obrzeg  635
+E³k  Miêdzychód  443
+Zakopane  Pu³tusk  388
+W³oszczowa  Œwiecie  304
+Bia³ystok  Augustów  81
+Bia³ystok  Jelenia Góra  566
+£ódŸ  Opole  164
+Suwa³ki  Rypin  260
+Gorzów Wielkopolski  Opole  296
+Be³chatów  W³oszczowa  71
+Radom  Œwiecie  291
+Kwidzyn  Lesko  529
+Gorzów Wielkopolski  Zielona Góra  91
+Sandomierz  Œwiecie  379
+Poznañ  Lubartów  405
+Rawicz  Toruñ  199
+Olsztyn  Gliwice  409
+Bydgoszcz  Zgorzelec  299
+Gi¿ycko  Sokó³ka  133
+£ódŸ  Bi³goraj  266
+£om¿a  Œwiebodzin  452
+Lesko  Ciechanów  396
+Warka  ¯ary  418
+Kielce  P³ock  196
+Bytów  Bia³owie¿a  452
+¯ywiec  Gi¿ycko  513
+Starachowice  Sokó³ka  311
+Kielce  Pu³awy  111
+Wroc³aw  Lesko  419
+Ko³obrzeg  Elbl¹g  250
+Rybnik  Z³otów  380
+Bia³owie¿a  Z³otoryja  572
+Toruñ  Pu³awy  290
+Koœcierzyna  Tuchola  58
+Bia³ystok  Wadowice  441
+Nowy S¹cz  Suwa³ki  522
+Zakopane  Bytów  567
+Bukowina Tatrzañska  ¯ary  434
+£ódŸ  Zielona Góra  273
+Gorzów Wielkopolski  Bi³goraj  571
+Rzeszów  Kwidzyn  461
+Jelenia Góra  Chojnice  335
+E³k  Gorlice  432
+Œwiebodzin  Z³otów  160
+Zielonka  Pu³awy  113
+Elbl¹g  Mielec  453
+Ciechocinek  Lubartów  306
+Gdañsk  Gostynin  224
+Poznañ  Zielonka  288
+Kielce  Rybnik  171
+I³awa  Ko³obrzeg  270
+Kraków  Zgierz  205
+Augustów  Sokó³ka  61
+Starogard Gdañski  Wis³a  481
+Grudzi¹dz  ¯ary  320
+Koœcierzyna  Pu³tusk  259
+Kraków  Ko³o  256
+Starogard Gdañski  ¯nin  135
+Krosno  Tuchola  511
+Busko Zdrój  Gorlice  93
+Gorzów Wielkopolski  Rypin  282
+Szczecin  W³oszczowa  467
+Nowa Sól  Zielonka  376
+Lubartów  Rypin  283
+Chojnice  Rybnik  408
+Radom  Ciechocinek  232
+I³awa  Gostynin  132
+¯ywiec  ¯nin  365
+Ciechocinek  Gliwice  289
+Ko³o  Miêdzychód  193
+E³k  Zgorzelec  562
+Starogard Gdañski  Che³m  459
+Ko³o  Chojnice  182
+Nysa  P³ock  284
+Czêstochowa  Wis³a  129
+Rawicz  Sokó³ka  491
+Kielce  £ódŸ  128
+Zamoœæ  Nysa  420
+Olsztyn  Zgorzelec  473
+Zamoœæ  Stalowa Wola  85
+Poznañ  Œwiebodzin  96
+Kraków  Nowy S¹cz  72
+Chorzele  Wadowice  388
+Gdañsk  Siemiatycze  353
+£om¿a  Zielonka  116
+Zielona Góra  Miêdzychód  79
+Bydgoszcz  Chojnice  71
+Ko³o  Ciechanów  153
+Kwidzyn  Wa³brzych  374
+Bia³ystok  E³k  67
+Wroc³aw  ¯ary  144
+Stargard Szczeciñski  Œwiebodzin  125
+¯ywiec  W³oszczowa  139
+Bytom  Rypin  300
+Bia³owie¿a  Siemiatycze  74
+Gorlice  Sokó³ka  445
+Suwa³ki  Zielonka  233
+Gi¿ycko  Z³otoryja  511
+Zgierz  Ciechanów  139
+Pabianice  Zgorzelec  307
+Szczecin  Gorlice  619
+O¿arów Mazowiecki  Mielec  219
+Zakopane  Oborniki  431
+Stargard Szczeciñski  Pi³a  116
+Stargard Szczeciñski  Rypin  292
+Opole  Ko³obrzeg  421
+Rzeszów  Zgorzelec  509
+Rawicz  Siemiatycze  421
+Suwa³ki  Sandomierz  388
+Ciechocinek  Zgorzelec  322
+Bytom  Œwiebodzin  313
+Sokó³ka  Bia³owie¿a  82
+£ódŸ  Rypin  143
+Koœcierzyna  Oborniki  182
+Œwiebodzin  Pu³awy  451
+Katowice  Oborniki  305
+Elbl¹g  Kwidzyn  57
+Be³chatów  ¯nin  200
+Starachowice  Bia³owie¿a  267
+Poznañ  Rypin  182
+Nowy S¹cz  Bytom  154
+Bi³goraj  Siemiatycze  212
+Bukowina Tatrzañska  Lesko  162
+Gniezno  P³ock  142
+Gi¿ycko  Lidzbark Warmiñski  79
+Olsztyn  Ko³o  215
+Opole  Zielonka  287
+Nowy S¹cz  Œwiecie  451
+Nysa  Pu³awy  341
+£om¿a  Sandomierz  279
+Rzeszów  Bi³goraj  73
+£ódŸ  Gostynin  70
+Poznañ  Pi³a  84
+Toruñ  Jelenia Góra  309
+Rawicz  Czêstochowa  180
+Bia³ystok  Z³otów  409
+Kalisz  Bytom  164
+Augustów  K³odzko  573
+Augustów  Z³otoryja  564
+Bia³ystok  £ódŸ  292
+Stargard Szczeciñski  Nowa Sól  177
+Rawicz  K³odzko  129
+P³ock  Miêdzychód  258
+Olsztyn  Szczecin  393
+Lublin  Brzeg  358
+Szczecin  Gi¿ycko  479
+Gorzów Wielkopolski  Gostynin  288
+Ko³obrzeg  Z³otów  131
+Bytom  Bi³goraj  271
+Stargard Szczeciñski  Bi³goraj  611
+Czêstochowa  ¯nin  247
+W³oc³awek  Tuchola  133
+Nowy S¹cz  Koœcierzyna  534
+Nowy S¹cz  Zakopane  65
+Kalisz  Wa³brzych  167
+Olsztyn  Nowy S¹cz  464
+Czêstochowa  Che³m  308
+Wroc³aw  Chorzele  355
+Suwa³ki  Nowa Sól  547
+Che³m  Zielonka  207
+Bytom  Nowa Sól  272
+Toruñ  Starachowice  278
+Krosno  Pu³tusk  339
+Pi³a  Rybnik  365
+Radom  Lesko  230
+Bia³ystok  Nysa  499
+Poznañ  Sandomierz  386
+Busko Zdrój  W³oszczowa  73
+Lublin  ¯ywiec  293
+Elbl¹g  Ciechanów  166
+£om¿a  Pi³a  354
+Inowroc³aw  Ko³o  72
+Kraków  Starogard Gdañski  446
+Poznañ  Nowa Sól  107
+Ko³obrzeg  Pu³awy  528
+Suwa³ki  Bi³goraj  397
+O¿arów Mazowiecki  Lubartów  151
+Krosno  Oborniki  475
+Kwidzyn  Ciechocinek  95
+Zakopane  Tuchola  500
+Wroc³aw  Ciechocinek  230
+Stargard Szczeciñski  Gliwice  421
+Toruñ  Busko Zdrój  323
+Gostynin  Gi¿ycko  237
+O¿arów Mazowiecki  Ko³o  147
+Warszawa  Jelenia Góra  394
+Stargard Szczeciñski  Zielona Góra  159
+Sandomierz  Bytom  204
+Gorlice  Bia³owie¿a  386
+Inowroc³aw  Zgorzelec  288
+Chorzele  Rawicz  329
+Katowice  Pu³tusk  310
+Siemiatycze  Wa³brzych  490
+Rybnik  Stalowa Wola  256
+Zgierz  Mielec  225
+Warszawa  Busko Zdrój  193
+Suwa³ki  Pi³a  421
+¯nin  Wadowice  352
+Bytom  Gliwice  20
+Gostynin  Miêdzychód  243
+Szczecin  Pi³a  148
+Wroc³aw  Ciechanów  314
+Starogard Gdañski  Busko Zdrój  419
+Sandomierz  Bi³goraj  70
+Ko³o  E³k  287
+K³odzko  Ciechanów  384
+Bukowina Tatrzañska  Siemiatycze  396
+Katowice  Warka  230
+Pi³a  Stalowa Wola  466
+Kielce  Gi¿ycko  359
+Inowroc³aw  W³oszczowa  247
+Czêstochowa  Tuchola  323
+Sandomierz  Augustów  362
+Poznañ  Warszawa  281
+Zamoœæ  Gorlice  190
+E³k  Stalowa Wola  325
+Lesko  Œwiebodzin  568
+O¿arów Mazowiecki  Pi³a  293
+£om¿a  Elbl¹g  207
+Chojnice  Nowa Sól  245
+Opole  Szczecin  384
+Ciechocinek  Pabianice  141
+Elbl¹g  Bukowina Tatrzañska  540
+Brzeg  Mielec  286
+Zielona Góra  Grudzi¹dz  279
+Toruñ  W³oszczowa  260
+Bydgoszcz  ¯ywiec  389
+Bydgoszcz  Œwiebodzin  192
+£ódŸ  ¯ary  299
+Rzeszów  W³oc³awek  355
+Ko³obrzeg  Mielec  588
+Gniezno  Stalowa Wola  379
+Wroc³aw  Elbl¹g  375
+Czêstochowa  Busko Zdrój  124
+Augustów  Ciechocinek  298
+Gliwice  Lesko  278
+Be³chatów  Z³otoryja  241
+Opole  Zamoœæ  376
+Be³chatów  Stalowa Wola  210
+I³awa  E³k  184
+Toruñ  Brzeg  253
+Bydgoszcz  Olsztyn  181
+Gorzów Wielkopolski  ¯ary  123
+Pi³a  Bukowina Tatrzañska  486
+Busko Zdrój  Koœcierzyna  449
+£ódŸ  Toruñ  150
+Stargard Szczeciñski  Bytom  422
+W³oc³awek  ¯nin  92
+E³k  Z³otoryja  509
+W³oc³awek  Rybnik  288
+Che³m  Miêdzychód  546
+Z³otoryja  Wis³a  266
+Kwidzyn  Gorlice  478
+Gi¿ycko  Lubartów  293
+K³odzko  Bia³owie¿a  558
+Gorzów Wielkopolski  Zgierz  300
+Gorzów Wielkopolski  Toruñ  229
+Zielona Góra  Œwiecie  257
+Opole  Ciechocinek  253
+Pi³a  Œwiebodzin  131
+Ciechocinek  Starachowice  258
+Inowroc³aw  £om¿a  259
+Starogard Gdañski  Tuchola  61
+Ko³obrzeg  Bytów  126
+Koœcierzyna  Gniezno  178
+Poznañ  O¿arów Mazowiecki  265
+Zamoœæ  ¯nin  449
+E³k  Œwiebodzin  477
+Gorlice  Pabianice  256
+Bytów  Starachowice  423
+Wroc³aw  £om¿a  413
+Stargard Szczeciñski  Lubartów  555
+Mielec  Rypin  340
+Œwiecie  Z³otów  93
+Ciechanów  ¯ary  399
+£ódŸ  Zgierz  10
+Katowice  Kalisz  180
+Rzeszów  Pabianice  259
+¯ywiec  Miêdzychód  397
+I³awa  Krosno  459
+Opole  Gi¿ycko  456
+Brzeg  Pabianice  158
+O¿arów Mazowiecki  Chojnice  273
+Bytów  Pabianice  305
+Nysa  Bi³goraj  381
+Gostynin  Rypin  72
+Grudzi¹dz  Tuchola  62
+Katowice  I³awa  375
+Warszawa  Gniezno  236
+Gostynin  K³odzko  293
+Szczecin  Starogard Gdañski  268
+Busko Zdrój  Siemiatycze  261
+Suwa³ki  O¿arów Mazowiecki  253
+Bukowina Tatrzañska  Lidzbark Warmiñski  533
+Bi³goraj  Wa³brzych  454
+Sandomierz  W³oszczowa  127
+Kielce  Szczecin  500
+Brzeg  Starachowice  252
+Zgierz  Bytom  169
+Bytom  Lubartów  286
+Opole  Gostynin  222
+Warszawa  Koœcierzyna  295
+Mielec  Zgorzelec  462
+Gdañsk  K³odzko  456
+O¿arów Mazowiecki  Radom  94
+Chorzele  P³ock  112
+Gorzów Wielkopolski  Nowy S¹cz  515
+Gniezno  Nowa Sól  152
+Chorzele  Ko³obrzeg  364
+Opole  Nysa  48
+Be³chatów  Toruñ  192
+Poznañ  W³adys³awowo  282
+£ódŸ  Bia³owie¿a  316
+£om¿a  Rybnik  421
+Ko³obrzeg  Pabianice  377
+Warszawa  Che³m  206
+Olsztyn  Rypin  108
+Olsztyn  Jelenia Góra  456
+Zamoœæ  Toruñ  410
+Kalisz  Zakopane  304
+Bukowina Tatrzañska  Koœcierzyna  552
+Ko³obrzeg  Starachowice  509
+Lidzbark Warmiñski  Miêdzychód  354
+Szczecin  Radom  501
+Ko³o  Gliwice  213
+Nowy S¹cz  Oborniki  431
+£om¿a  W³oszczowa  297
+Bytów  Lesko  619
+Rzeszów  Czêstochowa  222
+Be³chatów  ¯ywiec  186
+Kwidzyn  ¯nin  127
+Rzeszów  Mielec  49
+Inowroc³aw  Elbl¹g  170
+Grudzi¹dz  Œwiecie  23
+Wroc³aw  Bia³owie¿a  500
+W³oc³awek  Toruñ  52
+Pi³a  Oborniki  59
+¯ary  Pu³awy  473
+I³awa  Zielonka  179
+Gorzów Wielkopolski  Bia³owie¿a  581
+Katowice  Inowroc³aw  288
+Chorzele  Ko³o  192
+Inowroc³aw  Busko Zdrój  313
+Kraków  Mielec  109
+Olsztyn  K³odzko  454
+Ciechocinek  Mielec  342
+Gorzów Wielkopolski  Nowa Sól  109
+W³oc³awek  Gorlice  363
+Gdañsk  Wadowice  502
+Chojnice  ¯ary  282
+£om¿a  Z³otów  335
+Bia³a Podlaska  Z³otów  436
+Bydgoszcz  Z³otoryja  262
+Nysa  Augustów  537
+Kalisz  Krosno  345
+Elbl¹g  Oborniki  242
+Gdañsk  Sokó³ka  337
+Toruñ  Rypin  52
+Kwidzyn  Z³otów  132
+Ciechocinek  Lesko  453
+£ódŸ  Nowa Sól  258
+¯ywiec  Ko³o  281
+Be³chatów  Gorlice  228
+¯ywiec  Mielec  172
+Lubartów  Ciechanów  208
+Bydgoszcz  Kielce  306
+Lublin  P³ock  245
+Stalowa Wola  Z³otów  465
+Zielona Góra  Busko Zdrój  404
+Chorzele  Chojnice  226
+Suwa³ki  Wa³brzych  582
+Nowy S¹cz  Nowa Sól  427
+Inowroc³aw  Z³otów  103
+Siemiatycze  Miêdzychód  473
+Kraków  Bytów  487
+Zamoœæ  Z³otów  518
+Kraków  Starachowice  135
+Kalisz  Che³m  380
+Bia³a Podlaska  Tuchola  394
+Zgierz  Suwa³ki  342
+Busko Zdrój  Lidzbark Warmiñski  406
+Warka  Wadowice  243
+Kraków  P³ock  279
+Inowroc³aw  Bia³owie¿a  378
+Kraków  Chojnice  438
+W³oszczowa  Z³otów  344
+W³oc³awek  Ciechanów  109
+Starogard Gdañski  Grudzi¹dz  56
+Bukowina Tatrzañska  Gniezno  397
+Starachowice  Lidzbark Warmiñski  344
+Tuchola  Miêdzychód  172
+Chorzele  Miêdzychód  343
+Sandomierz  Brzeg  301
+Ko³obrzeg  Lidzbark Warmiñski  327
+Starachowice  Lubartów  117
+¯ywiec  Bytom  79
+Nysa  ¯ary  201
+Lublin  Ko³obrzeg  573
+Toruñ  Tuchola  81
+Inowroc³aw  Tuchola  93
+Kalisz  E³k  344
+¯ywiec  Chojnice  459
+Kielce  Zamoœæ  187
+Nowy S¹cz  Bi³goraj  176
+Pi³a  Radom  359
+Bydgoszcz  Starogard Gdañski  101
+Olsztyn  Opole  388
+Gniezno  ¯ary  196
+Miêdzychód  Wis³a  388
+Lublin  Bytów  472
+Wroc³aw  Gorlice  334
+Gorzów Wielkopolski  Olsztyn  369
+£ódŸ  Nowy S¹cz  256
+Poznañ  Wa³brzych  187
+Zgierz  Zielona Góra  269
+Bydgoszcz  Toruñ  42
+Kielce  Krosno  155
+W³oc³awek  Z³otoryja  273
+W³oc³awek  Bia³owie¿a  325
+W³oc³awek  Stalowa Wola  312
+Katowice  Gostynin  243
+Kraków  Radom  173
+Rzeszów  Starachowice  128
+Elbl¹g  ¯nin  184
+P³ock  Sokó³ka  271
+Suwa³ki  W³adys³awowo  303
+Z³otoryja  Pu³awy  422
+Warszawa  E³k  168
+Siemiatycze  Nowa Sól  493
+Ko³o  Ciechocinek  77
+Bia³ystok  Pu³tusk  147
+Chorzele  Zgierz  185
+Lublin  Radom  99
+Gostynin  Pu³tusk  114
+Sandomierz  ¯ary  473
+Czêstochowa  Œwiecie  295
+Bytów  Mielec  508
+Busko Zdrój  Wis³a  165
+Gniezno  Rybnik  280
+Gliwice  Siemiatycze  377
+Warszawa  Sandomierz  176
+Gostynin  Zgorzelec  337
+Zakopane  Kwidzyn  498
+Toruñ  Bi³goraj  396
+Gi¿ycko  Bytom  451
+Rzeszów  Stargard Szczeciñski  604
+Be³chatów  Radom  125
+Lesko  ¯ary  563
+Kwidzyn  Œwiebodzin  281
+Szczecin  Kwidzyn  290
+Toruñ  Augustów  302
+£ódŸ  Chorzele  191
+£ódŸ  ¯ywiec  232
+Chorzele  Radom  208
+Grudzi¹dz  Wa³brzych  345
+Elbl¹g  Nowa Sól  361
+Gorzów Wielkopolski  Lublin  529
+Inowroc³aw  Œwiecie  70
+Wroc³aw  Tuchola  282
+Lublin  Chojnice  437
+Lublin  Miêdzychód  483
+Rzeszów  Bytów  552
+Grudzi¹dz  Busko Zdrój  363
+Kraków  Miêdzychód  400
+£om¿a  Busko Zdrój  314
+Zakopane  Lubartów  305
+Busko Zdrój  Che³m  203
+Sandomierz  Oborniki  403
+Opole  O¿arów Mazowiecki  263
+O¿arów Mazowiecki  Œwiebodzin  359
+Bia³a Podlaska  ¯nin  377
+Lesko  Z³otoryja  492
+Stalowa Wola  Œwiebodzin  491
+Rzeszów  Lesko  69
+Gorzów Wielkopolski  ¯ywiec  436
+Rybnik  Pu³tusk  341
+Bydgoszcz  Pi³a  84
+Szczecin  ¯ywiec  524
+Be³chatów  Bia³owie¿a  342
+Rawicz  Warka  299
+Gorzów Wielkopolski  Chorzele  383
+Szczecin  Czêstochowa  427
+Suwa³ki  Nysa  555
+O¿arów Mazowiecki  P³ock  83
+Warszawa  I³awa  184
+Starogard Gdañski  Œwiecie  62
+Starogard Gdañski  Z³otów  119
+Radom  Warka  43
+Rawicz  Gliwice  193
+Gorzów Wielkopolski  Z³otoryja  184
+Katowice  £ódŸ  174
+Katowice  Nysa  121
+Pi³a  Gorlice  495
+£ódŸ  Rybnik  200
+Mielec  Pu³tusk  272
+Nysa  Brzeg  46
+Be³chatów  Ciechanów  188
+Starachowice  Che³m  169
+Nowy S¹cz  ¯ary  452
+O¿arów Mazowiecki  Miêdzychód  336
+P³ock  Zgorzelec  357
+Jelenia Góra  Ciechocinek  304
+Oborniki  Zielonka  296
+Brzeg  Miêdzychód  222
+Gostynin  Brzeg  220
+Sandomierz  Pu³tusk  231
+Zielona Góra  Wa³brzych  139
+¯ary  Zielonka  419
+Kalisz  Gliwice  170
+Brzeg  P³ock  242
+Szczecin  Lubartów  588
+£ódŸ  Z³otoryja  256
+Bukowina Tatrzañska  Zielonka  338
+£om¿a  Bia³owie¿a  132
+Bukowina Tatrzañska  Pabianice  265
+K³odzko  Gorlice  334
+Zamoœæ  Oborniki  493
+Gorzów Wielkopolski  Rybnik  374
+Kalisz  Sandomierz  281
+Rawicz  Wadowice  266
+Bi³goraj  Zgorzelec  545
+Zamoœæ  Elbl¹g  464
+Zielona Góra  O¿arów Mazowiecki  364
+Nysa  Rybnik  96
+Wroc³aw  Z³otów  250
+Chorzele  Stalowa Wola  311
+Pi³a  P³ock  210
+Kielce  Zielonka  162
+Warszawa  Gliwice  269
+Warszawa  Suwa³ki  246
+Inowroc³aw  Toruñ  36
+Kielce  Zakopane  182
+Zgierz  Siemiatycze  244
+Rawicz  Sandomierz  356
+Czêstochowa  Bia³a Podlaska  309
+Warka  Pu³awy  67
+£om¿a  Z³otoryja  477
+Zakopane  Stalowa Wola  208
+E³k  Bia³owie¿a  134
+Nowa Sól  Pabianice  252
+Zgierz  Che³m  293
+Warka  Zielonka  58
+Koœcierzyna  Warka  338
+Gorzów Wielkopolski  W³oszczowa  387
+¯ywiec  Suwa³ki  552
+Kielce  Wadowice  136
+Bukowina Tatrzañska  Mielec  143
+Olsztyn  Wadowice  439
+Poznañ  Gi¿ycko  370
+Kalisz  Nysa  154
+Pi³a  Z³otów  29
+Ciechocinek  Miêdzychód  198
+Gliwice  Pu³awy  264
+Stargard Szczeciñski  Che³m  625
+Nowy S¹cz  W³oszczowa  147
+Augustów  Zielonka  211
+Bytów  Miêdzychód  205
+Lublin  Zielona Góra  494
+Warszawa  Warka  48
+Pi³a  Bia³owie¿a  480
+Czêstochowa  W³adys³awowo  447
+Gostynin  Bi³goraj  307
+¯nin  Bia³owie¿a  414
+Krosno  Wis³a  209
+Kraków  ¯ywiec  66
+Warszawa  Kalisz  207
+Warszawa  Wroc³aw  301
+Mielec  Sokó³ka  374
+Gorzów Wielkopolski  P³ock  302
+Be³chatów  Pi³a  268
+O¿arów Mazowiecki  Czêstochowa  196
+Opole  Be³chatów  127
+Kraków  W³oc³awek  296
+Jelenia Góra  Wa³brzych  41
+Poznañ  Nysa  219
+Wroc³aw  Busko Zdrój  274
+Gostynin  Sokó³ka  292
+Kraków  Lesko  183
+Gorlice  Miêdzychód  492
+Che³m  Z³otoryja  528
+Bia³ystok  O¿arów Mazowiecki  189
+Lublin  Stalowa Wola  82
+Jelenia Góra  W³adys³awowo  469
+Be³chatów  Kwidzyn  265
+Olsztyn  Augustów  162
+Nysa  Tuchola  350
+Toruñ  Œwiecie  44
+Kielce  Be³chatów  102
+Zgierz  Ko³obrzeg  363
+Rzeszów  Miêdzychód  512
+Warszawa  W³oc³awek  143
+P³ock  Rypin  61
+¯ywiec  Bukowina Tatrzañska  77
+K³odzko  Œwiebodzin  215
+Czêstochowa  Ciechanów  252
+Warszawa  Czêstochowa  205
+Opole  Warszawa  274
+Be³chatów  £om¿a  273
+Gorzów Wielkopolski  Kielce  423
+Ko³obrzeg  Siemiatycze  522
+Suwa³ki  Gi¿ycko  75
+Nysa  Rypin  322
+Warszawa  Bytom  251
+Ko³o  Lesko  399
+W³oc³awek  Radom  201
+Jelenia Góra  Sandomierz  423
+Czêstochowa  Rybnik  89
+Kwidzyn  P³ock  141
+O¿arów Mazowiecki  Bytów  309
+Zamoœæ  Bukowina Tatrzañska  274
+Gi¿ycko  Kwidzyn  190
+W³oc³awek  ¯ywiec  328
+Gniezno  Bi³goraj  418
+Brzeg  Lesko  379
+I³awa  Rawicz  288
+Warszawa  Gostynin  109
+Bia³a Podlaska  Gorlice  297
+Zamoœæ  Œwiebodzin  562
+Ciechanów  Pu³tusk  35
+Zielona Góra  £om¿a  465
+Zakopane  Starachowice  208
+Ciechanów  Nowa Sól  354
+Oborniki  Zgorzelec  206
+Kielce  Siemiatycze  232
+Warka  Zgorzelec  434
+Bydgoszcz  ¯ary  255
+Lublin  Nowa Sól  478
+Olsztyn  Sokó³ka  203
+Wadowice  Lesko  209
+£ódŸ  Radom  125
+Poznañ  Ciechocinek  136
+Gdañsk  Warka  334
+Sandomierz  Zgorzelec  475
+P³ock  Pu³tusk  95
+£ódŸ  Busko Zdrój  173
+Szczecin  Bytów  209
+O¿arów Mazowiecki  Pabianice  116
+Kraków  Czêstochowa  102
+Jelenia Góra  Bia³a Podlaska  526
+Gorzów Wielkopolski  Chojnice  188
+Bytów  Chojnice  52
+Zgierz  Lidzbark Warmiñski  262
+O¿arów Mazowiecki  Lesko  324
+Nowy S¹cz  Augustów  496
+Lublin  Starachowice  107
+Grudzi¹dz  W³adys³awowo  148
+Grudzi¹dz  Rybnik  378
+Rawicz  Pu³awy  353
+Gdañsk  Jelenia Góra  432
+Be³chatów  Rybnik  154
+Busko Zdrój  Bytom  135
+Gorzów Wielkopolski  Radom  432
+Starogard Gdañski  Bia³a Podlaska  374
+Suwa³ki  Ciechocinek  306
+Toruñ  W³adys³awowo  197
+W³oc³awek  P³ock  45
+Lublin  Zgierz  229
+Gdañsk  I³awa  105
+Katowice  O¿arów Mazowiecki  252
+£ódŸ  Stalowa Wola  227
+Kraków  Olsztyn  417
+Chorzele  Rybnik  389
+Rzeszów  E³k  382
+Pi³a  Elbl¹g  207
+Kraków  Pabianice  184
+Bia³a Podlaska  Rybnik  386
+Bukowina Tatrzañska  Pu³awy  267
+Kielce  W³adys³awowo  460
+Szczecin  Lesko  695
+Suwa³ki  E³k  79
+Zgierz  Koœcierzyna  268
+Katowice  E³k  427
+E³k  ¯ary  529
+Bytom  Che³m  333
+I³awa  Pabianice  215
+Œwiecie  Z³otoryja  306
+Nysa  Nowa Sól  186
+Gorzów Wielkopolski  Stalowa Wola  530
+Starogard Gdañski  Ciechanów  185
+Olsztyn  Rzeszów  428
+Tuchola  Nowa Sól  246
+Wroc³aw  Stalowa Wola  360
+Warszawa  Wis³a  322
+Toruñ  ¯ary  283
+Nowy S¹cz  Jelenia Góra  381
+Katowice  Rawicz  212
+Bydgoszcz  Lublin  375
+Olsztyn  Brzeg  384
+Pi³a  ¯nin  74
+W³oc³awek  Z³otów  157
+£om¿a  ¯ary  501
+W³oc³awek  Elbl¹g  170
+£ódŸ  Miêdzychód  261
+£ódŸ  Elbl¹g  265
+£ódŸ  Z³otów  241
+Radom  Busko Zdrój  107
+Opole  Rawicz  128
+Kwidzyn  Ciechanów  148
+Katowice  Che³m  331
+Lublin  Mielec  132
+Bi³goraj  W³oszczowa  197
+Gliwice  Pabianice  161
+Zamoœæ  Z³otoryja  517
+Lublin  Ko³o  290
+Bydgoszcz  Chorzele  193
+Jelenia Góra  Krosno  449
+Kwidzyn  Stalowa Wola  412
+¯ary  Wis³a  343
+Zielona Góra  W³adys³awowo  372
+Wa³brzych  Nowa Sól  120
+Chorzele  Nowy S¹cz  406
+Gorzów Wielkopolski  Miêdzychód  46
+¯ywiec  Oborniki  366
+Inowroc³aw  Wa³brzych  262
+I³awa  Starachowice  303
+Bytów  P³ock  232
+O¿arów Mazowiecki  Toruñ  173
+O¿arów Mazowiecki  ¯ary  394
+Gorzów Wielkopolski  Elbl¹g  319
+Chorzele  £om¿a  79
+Bydgoszcz  Bytów  121
+Kraków  Chorzele  363
+Chojnice  Brzeg  315
+Lubartów  Wadowice  280
+Olsztyn  ¯nin  212
+Ko³o  Bytów  232
+Ciechanów  Zgorzelec  429
+Bia³ystok  Bia³owie¿a  67
+¯nin  Pu³tusk  227
+Elbl¹g  Bytom  422
+Bytom  Lidzbark Warmiñski  431
+Katowice  Wis³a  67
+£om¿a  Toruñ  231
+Krosno  E³k  423
+Zakopane  Gorlice  97
+Stalowa Wola  Z³otoryja  437
+Wadowice  Œwiebodzin  382
+Poznañ  E³k  383
+Starogard Gdañski  £om¿a  249
+Inowroc³aw  O¿arów Mazowiecki  184
+Busko Zdrój  Zielonka  205
+Koœcierzyna  Che³m  498
+£ódŸ  Chojnice  249
+Ko³obrzeg  Lesko  699
+Gorlice  P³ock  337
+Bia³owie¿a  Pu³awy  193
+Poznañ  Inowroc³aw  100
+Zielona Góra  Bia³a Podlaska  521
+Brzeg  Z³otoryja  114
+Gorlice  Mielec  71
+Bia³a Podlaska  Busko Zdrój  237
+Koœcierzyna  Wis³a  500
+K³odzko  Pu³tusk  397
+Stargard Szczeciñski  Lidzbark Warmiñski  375
+Nowy S¹cz  Chojnice  503
+Augustów  Zgorzelec  616
+Kraków  Z³otoryja  309
+Be³chatów  Œwiebodzin  281
+Ko³o  Zakopane  335
+Zakopane  P³ock  362
+E³k  Bytów  327
+Stalowa Wola  Bia³owie¿a  267
+¯ywiec  Ko³obrzeg  555
+Jelenia Góra  Gliwice  218
+Sokó³ka  Ciechanów  200
+Kielce  Lesko  199
+Zielona Góra  Zamoœæ  556
+Kielce  Ciechocinek  256
+Poznañ  Rawicz  91
+Gorlice  Starachowice  152
+Jelenia Góra  Œwiecie  335
+Szczecin  Stargard Szczeciñski  33
+¯ywiec  Nowa Sól  338
+Bia³a Podlaska  Ciechanów  192
+Che³m  Pabianice  292
+Be³chatów  Tuchola  269
+Ko³o  W³adys³awowo  290
+Wroc³aw  Kwidzyn  318
+Chorzele  Zielona Góra  393
+Grudzi¹dz  Bia³a Podlaska  334
+Busko Zdrój  Gniezno  319
+Jelenia Góra  Zakopane  349
+Lublin  Rybnik  311
+Opole  E³k  435
+Kwidzyn  Rybnik  407
+£ódŸ  P³ock  87
+Katowice  Warszawa  259
+Grudzi¹dz  £om¿a  222
+Lidzbark Warmiñski  Nowa Sól  415
+Nysa  Ko³obrzeg  429
+Lublin  Nowy S¹cz  223
+Pi³a  Z³otoryja  233
+Inowroc³aw  Z³otoryja  245
+Suwa³ki  Rawicz  493
+Kwidzyn  Lubartów  355
+Opole  Inowroc³aw  238
+Zamoœæ  Bia³owie¿a  224
+Ko³obrzeg  Zakopane  619
+Toruñ  Sokó³ka  328
+Kielce  Sokó³ka  342
+Zielona Góra  Tuchola  244
+Gniezno  Tuchola  120
+Inowroc³aw  ¯ary  249
+I³awa  Gi¿ycko  153
+Kielce  K³odzko  284
+Poznañ  Be³chatów  205
+I³awa  Nysa  380
+O¿arów Mazowiecki  Z³otoryja  358
+Katowice  W³oc³awek  267
+Szczecin  Œwiebodzin  147
+Kielce  Wa³brzych  304
+Chorzele  Nowa Sól  386
+Bia³a Podlaska  Stalowa Wola  178
+Starogard Gdañski  Rybnik  432
+Kraków  Toruñ  344
+Starachowice  Pu³awy  76
+Toruñ  Wa³brzych  297
+Bia³a Podlaska  Radom  152
+¯nin  Oborniki  65
+Kraków  ¯ary  381
+Toruñ  K³odzko  318
+Wroc³aw  Rybnik  157
+Nowy S¹cz  Miêdzychód  472
+Gliwice  Lidzbark Warmiñski  446
+W³oszczowa  Ciechanów  229
+Wa³brzych  Zielonka  376
+Szczecin  Zakopane  592
+Krosno  Warka  235
+Chorzele  Bi³goraj  329
+Bydgoszcz  Bia³owie¿a  396
+Grudzi¹dz  Zamoœæ  435
+Nysa  Œwiecie  337
+Gorzów Wielkopolski  Z³otów  139
+Kalisz  Starachowice  221
+Rybnik  Bia³owie¿a  470
+£ódŸ  W³oszczowa  109
+Bydgoszcz  Tuchola  55
+Gorzów Wielkopolski  Grudzi¹dz  250
+Gorlice  Stalowa Wola  120
+Czêstochowa  Œwiebodzin  296
+Stargard Szczeciñski  Oborniki  143
+Gniezno  Rypin  135
+Bytów  Stalowa Wola  507
+Poznañ  £om¿a  356
+Gi¿ycko  ¯nin  300
+Inowroc³aw  Rawicz  163
+O¿arów Mazowiecki  Z³otów  284
+Nowy S¹cz  K³odzko  304
+Zielona Góra  Toruñ  244
+Grudzi¹dz  Nysa  349
+O¿arów Mazowiecki  Elbl¹g  236
+Augustów  Tuchola  338
+Grudzi¹dz  Z³otoryja  325
+Nowy S¹cz  Zgorzelec  437
+Rzeszów  Stalowa Wola  58
+Oborniki  Tuchola  128
+Rybnik  Œwiebodzin  320
+Tuchola  W³oszczowa  338
+Chorzele  Lesko  434
+Bytom  Oborniki  289
+Bia³ystok  Gostynin  261
+Sandomierz  Wadowice  183
+Lidzbark Warmiñski  Pu³awy  314
+Stargard Szczeciñski  Wis³a  488
+Warszawa  Starogard Gdañski  258
+Szczecin  Elbl¹g  328
+Bytów  Ciechocinek  166
+Che³m  Z³otów  504
+Siemiatycze  Lidzbark Warmiñski  241
+Starogard Gdañski  Stalowa Wola  449
+Gi¿ycko  Oborniki  365
+Œwiebodzin  Wis³a  372
+Chorzele  Stargard Szczeciñski  389
+Zakopane  Ciechanów  399
+Bia³a Podlaska  Kwidzyn  338
+£ódŸ  Grudzi¹dz  195
+¯nin  Warka  265
+Zakopane  Bia³owie¿a  467
+Bydgoszcz  Stargard Szczeciñski  199
+Zgierz  Oborniki  196
+Zamoœæ  Lubartów  93
+Wroc³aw  Pi³a  229
+Warka  Lidzbark Warmiñski  263
+Starachowice  Wis³a  219
+Bydgoszcz  Busko Zdrój  352
+Rzeszów  Ciechocinek  386
+Busko Zdrój  Wadowice  113
+Gdañsk  Pu³awy  397
+Bia³ystok  Kalisz  375
+Toruñ  Ko³o  93
+Nysa  W³adys³awowo  487
+Wroc³aw  O¿arów Mazowiecki  287
+W³oc³awek  Lubartów  278
+Augustów  Lesko  489
+Sandomierz  Sokó³ka  325
+Jelenia Góra  Busko Zdrój  360
+E³k  Tuchola  298
+Stalowa Wola  Lubartów  105
+Starogard Gdañski  Œwiebodzin  277
+Rzeszów  Zamoœæ  116
+Bia³a Podlaska  P³ock  239
+Inowroc³aw  Radom  253
+Pabianice  Pu³awy  182
+Wroc³aw  Starogard Gdañski  333
+Elbl¹g  Lidzbark Warmiñski  77
+Warszawa  Kwidzyn  221
+Oborniki  Lesko  522
+P³ock  Pu³awy  200
+Stargard Szczeciñski  Kalisz  271
+Nysa  Wa³brzych  82
+Kalisz  Pi³a  181
+Toruñ  Ko³obrzeg  237
+Ciechocinek  Stalowa Wola  343
+Stargard Szczeciñski  ¯nin  187
+Zielona Góra  Krosno  505
+Kraków  Rybnik  100
+Czêstochowa  Stalowa Wola  211
+I³awa  Bia³a Podlaska  295
+£om¿a  Wa³brzych  477
+Kalisz  O¿arów Mazowiecki  192
+Ko³o  Bia³a Podlaska  305
+Bytom  ¯nin  286
+Starogard Gdañski  Inowroc³aw  131
+Be³chatów  Czêstochowa  65
+Kraków  Z³otów  420
+Zielona Góra  Gostynin  276
+Busko Zdrój  Sokó³ka  375
+Bia³ystok  ¯nin  366
+Kalisz  Kwidzyn  226
+Warszawa  Pi³a  308
+Ko³obrzeg  Nowa Sól  263
+I³awa  Grudzi¹dz  54
+£om¿a  W³adys³awowo  300
+Zakopane  Gliwice  143
+Kraków  Krosno  136
+Gorzów Wielkopolski  Starachowice  443
+Nysa  Chojnice  360
+Toruñ  Chojnice  102
+Jelenia Góra  Starachowice  374
+Gorzów Wielkopolski  Bytów  219
+Grudzi¹dz  Gostynin  128
+Opole  Bytów  390
+Gniezno  Lesko  475
+Poznañ  Z³otów  106
+Tuchola  Lesko  554
+£ódŸ  Bia³a Podlaska  252
+Kwidzyn  Starachowice  333
+Opole  Stargard Szczeciñski  357
+Bydgoszcz  Czêstochowa  269
+Warka  Siemiatycze  135
+Kielce  Zgorzelec  393
+£ódŸ  Wa³brzych  248
+Suwa³ki  Z³otów  396
+Olsztyn  Oborniki  277
+Oborniki  W³oszczowa  294
+£ódŸ  Bytów  296
+Stargard Szczeciñski  Pu³awy  516
+Che³m  ¯ary  582
+E³k  Œwiecie  259
+Gdañsk  Rzeszów  532
+Chorzele  Tuchola  204
+£om¿a  P³ock  174
+Szczecin  £om¿a  499
+Chojnice  Zgorzelec  331
+Kraków  E³k  416
+Bia³ystok  Warka  201
+Nowy S¹cz  Mielec  91
+Grudzi¹dz  Œwiebodzin  257
+Kraków  Elbl¹g  459
+Rzeszów  Inowroc³aw  402
+Ko³obrzeg  Zielonka  425
+¯ywiec  Pu³awy  273
+Suwa³ki  Zakopane  572
+Kalisz  Lubartów  314
+Inowroc³aw  Zamoœæ  416
+Wroc³aw  Radom  289
+I³awa  Wa³brzych  385
+Toruñ  Miêdzychód  190
+Sandomierz  Ko³o  273
+Radom  Z³otów  356
+Bytom  Pu³awy  244
+Zielona Góra  Nysa  207
+Kalisz  P³ock  140
+Chorzele  W³oszczowa  276
+Gliwice  Sokó³ka  480
+Wa³brzych  Pu³awy  403
+Olsztyn  Kalisz  276
+£ódŸ  Starachowice  139
+Bia³ystok  I³awa  244
+¯nin  Wis³a  365
+Rzeszów  Chorzele  366
+Zgierz  Pu³awy  183
+Szczecin  Krosno  648
+Starogard Gdañski  Rawicz  286
+Poznañ  Zakopane  407
+Rawicz  Che³m  462
+Gostynin  Oborniki  181
+Elbl¹g  Brzeg  389
+Gorzów Wielkopolski  Bia³a Podlaska  540
+Gdañsk  Oborniki  227
+Szczecin  Bia³owie¿a  626
+Bia³ystok  Gliwice  443
+Sandomierz  Ko³obrzeg  570
+Chorzele  Zakopane  446
+Bytom  Wis³a  82
+Katowice  Czêstochowa  62
+Bydgoszcz  Œwiecie  44
+Bia³a Podlaska  Œwiebodzin  518
+Bia³owie¿a  Pu³tusk  188
+Wroc³aw  Rawicz  55
+Poznañ  Stargard Szczeciñski  162
+Poznañ  Rybnik  283
+Szczecin  Toruñ  273
+£ódŸ  Be³chatów  47
+Brzeg  Stalowa Wola  326
+Zielona Góra  Bia³owie¿a  575
+Augustów  Œwiecie  303
+Zielona Góra  Stalowa Wola  483
+Nysa  Zgorzelec  180
+Gniezno  Zgorzelec  235
+Zgierz  Gniezno  144
+Starogard Gdañski  P³ock  176
+Gi¿ycko  Gniezno  324
+¯ywiec  Siemiatycze  397
+Rybnik  Wis³a  53
+Rzeszów  P³ock  321
+Oborniki  Pabianice  204
+Bydgoszcz  £om¿a  271
+Poznañ  Lesko  501
+Czêstochowa  Radom  158
+Augustów  Pabianice  343
+Bi³goraj  ¯ary  543
+Gi¿ycko  Ciechanów  150
+Gdañsk  Kalisz  291
+Czêstochowa  P³ock  199
+Starogard Gdañski  Radom  336
+Chorzele  Bytów  244
+Oborniki  Œwiecie  139
+Gniezno  Mielec  365
+Inowroc³aw  Stalowa Wola  363
+W³oc³awek  O¿arów Mazowiecki  128
+Rzeszów  Radom  162
+Inowroc³aw  Nysa  267
+Gorzów Wielkopolski  Wa³brzych  229
+Bytów  ¯ary  323
+W³oszczowa  Œwiebodzin  344
+Gorzów Wielkopolski  Busko Zdrój  460
+Wroc³aw  P³ock  243
+Gorlice  ¯ary  478
+W³adys³awowo  Pu³awy  445
+Nysa  Mielec  291
+Gi¿ycko  Bukowina Tatrzañska  535
+Kraków  Zakopane  83
+Lublin  W³oszczowa  187
+O¿arów Mazowiecki  E³k  175
+Zielona Góra  Z³otoryja  94
+W³oc³awek  Czêstochowa  206
+Ko³obrzeg  Ciechocinek  256
+Toruñ  Nowa Sól  240
+Zielona Góra  ¯ywiec  359
+Bukowina Tatrzañska  Nowa Sól  413
+Warszawa  Œwiebodzin  375
+Augustów  W³oszczowa  391
+Brzeg  Z³otów  280
+Busko Zdrój  K³odzko  294
+Gliwice  Miêdzychód  322
+Zamoœæ  Pi³a  523
+Starachowice  Warka  84
+Opole  Lesko  341
+Rawicz  Pu³tusk  313
+Chorzele  Mielec  334
+Wadowice  Z³otoryja  289
+Wadowice  Bia³owie¿a  436
+Zgierz  Bukowina Tatrzañska  286
+Gdañsk  ¯nin  179
+Suwa³ki  Busko Zdrój  429
+Zielona Góra  Rybnik  296
+Starogard Gdañski  E³k  257
+Olsztyn  Bukowina Tatrzañska  496
+Zgierz  Augustów  325
+Szczecin  Rybnik  462
+Warka  Rypin  188
+Lublin  Gi¿ycko  316
+Ciechocinek  P³ock  72
+Bydgoszcz  Elbl¹g  149
+Krosno  Ciechanów  361
+Gi¿ycko  Koœcierzyna  249
+Ko³obrzeg  ¯ary  283
+Elbl¹g  Augustów  236
+Bukowina Tatrzañska  Wadowice  75
+£om¿a  Radom  208
+Elbl¹g  Pu³tusk  196
+Lublin  Zakopane  284
+Siemiatycze  Rypin  244
+Wroc³aw  Œwiebodzin  163
+Starogard Gdañski  Nysa  398
+Wroc³aw  Inowroc³aw  205
+Chojnice  Rypin  141
+Nowa Sól  W³adys³awowo  378
+Zakopane  Z³otoryja  352
+Kielce  Zielona Góra  374
+Grudzi¹dz  Radom  283
+Opole  Starachowice  224
+Poznañ  Busko Zdrój  346
+Kielce  Rypin  257
+Olsztyn  Gniezno  238
+W³oc³awek  Kwidzyn  121
+Nowy S¹cz  Ko³o  321
+£om¿a  Stalowa Wola  291
+£om¿a  Starachowice  249
+Grudzi¹dz  Stalowa Wola  396
+Gi¿ycko  Gorlice  487
+£om¿a  Bytów  320
+Bydgoszcz  W³oc³awek  87
+Grudzi¹dz  Bia³owie¿a  351
+Be³chatów  Starachowice  124
+Rzeszów  Nysa  336
+Inowroc³aw  W³adys³awowo  223
+Gdañsk  Che³m  485
+Lublin  Stargard Szczeciñski  563
+Sandomierz  Nowa Sól  438
+Opole  Busko Zdrój  204
+O¿arów Mazowiecki  Zakopane  330
+Rypin  Pu³tusk  119
+Radom  Gliwice  215
+Suwa³ki  Lesko  517
+¯ywiec  Jelenia Góra  280
+Rybnik  Warka  265
+Tuchola  Œwiecie  44
+Siemiatycze  Zielonka  117
+Be³chatów  Busko Zdrój  142
+Kalisz  Rawicz  87
+Kraków  Nysa  192
+Chojnice  Pabianice  257
+Gdañsk  Wis³a  525
+Kielce  Pabianice  123
+Starogard Gdañski  Gostynin  183
+Ciechanów  Rypin  86
+Olsztyn  Pu³awy  281
+Bytów  Rybnik  460
+Opole  Wa³brzych  117
+Szczecin  Z³otoryja  272
+Inowroc³aw  P³ock  102
+Bia³ystok  Wis³a  489
+Krosno  Bia³owie¿a  364
+Nysa  Ko³o  213
+Suwa³ki  Bytów  354
+Jelenia Góra  Czêstochowa  238
+Kielce  Bi³goraj  153
+K³odzko  Warka  350
+Gi¿ycko  Che³m  342
+Gdañsk  Suwa³ki  281
+Jelenia Góra  Z³otów  288
+Sokó³ka  Pu³tusk  178
+Katowice  Pi³a  359
+Ko³obrzeg  Ko³o  300
+Poznañ  Bytów  198
+Poznañ  Starachowice  325
+Chorzele  ¯ary  430
+Be³chatów  O¿arów Mazowiecki  137
+Pi³a  Ciechanów  262
+Starogard Gdañski  Bia³owie¿a  381
+Bydgoszcz  Bia³a Podlaska  366
+O¿arów Mazowiecki  Stalowa Wola  204
+Chojnice  Bi³goraj  498
+Katowice  Ciechanów  312
+Kielce  Chojnice  376
+Grudzi¹dz  Elbl¹g  87
+¯nin  Ciechanów  196
+Katowice  Poznañ  281
+Nowy S¹cz  Brzeg  268
+Chojnice  Miêdzychód  165
+Mielec  Wadowice  145
+Grudzi¹dz  Z³otów  116
+I³awa  Tuchola  113
+Augustów  Wa³brzych  568
+Kraków  Stargard Szczeciñski  498
+Gliwice  Zielonka  283
+Inowroc³aw  Krosno  423
+Szczecin  Busko Zdrój  539
+Augustów  W³adys³awowo  314
+Rzeszów  W³adys³awowo  582
+Inowroc³aw  Grudzi¹dz  83
+Zielona Góra  P³ock  294
+Rawicz  Gniezno  115
+Be³chatów  Z³otów  273
+Gostynin  Augustów  283
+Oborniki  Wa³brzych  209
+Bytom  Koœcierzyna  420
+Kraków  Tuchola  420
+Zielona Góra  Radom  395
+Gdañsk  Bukowina Tatrzañska  569
+Suwa³ki  Œwiecie  305
+Toruñ  Zgorzelec  323
+Wadowice  P³ock  297
+Katowice  Sandomierz  201
+Ko³obrzeg  Chojnice  140
+Szczecin  Nysa  380
+Gorlice  W³adys³awowo  601
+Nowy S¹cz  Siemiatycze  348
+Bytów  Wa³brzych  385
+Czêstochowa  Bia³owie¿a  389
+Bytów  W³adys³awowo  91
+Kielce  Ko³o  200
+Elbl¹g  Pu³awy  351
+Bia³ystok  Kwidzyn  288
+Rzeszów  Bia³a Podlaska  234
+Kalisz  Czêstochowa  129
+¯ywiec  Lidzbark Warmiñski  500
+I³awa  Zamoœæ  408
+Stargard Szczeciñski  Koœcierzyna  212
+Tuchola  ¯ary  285
+Stargard Szczeciñski  Pu³tusk  410
+Suwa³ki  Starachowice  364
+Kraków  Stalowa Wola  162
+O¿arów Mazowiecki  Tuchola  251
+E³k  Z³otów  352
+Kraków  Zamoœæ  247
+E³k  Bia³a Podlaska  169
+I³awa  Ciechocinek  95
+Starogard Gdañski  O¿arów Mazowiecki  247
+Lublin  Ciechocinek  317
+Lublin  Lesko  197
+Gliwice  Zgorzelec  274
+Gorlice  Wa³brzych  369
+Grudzi¹dz  O¿arów Mazowiecki  196
+Bytom  Pu³tusk  300
+Zielona Góra  Rawicz  101
+Jelenia Góra  Elbl¹g  440
+Nowa Sól  Œwiecie  257
+Opole  Bia³a Podlaska  391
+I³awa  Lesko  498
+Gniezno  Miêdzychód  116
+Pi³a  Gliwice  347
+E³k  Rybnik  459
+Zielonka  Wis³a  335
+Czêstochowa  Elbl¹g  375
+Rzeszów  Zakopane  170
+Gorzów Wielkopolski  £om¿a  460
+Bi³goraj  Tuchola  476
+Pi³a  Kwidzyn  158
+Rzeszów  Rybnik  247
+Katowice  Gliwice  24
+Gdañsk  Pu³tusk  245
+Che³m  Lesko  203
+Szczecin  Starachowice  517
+Poznañ  Grudzi¹dz  172
+Koœcierzyna  Œwiebodzin  263
+Kalisz  Œwiebodzin  184
+Tuchola  Pabianice  238
+Katowice  Kwidzyn  387
+Toruñ  Gi¿ycko  237
+Gliwice  Mielec  197
+Opole  £om¿a  398
+Inowroc³aw  Starachowice  275
+Bydgoszcz  Gdañsk  145
+Bia³ystok  Ciechanów  172
+Opole  Zakopane  209
+Czêstochowa  Z³otów  319
+Bia³ystok  Rzeszów  352
+Radom  Z³otoryja  366
+Rybnik  Gorlice  193
+Nysa  Pabianice  195
+Opole  Rybnik  78
+Ko³o  Busko Zdrój  244
+P³ock  Lidzbark Warmiñski  184
+Kielce  W³oszczowa  46
+Oborniki  ¯ary  160
+£ódŸ  £om¿a  235
+Inowroc³aw  Bia³a Podlaska  341
+Bia³owie¿a  Wis³a  486
+Augustów  ¯ary  582
+W³oszczowa  Z³otoryja  285
+Bydgoszcz  E³k  292
+Nowy S¹cz  Zielona Góra  447
+Grudzi¹dz  P³ock  121
+Chojnice  W³oszczowa  357
+Zgierz  Pu³tusk  148
+¯ywiec  Brzeg  178
+£om¿a  Tuchola  283
+Sandomierz  Rypin  310
+Katowice  Lubartów  287
+Nowy S¹cz  Sokó³ka  463
+¯ary  Pu³tusk  423
+£ódŸ  Olsztyn  233
+Starogard Gdañski  Elbl¹g  61
+Jelenia Góra  Radom  383
+Krosno  Lubartów  204
+O¿arów Mazowiecki  Busko Zdrój  195
+£ódŸ  Lesko  327
+Bia³ystok  Poznañ  428
+Gorzów Wielkopolski  Zamoœæ  597
+Wroc³aw  W³oc³awek  220
+Kraków  Busko Zdrój  76
+Czêstochowa  E³k  371
+Opole  W³adys³awowo  461
+Kalisz  Z³otoryja  167
+Kielce  Miêdzychód  378
+¯nin  Gorlice  428
+Pabianice  Pu³tusk  165
+Gostynin  Jelenia Góra  308
+Szczecin  W³oc³awek  312
+Bydgoszcz  Z³otów  70
+E³k  P³ock  205
+Lublin  Pabianice  227
+Gorzów Wielkopolski  Lesko  614
+£om¿a  Œwiecie  243
+Poznañ  Œwiecie  151
+Bia³a Podlaska  Z³otoryja  507
+Oborniki  W³adys³awowo  262
+Rybnik  Lubartów  324
+Lublin  Olsztyn  316
+Gostynin  Wadowice  282
+£ódŸ  Zamoœæ  290
+Rawicz  Wis³a  259
+Bydgoszcz  Rybnik  339
+O¿arów Mazowiecki  Starachowice  133
+Szczecin  Stalowa Wola  605
+Be³chatów  P³ock  134
+Olsztyn  Pu³tusk  125
+Stargard Szczeciñski  Gniezno  194
+Krosno  Œwiebodzin  520
+I³awa  Bytów  149
+Gostynin  Pu³awy  204
+¯nin  Che³m  438
+Suwa³ki  Tuchola  338
+Nysa  W³oszczowa  190
+Szczecin  Rawicz  256
+Stalowa Wola  Ciechanów  275
+W³oszczowa  Bia³owie¿a  338
+Suwa³ki  Bia³a Podlaska  230
+O¿arów Mazowiecki  Krosno  288
+Warszawa  Gorlice  282
+Gi¿ycko  Warka  253
+I³awa  Œwiecie  78
+Bytom  Gniezno  255
+W³adys³awowo  Pu³tusk  291
+Radom  Bia³owie¿a  234
+Grudzi¹dz  E³k  237
+Zamoœæ  Ciechanów  300
+Zielona Góra  Z³otów  190
+Augustów  Bytów  359
+Bydgoszcz  P³ock  130
+Poznañ  Bia³a Podlaska  424
+Nowy S¹cz  Rypin  394
+Starogard Gdañski  Toruñ  104
+Gdañsk  Koœcierzyna  51
+Warszawa  Lubartów  137
+Bydgoszcz  Radom  288
+Gliwice  Nowa Sól  266
+Stargard Szczeciñski  Bukowina Tatrzañska  567
+Gniezno  W³oszczowa  248
+Gliwice  Bi³goraj  288
+Szczecin  P³ock  357
+Kraków  £om¿a  378
+Suwa³ki  Zamoœæ  377
+Suwa³ki  Rybnik  538
+Ko³o  Starachowice  211
+Rawicz  Koœcierzyna  289
+Kwidzyn  Bia³owie¿a  348
+Krosno  Gliwice  231
+Kwidzyn  Z³otoryja  354
+W³oc³awek  Starogard Gdañski  150
+Jelenia Góra  P³ock  329
+Wadowice  Z³otów  423
+Grudzi¹dz  Toruñ  51
+Koœcierzyna  Lubartów  431
+Lublin  Chorzele  253
+Busko Zdrój  Pu³awy  134
+Ko³o  Stalowa Wola  300
+Bi³goraj  Lesko  122
+Rzeszów  Krosno  43
+Poznañ  Tuchola  146
+Sandomierz  K³odzko  361
+Zielona Góra  Elbl¹g  360
+W³oc³awek  Pi³a  165
+Koœcierzyna  Gliwice  429
+Gorzów Wielkopolski  W³adys³awowo  310
+Zamoœæ  Kwidzyn  447
+Gdañsk  Bytom  443
+Opole  Œwiecie  308
+I³awa  Zakopane  479
+Opole  Krosno  293
+Czêstochowa  Z³otoryja  227
+Che³m  Œwiecie  427
+Ciechocinek  Rybnik  312
+Be³chatów  E³k  310
+Wroc³aw  Toruñ  239
+Chorzele  Pabianice  205
+Mielec  Pu³awy  131
+Tuchola  Wa³brzych  331
+E³k  Radom  245
+Opole  Grudzi¹dz  318
+Rawicz  Bytom  196
+Ko³o  Z³otów  169
+Bydgoszcz  Nysa  298
+Ko³obrzeg  Miêdzychód  175
+£ódŸ  Tuchola  230
+W³oc³awek  Œwiebodzin  242
+Ko³o  P³ock  81
+£om¿a  Zamoœæ  286
+Ko³o  Radom  195
+Rypin  Pu³awy  253
+Gorzów Wielkopolski  Œwiecie  227
+Gniezno  Pabianice  154
+Zgierz  Jelenia Góra  277
+Inowroc³aw  Rybnik  303
+Brzeg  Rybnik  115
+Nowy S¹cz  Ko³obrzeg  616
+Bia³ystok  Gorlice  410
+Bi³goraj  Œwiecie  434
+¯ywiec  Wadowice  30
+Chojnice  Mielec  464
+Gorzów Wielkopolski  Stargard Szczeciñski  68
+Starogard Gdañski  Czêstochowa  354
+Be³chatów  Inowroc³aw  177
+O¿arów Mazowiecki  Rybnik  284
+Sandomierz  Siemiatycze  209
+Starogard Gdañski  Z³otoryja  361
+¯ywiec  Augustów  529
+Rzeszów  £om¿a  348
+Bydgoszcz  £ódŸ  178
+Gorzów Wielkopolski  Tuchola  199
+Pi³a  Lubartów  442
+Lesko  Z³otów  568
+£ódŸ  W³adys³awowo  343
+Kielce  Mielec  88
+Bytów  Tuchola  67
+W³oc³awek  Sandomierz  287
+£ódŸ  Stargard Szczeciñski  346
+Szczecin  Inowroc³aw  256
+E³k  Starachowice  286
+Suwa³ki  Krosno  496
+Szczecin  E³k  515
+Krosno  Pi³a  519
+Opole  Tuchola  326
+Wroc³aw  ¯ywiec  220
+Wroc³aw  Czêstochowa  150
+Nysa  Gi¿ycko  499
+K³odzko  Wis³a  182
+£ódŸ  Zakopane  278
+Poznañ  Zamoœæ  478
+Wroc³aw  Z³otoryja  78
+Nysa  Miêdzychód  258
+Bia³a Podlaska  Bia³owie¿a  90
+Zielona Góra  Inowroc³aw  210
+Be³chatów  Rawicz  175
+Bukowina Tatrzañska  K³odzko  277
+Starogard Gdañski  ¯ywiec  477
+Gdañsk  Gniezno  215
+Ko³obrzeg  W³oszczowa  474
+I³awa  W³adys³awowo  153
+Kalisz  Bia³owie¿a  406
+Warszawa  Ciechanów  79
+Bydgoszcz  Starachowice  312
+Kielce  Zgierz  137
+Stargard Szczeciñski  Suwa³ki  526
+Toruñ  Mielec  362
+Bukowina Tatrzañska  Sokó³ka  510
+W³oc³awek  Gliwice  264
+Gi¿ycko  Wis³a  527
+Be³chatów  Elbl¹g  311
+£om¿a  Bia³a Podlaska  146
+Zielona Góra  E³k  492
+Lubartów  Pu³tusk  176
+Rybnik  Ciechanów  341
+£om¿a  Krosno  388
+Bi³goraj  W³adys³awowo  556
+Szczecin  Z³otów  164
+Gorlice  Lesko  87
+Zakopane  Œwiebodzin  452
+K³odzko  Che³m  486
+Poznañ  Krosno  454
+Katowice  Starogard Gdañski  414
+Gorzów Wielkopolski  Zakopane  504
+Ko³obrzeg  Gi¿ycko  405
+E³k  Busko Zdrój  352
+Lublin  ¯ary  517
+£ódŸ  Œwiecie  195
+Bydgoszcz  Stalowa Wola  399
+Bytów  Œwiecie  104
+Jelenia Góra  E³k  534
+Grudzi¹dz  Rawicz  246
+Chorzele  Be³chatów  235
+Warka  Sokó³ka  238
+Be³chatów  Nysa  174
+Nowy S¹cz  Krosno  77
+Gostynin  Pabianice  84
+Suwa³ki  Ko³o  355
+Gorlice  Rypin  397
+W³oszczowa  Siemiatycze  267
+Gostynin  Bytom  229
+Toruñ  Che³m  394
+Bytów  Rypin  175
+Inowroc³aw  Che³m  403
+Poznañ  Chojnice  149
+I³awa  Rybnik  397
+Bia³ystok  Starachowice  274
+Katowice  Olsztyn  406
+Ko³obrzeg  Œwiecie  206
+Kraków  W³adys³awowo  538
+Che³m  Wa³brzych  506
+Zgierz  Zgorzelec  315
+Elbl¹g  Ciechocinek  148
+Jelenia Góra  Nowa Sól  100
+Krosno  Chojnice  531
+E³k  Warka  204
+Gniezno  Warka  259
+Bukowina Tatrzañska  W³oszczowa  169
+Brzeg  Zgorzelec  175
+Warka  Œwiebodzin  391
+Augustów  Œwiebodzin  527
+Krosno  P³ock  348
+Mielec  Starachowice  87
+Be³chatów  Warka  135
+Che³m  W³adys³awowo  531
+Stargard Szczeciñski  Grudzi¹dz  248
+Zamoœæ  Krosno  155
+Jelenia Góra  Stalowa Wola  448
+Gi¿ycko  Zgorzelec  558
+Bytom  Œwiecie  339
+Rawicz  Stalowa Wola  382
+Wadowice  Œwiecie  400
+O¿arów Mazowiecki  Wa³brzych  351
+Koœcierzyna  Bia³owie¿a  421
+Katowice  Z³otoryja  238
+Tuchola  Sokó³ka  374
+Opole  Bukowina Tatrzañska  214
+Stargard Szczeciñski  K³odzko  339
+Gostynin  Mielec  274
+Lublin  Bia³a Podlaska  97
+Gorzów Wielkopolski  Wis³a  426
+W³oc³awek  E³k  239
+Ciechocinek  Œwiecie  64
+Gliwice  W³oszczowa  111
+Miêdzychód  Z³otoryja  163
+Olsztyn  Bytom  394
+Opole  Z³otoryja  151
+Kielce  Nowa Sól  355
+Czêstochowa  Lesko  273
+Bukowina Tatrzañska  Pu³tusk  382
+£ódŸ  E³k  271
+Grudzi¹dz  Pabianice  206
+Augustów  Stalowa Wola  370
+Lubartów  Che³m  70
+Suwa³ki  P³ock  275
+Lublin  Be³chatów  223
+Rawicz  Œwiebodzin  117
+¯ywiec  Bia³a Podlaska  378
+Koœcierzyna  Ciechanów  225
+I³awa  Bia³owie¿a  304
+Gorzów Wielkopolski  Zielonka  403
+Pi³a  Ciechocinek  140
+Nowa Sól  Z³otów  196
+Poznañ  Starogard Gdañski  203
+Zakopane  Wadowice  73
+Gdañsk  Pi³a  182
+Bia³ystok  Czêstochowa  380
+Warszawa  £om¿a  130
+Suwa³ki  Miêdzychód  497
+Radom  Kwidzyn  300
+Kwidzyn  Wis³a  454
+Chojnice  Ciechocinek  122
+Bia³ystok  Bytów  391
+Wroc³aw  Koœcierzyna  339
+Lublin  Wadowice  264
+Inowroc³aw  Lidzbark Warmiñski  213
+Kielce  ¯nin  296
+Olsztyn  Suwa³ki  163
+Toruñ  Lidzbark Warmiñski  177
+Ko³o  Oborniki  133
+Nysa  Zielonka  334
+I³awa  Ciechanów  108
+Gorzów Wielkopolski  I³awa  304
+Chorzele  Ciechocinek  147
+Stalowa Wola  Pu³awy  95
+Wroc³aw  Zielonka  313
+Augustów  Nowa Sól  537
+Olsztyn  Mielec  394
+Toruñ  Zakopane  425
+£ódŸ  Sandomierz  201
+Zamoœæ  Pu³awy  120
+Bukowina Tatrzañska  Brzeg  253
+Katowice  Zgierz  182
+Krosno  Miêdzychód  522
+£om¿a  Gniezno  308
+Toruñ  Koœcierzyna  128
+Ko³obrzeg  K³odzko  420
+Chorzele  Inowroc³aw  184
+Opole  Nowy S¹cz  229
+Zielona Góra  Bytom  293
+£ódŸ  Zielonka  129
+Wa³brzych  Œwiecie  328
+Wroc³aw  Sandomierz  334
+Szczecin  Wadowice  521
+Sandomierz  Gniezno  353
+Gorzów Wielkopolski  Sandomierz  503
+Katowice  Bukowina Tatrzañska  129
+Starogard Gdañski  Lesko  565
+Oborniki  Z³otoryja  178
+£ódŸ  I³awa  202
+Gorlice  Tuchola  494
+Stargard Szczeciñski  Œwiecie  226
+Busko Zdrój  Ciechanów  267
+Nysa  Sandomierz  313
+Szczecin  Be³chatów  398
+Inowroc³aw  Suwa³ki  342
+Bia³a Podlaska  Gniezno  379
+Zamoœæ  Gi¿ycko  382
+Zamoœæ  Gniezno  440
+Poznañ  P³ock  189
+Lublin  K³odzko  424
+W³oc³awek  Wis³a  334
+Kielce  ¯ywiec  166
+Poznañ  Miêdzychód  73
+Kraków  O¿arów Mazowiecki  248
+Ciechocinek  K³odzko  308
+Kalisz  Rybnik  190
+Starachowice  Rypin  253
+Brzeg  Wa³brzych  85
+Œwiebodzin  Œwiecie  234
+Szczecin  Bia³a Podlaska  596
+Starogard Gdañski  Zielona Góra  304
+Nowy S¹cz  Gliwice  163
+Gi¿ycko  Wa³brzych  519
+E³k  Wis³a  489
+Gliwice  Rypin  314
+Gostynin  Suwa³ki  297
+K³odzko  Zielonka  374
+Katowice  Chorzele  360
+Szczecin  Warszawa  456
+Gliwice  Tuchola  373
+Kraków  Wa³brzych  272
+Be³chatów  Wis³a  194
+Olsztyn  Pabianice  247
+Poznañ  Ko³o  120
+Krosno  Ko³o  353
+Kielce  Gorlice  141
+Jelenia Góra  ¯nin  256
+Busko Zdrój  Bia³owie¿a  326
+Starogard Gdañski  Starachowice  368
+Oborniki  P³ock  195
+Suwa³ki  Bukowina Tatrzañska  565
+Gi¿ycko  Rypin  191
+Opole  Toruñ  267
+Bytów  Zgorzelec  375
+Busko Zdrój  ¯ary  417
+I³awa  £om¿a  172
+Kwidzyn  Warka  265
+Chorzele  Gi¿ycko  104
+Œwiecie  Pu³awy  327
+Ko³o  Augustów  342
+Z³otów  Pu³awy  399
+Sandomierz  Gliwice  223
+Starogard Gdañski  Siemiatycze  335
+Czêstochowa  Starachowice  139
+Warszawa  ¯ary  409
+Zgierz  Rypin  133
+Ko³o  Nowa Sól  206
+W³oc³awek  Nysa  270
+Chorzele  O¿arów Mazowiecki  117
+Rawicz  Oborniki  115
+¯ywiec  Sokó³ka  507
+Rzeszów  Grudzi¹dz  442
+Zgierz  W³adys³awowo  333
+Bia³ystok  Zielona Góra  535
+Ko³obrzeg  Bia³a Podlaska  557
+Bia³a Podlaska  Gliwice  366
+Gdañsk  Mielec  492
+Bukowina Tatrzañska  Rypin  418
+Bydgoszcz  I³awa  117
+Czêstochowa  Bytów  390
+Miêdzychód  ¯ary  119
+Radom  Œwiebodzin  398
+Toruñ  Sandomierz  338
+Ko³o  Elbl¹g  224
+Nysa  Che³m  438
+Nysa  Wis³a  142
+Bukowina Tatrzañska  Tuchola  499
+Brzeg  Rypin  278
+Gorlice  Zgorzelec  466
+Bydgoszcz  Wis³a  390
+Bytów  Pu³tusk  287
+Kalisz  Toruñ  145
+Gostynin  Lubartów  241
+Kalisz  ¯ary  205
+Zakopane  Sokó³ka  518
+Lublin  Œwiecie  371
+Brzeg  Tuchola  305
+Bia³ystok  W³oc³awek  281
+Bukowina Tatrzañska  Z³otów  496
+Nowy S¹cz  Ciechocinek  387
+Gdañsk  Wroc³aw  377
+Szczecin  Sokó³ka  592
+Rawicz  ¯nin  151
+£ódŸ  Kalisz  94
+Gdañsk  Kwidzyn  73
+I³awa  Z³otoryja  370
+Zakopane  K³odzko  269
+Opole  Ko³o  178
+Starogard Gdañski  Bytów  71
+Ko³o  Bi³goraj  338
+Rawicz  Ko³obrzeg  298
+Rzeszów  Œwiecie  448
+Grudzi¹dz  Mielec  400
+Augustów  Oborniki  431
+Gorzów Wielkopolski  Kalisz  223
+Che³m  Zgorzelec  590
+Kielce  Œwiebodzin  383
+Warka  Nowa Sól  377
+Opole  Radom  240
+Katowice  P³ock  260
+Gniezno  Wis³a  333
+Gostynin  Lidzbark Warmiñski  203
+¯nin  Siemiatycze  350
+Lublin  Grudzi¹dz  359
+£om¿a  Pu³awy  197
+Szczecin  K³odzko  361
+Bukowina Tatrzañska  Augustów  540
+Be³chatów  Sokó³ka  360
+E³k  Zielonka  154
+Zielona Góra  Kwidzyn  305
+Toruñ  Zielonka  189
+¯nin  Lesko  495
+Chorzele  Wa³brzych  419
+Rawicz  Nowa Sól  82
+Pi³a  Pu³awy  405
+Wroc³aw  Stargard Szczeciñski  282
+Bukowina Tatrzañska  Bi³goraj  230
+Gostynin  Che³m  311
+Starachowice  Zgorzelec  423
+Inowroc³aw  Koœcierzyna  148
+Kwidzyn  Zielonka  218
+Jelenia Góra  Kwidzyn  383
+Zielona Góra  Lubartów  493
+Radom  Nowa Sól  379
+Toruñ  E³k  253
+Bydgoszcz  Wadowice  374
+Olsztyn  Koœcierzyna  170
+Opole  Chorzele  353
+Kielce  Oborniki  326
+Kielce  Elbl¹g  374
+£ódŸ  Wis³a  241
+Ko³o  ¯nin  96
+Bytom  K³odzko  160
+Grudzi¹dz  Bytom  345
+Ciechanów  Zielonka  72
+Gdañsk  Lubartów  420
+Inowroc³aw  Zakopane  407
+Wroc³aw  E³k  447
+Starachowice  Pu³tusk  187
+£om¿a  Siemiatycze  99
+Lublin  £ódŸ  223
+Be³chatów  Kalisz  98
+Gniezno  Sokó³ka  407
+Bydgoszcz  Warszawa  229
+Katowice  Radom  199
+Poznañ  Radom  313
+Czêstochowa  Siemiatycze  316
+Suwa³ki  Chojnice  355
+O¿arów Mazowiecki  W³adys³awowo  328
+Zgierz  Tuchola  220
+Gorlice  Pu³tusk  339
+Gi¿ycko  W³adys³awowo  235
+Opole  Zgierz  169
+Bytów  Brzeg  367
+Krosno  Radom  194
+W³oc³awek  Kalisz  118
+Olsztyn  Stargard Szczeciñski  364
+Elbl¹g  Gliwice  435
+Sandomierz  Krosno  109
+Wroc³aw  Zakopane  290
+Chojnice  Gliwice  388
+Bydgoszcz  Warka  263
+E³k  Wadowice  446
+Gdañsk  Kraków  488
+¯nin  Starachowice  306
+Suwa³ki  Radom  323
+¯ywiec  K³odzko  200
+Zielona Góra  Mielec  453
+£om¿a  Lesko  414
+Bydgoszcz  Rawicz  185
+Brzeg  W³adys³awowo  442
+Bydgoszcz  Be³chatów  216
+Toruñ  Pabianice  160
+Busko Zdrój  Rybnik  165
+Gorlice  Bi³goraj  147
+Bydgoszcz  Zamoœæ  449
+Zamoœæ  Gliwice  329
+Pi³a  Gi¿ycko  346
+I³awa  Toruñ  89
+Katowice  Chojnice  396
+I³awa  ¯ary  371
+Wadowice  Sokó³ka  478
+Gdañsk  ¯ywiec  520
+Radom  Mielec  126
+Elbl¹g  Wa³brzych  431
+Bia³owie¿a  Nowa Sól  563
+Ko³obrzeg  Sokó³ka  528
+Elbl¹g  W³adys³awowo  96
+Sandomierz  Gi¿ycko  373
+Kielce  Augustów  366
+Poznañ  Chorzele  283
+Bytów  Z³otów  94
+Lesko  W³adys³awowo  651
+Gorzów Wielkopolski  Rawicz  168
+Gostynin  Koœcierzyna  214
+¯nin  Gniezno  36
+Ciechocinek  Wadowice  337
+¯ywiec  Zamoœæ  311
+Rzeszów  Bia³owie¿a  321
+Gostynin  Ko³obrzeg  324
+£om¿a  Gi¿ycko  96
+Czêstochowa  Gliwice  66
+Sandomierz  Starachowice  62
+Chorzele  Gliwice  365
+Katowice  Bia³owie¿a  433
+Ko³o  Pu³tusk  175
+Koœcierzyna  Z³otoryja  359
+Lublin  Zamoœæ  76
+Bia³a Podlaska  Starachowice  180
+Bydgoszcz  Sandomierz  373
+Stalowa Wola  Siemiatycze  215
+W³oc³awek  Rawicz  189
+Gorzów Wielkopolski  £ódŸ  307
+Gliwice  Gorlice  191
+Opole  Ciechanów  307
+£om¿a  Czêstochowa  333
+Bukowina Tatrzañska  Zgorzelec  414
+Ko³o  Brzeg  169
+Rybnik  Gliwice  24
+Kraków  Inowroc³aw  328
+Bukowina Tatrzañska  Oborniki  433
+Lesko  Wa³brzych  455
+O¿arów Mazowiecki  Ciechocinek  155
+Oborniki  Rybnik  308
+Gostynin  Zakopane  348
+£ódŸ  Che³m  287
+Warszawa  Z³otoryja  372
+Zakopane  Warka  290
+Brzeg  W³oszczowa  174
+Be³chatów  Zakopane  234
+Bytom  Sokó³ka  460
+Grudzi¹dz  Pi³a  138
+Kielce  Lublin  142
+Kraków  Ciechocinek  325
+Bia³ystok  Siemiatycze  80
+Czêstochowa  Gniezno  219
+Zamoœæ  Lesko  154
+Rawicz  Pi³a  174
+Katowice  Rzeszów  216
+Grudzi¹dz  Kwidzyn  30
+Lubartów  Wis³a  332
+Ko³o  Œwiebodzin  212
+Augustów  Lubartów  268
+£ódŸ  Lidzbark Warmiñski  270
+Poznañ  Czêstochowa  235
+Stalowa Wola  Lesko  124
+Bydgoszcz  Zielonka  231
+W³oc³awek  Lidzbark Warmiñski  192
+Suwa³ki  Toruñ  309
+Bia³owie¿a  Pabianice  328
+Gi¿ycko  Pu³tusk  154
+Stargard Szczeciñski  Sokó³ka  561
+Rzeszów  Be³chatów  237
+Bia³ystok  Starogard Gdañski  320
+Zgierz  Brzeg  174
+Rawicz  Z³otów  197
+Gorzów Wielkopolski  Che³m  593
+Inowroc³aw  E³k  284
+Warszawa  Chorzele  119
+Gdañsk  Lidzbark Warmiñski  130
+Wroc³aw  Nysa  75
+Kielce  Ko³obrzeg  500
+Katowice  Miêdzychód  339
+Zamoœæ  Siemiatycze  193
+Grudzi¹dz  Koœcierzyna  88
+Opole  Chojnice  338
+Chorzele  Gniezno  235
+Chojnice  Gniezno  130
+Inowroc³aw  Kalisz  115
+Gostynin  Pi³a  201
+Starachowice  Z³otów  378
+Poznañ  Toruñ  133
+Inowroc³aw  Pabianice  147
+Gi¿ycko  Bi³goraj  394
+Warszawa  Bukowina Tatrzañska  325
+Radom  Lubartów  101
+Inowroc³aw  Bytom  272
+Chorzele  W³adys³awowo  235
+Toruñ  Bytom  295
+E³k  Zakopane  494
+Inowroc³aw  I³awa  125
+Chojnice  Siemiatycze  382
+Nowy S¹cz  Inowroc³aw  393
+Rzeszów  Wadowice  181
+Tuchola  Zielonka  264
+Bydgoszcz  Grudzi¹dz  65
+Starogard Gdañski  Gliwice  410
+Ko³o  Tuchola  165
+Jelenia Góra  Bi³goraj  493
+Grudzi¹dz  Ko³obrzeg  223
+Radom  Gorlice  193
+Lubartów  Pabianice  226
+Rawicz  Lubartów  398
+Ko³o  Rypin  109
+Wroc³aw  Suwa³ki  518
+Gliwice  Wa³brzych  177
+Be³chatów  Koœcierzyna  320
+E³k  Koœcierzyna  296
+Gi¿ycko  Tuchola  263
+Bi³goraj  Pabianice  266
+Gorzów Wielkopolski  Lidzbark Warmiñski  386
+Gdañsk  Stalowa Wola  483
+W³oszczowa  Pu³awy  153
+Suwa³ki  Z³otoryja  577
+Warszawa  Œwiecie  221
+Gliwice  Z³otów  361
+Nysa  Bytom  111
+Kielce  Kraków  104
+Augustów  Gorlice  481
+Opole  Miêdzychód  257
+£ódŸ  Warszawa  117
+Bydgoszcz  Zakopane  446
+Starogard Gdañski  Krosno  524
+Poznañ  Z³otoryja  158
+Szczecin  Zamoœæ  666
+Gostynin  Sandomierz  249
+Rzeszów  Sokó³ka  386
+Grudzi¹dz  Zakopane  472
+Rzeszów  K³odzko  384
+£ódŸ  Wadowice  211
+Chorzele  Zgorzelec  464
+Pi³a  Wa³brzych  267
+Wroc³aw  Zamoœæ  439
+Opole  P³ock  242
+Warszawa  Toruñ  188
+£om¿a  Ciechocinek  222
+Chorzele  Gostynin  134
+Toruñ  Wis³a  377
+K³odzko  Mielec  340
+Suwa³ki  Czêstochowa  449
+Gi¿ycko  Busko Zdrój  402
+£ódŸ  Warka  119
+Grudzi¹dz  Lubartów  345
+Gorzów Wielkopolski  Warszawa  397
+£ódŸ  Rawicz  180
+Gorzów Wielkopolski  Be³chatów  321
+Ciechocinek  Sokó³ka  320
+Chojnice  W³adys³awowo  134
+P³ock  Nowa Sól  284
+W³oc³awek  Che³m  348
+Rawicz  Gorlice  372
+Jelenia Góra  Pi³a  261
+Bukowina Tatrzañska  Gorlice  85
+Zielona Góra  Koœcierzyna  293
+Wis³a  Pu³awy  294
+Krosno  Z³otoryja  444
+E³k  Che³m  272
+Oborniki  Miêdzychód  63
+Elbl¹g  Gniezno  217
+Opole  ¯ary  223
+Gorlice  Z³otów  501
+Zgierz  Ciechocinek  121
+Bytów  W³oszczowa  405
+Gorzów Wielkopolski  Warka  419
+Lubartów  Warka  105
+Gorlice  W³oszczowa  157
+Rzeszów  Toruñ  407
+Zielona Góra  Pi³a  161
+Bia³ystok  Bukowina Tatrzañska  473
+Katowice  Toruñ  311
+£ódŸ  Nysa  209
+W³oc³awek  Warka  175
+W³oc³awek  Be³chatów  144
+Gostynin  Zielonka  115
+Oborniki  Starachowice  342
+Gostynin  Œwiebodzin  268
+Warszawa  K³odzko  361
+Ciechocinek  ¯ary  285
+Inowroc³aw  Warka  230
+I³awa  Chojnice  133
+Kraków  Lublin  227
+Rawicz  Mielec  352
+Gdañsk  Pabianice  304
+Lidzbark Warmiñski  Œwiecie  161
+Rybnik  Siemiatycze  398
+Ko³obrzeg  Bia³owie¿a  573
+Koœcierzyna  ¯ary  335
+Kielce  Brzeg  220
+Wroc³aw  Mielec  323
+Zgorzelec  Pu³awy  484
+Gorzów Wielkopolski  Wadowice  434
+Kraków  Augustów  470
+¯ywiec  £om¿a  435
+Jelenia Góra  Oborniki  207
+I³awa  Radom  268
+Olsztyn  Lidzbark Warmiñski  37
+Poznañ  ¯ary  150
+Zielona Góra  Suwa³ki  552
+Grudzi¹dz  Zielonka  207
+Katowice  ¯ary  311
+Zielona Góra  Nowa Sól  21
+Katowice  Kielce  134
+Rawicz  Kwidzyn  275
+K³odzko  Lubartów  432
+Zielona Góra  Sandomierz  456
+Lublin  £om¿a  219
+£ódŸ  Pabianice  15
+Bytów  Gorlice  560
+Krosno  ¯ary  514
+Be³chatów  Grudzi¹dz  239
+Bia³ystok  Lesko  412
+Zamoœæ  Ciechocinek  391
+Zamoœæ  O¿arów Mazowiecki  239
+¯ywiec  Œwiecie  417
+Chorzele  Rypin  101
+Zamoœæ  Bytów  547
+Bukowina Tatrzañska  Stalowa Wola  197
+Bydgoszcz  Koœcierzyna  111
+Elbl¹g  Siemiatycze  300
+Sandomierz  Pu³awy  83
+Rzeszów  Rawicz  401
+Gorzów Wielkopolski  Nysa  291
+Bydgoszcz  Kalisz  150
+Chojnice  Lesko  575
+Gorzów Wielkopolski  Pabianice  306
+Pabianice  Wis³a  227
+Czêstochowa  Ko³o  159
+Che³m  W³oszczowa  248
+Bia³a Podlaska  Pu³awy  105
+Zamoœæ  Czêstochowa  292
+Bydgoszcz  Sokó³ka  367
+¯ywiec  Grudzi¹dz  422
+Nysa  Koœcierzyna  408
+W³adys³awowo  Wis³a  574
+Czêstochowa  Krosno  225
+Zielona Góra  Zielonka  388
+Stargard Szczeciñski  Wadowice  492
+Grudzi¹dz  Suwa³ki  282
+Zielona Góra  Zakopane  429
+Be³chatów  Zamoœæ  282
+Chojnice  Wa³brzych  336
+Bydgoszcz  K³odzko  311
+Kielce  Opole  190
+Be³chatów  Sandomierz  183
+Rzeszów  Warszawa  249
+Jelenia Góra  Œwiebodzin  151
+Starachowice  W³oszczowa  80
+Nowy S¹cz  Pu³awy  219
+Olsztyn  Wis³a  473
+Zgierz  O¿arów Mazowiecki  102
+Suwa³ki  ¯ary  591
+Oborniki  Ciechanów  258
+Gniezno  Zielonka  242
+Gdañsk  Gorlice  551
+Jelenia Góra  Ko³obrzeg  363
+Grudzi¹dz  Sandomierz  372
+Poznañ  W³oc³awek  147
+Gniezno  Œwiecie  113
+Kraków  Brzeg  197
+Zielona Góra  Ko³obrzeg  248
+Stargard Szczeciñski  Be³chatów  367
+Rzeszów  ¯ary  514
+Stargard Szczeciñski  I³awa  301
+Be³chatów  Bia³a Podlaska  269
+I³awa  Miêdzychód  270
+Zamoœæ  Wa³brzych  491
+Olsztyn  ¯ywiec  463
+Mielec  Siemiatycze  259
+Bytom  Warka  224
+Kalisz  Radom  216
+Zielona Góra  Œwiebodzin  35
+Warszawa  Bia³owie¿a  200
+Kwidzyn  Mielec  420
+Gorzów Wielkopolski  E³k  482
+Elbl¹g  Lesko  560
+Be³chatów  Zielonka  161
+I³awa  P³ock  117
+Opole  Rzeszów  298
+P³ock  Œwiebodzin  285
+E³k  Sokó³ka  77
+Olsztyn  Che³m  357
+Stargard Szczeciñski  Warka  451
+Stargard Szczeciñski  Rawicz  229
+Radom  Stalowa Wola  113
+Olsztyn  Wroc³aw  378
+Rybnik  Lesko  280
+Sokó³ka  Pu³awy  244
+W³oc³awek  Wadowice  309
+Stalowa Wola  Wa³brzych  409
+Bia³ystok  Gniezno  380
+E³k  K³odzko  516
+W³oc³awek  I³awa  111
+Augustów  Mielec  410
+W³oc³awek  Pabianice  111
+Jelenia Góra  Tuchola  333
+Lubartów  Lidzbark Warmiñski  327
+Starogard Gdañski  Ko³o  197
+Nysa  Zakopane  228
+Busko Zdrój  Bukowina Tatrzañska  136
+Szczecin  Grudzi¹dz  278
+Zgierz  Wa³brzych  249
+Szczecin  Œwiecie  256
+Wroc³aw  Lubartów  390
+Kalisz  Ciechanów  211
+Busko Zdrój  Œwiecie  366
+Lidzbark Warmiñski  Zielonka  205
+Inowroc³aw  Wis³a  353
+Mielec  Lesko  111
+O¿arów Mazowiecki  Brzeg  274
+¯nin  Gliwice  293
+Bytom  Wadowice  70
+¯ywiec  Zielonka  320
+Augustów  Kwidzyn  265
+Nowy S¹cz  Gi¿ycko  497
+Be³chatów  Suwa³ki  387
+Chorzele  Krosno  401
+Rawicz  Jelenia Góra  111
+Grudzi¹dz  Nowa Sól  278
+¯ywiec  Sandomierz  212
+Zielona Góra  ¯nin  182
+Gostynin  Kalisz  118
+£om¿a  Miêdzychód  420
+Chorzele  Jelenia Góra  439
+Ko³o  Lubartów  285
+Lublin  Bia³owie¿a  186
+Szczecin  Ciechanów  409
+Sandomierz  Chojnice  441
+Czêstochowa  Bukowina Tatrzañska  178
+£ódŸ  K³odzko  246
+£om¿a  O¿arów Mazowiecki  137
+Olsztyn  Nowa Sól  390
+Chorzele  Brzeg  354
+Jelenia Góra  Rypin  348
+Bia³owie¿a  Z³otów  463
+Stargard Szczeciñski  Toruñ  241
+Chorzele  Pu³tusk  63
+Bia³a Podlaska  Chojnice  417
+Kraków  Gliwice  95
+Radom  Che³m  164
+Lublin  Sandomierz  84
+Zielona Góra  Wis³a  347
+Starogard Gdañski  Bukowina Tatrzañska  526
+Busko Zdrój  Chojnice  422
+Busko Zdrój  Miêdzychód  414
+Zgierz  ¯nin  159
+Starogard Gdañski  Ciechocinek  122
+Chojnice  Starachowice  381
+Bi³goraj  Z³otów  501
+Szczecin  Sandomierz  578
+£om¿a  Chojnice  305
+Gdañsk  Poznañ  245
+Wadowice  Wis³a  52
+Radom  Koœcierzyna  371
+Lesko  Rypin  449
+Rawicz  Lidzbark Warmiñski  375
+Rawicz  Rypin  237
+Czêstochowa  Ciechocinek  233
+Poznañ  Rzeszów  442
+Opole  Zielona Góra  220
+¯ywiec  Ciechanów  366
+Gorzów Wielkopolski  Mielec  508
+Inowroc³aw  Sokó³ka  357
+Grudzi¹dz  Kalisz  196
+Koœcierzyna  Wadowice  482
+Pi³a  Tuchola  87
+Sokó³ka  Zgorzelec  629
+Zgierz  Gostynin  61
+Pabianice  Zielonka  141
+Olsztyn  Warka  227
+Rzeszów  Z³otoryja  447
+Sandomierz  Miêdzychód  457
+Kalisz  Chojnice  218
+Starachowice  Nowa Sól  381
+Ciechocinek  Z³otoryja  276
+Kielce  Bytom  133
+Stargard Szczeciñski  Nowy S¹cz  570
+£ódŸ  Mielec  216
+Opole  W³oc³awek  234
+Rzeszów  Warka  201
+W³oc³awek  Grudzi¹dz  95
+Gostynin  ¯nin  128
+Ciechocinek  Warka  205
+Augustów  Brzeg  498
+Gorzów Wielkopolski  K³odzko  272
+Elbl¹g  Rypin  122
+Be³chatów  Bytom  114
+Gdañsk  E³k  262
+¯ywiec  ¯ary  358
+Ko³o  Wa³brzych  227
+Gi¿ycko  Gliwice  468
+Inowroc³aw  Kwidzyn  113
+Ko³o  Mielec  288
+Gniezno  Lidzbark Warmiñski  265
+Bytom  Z³otoryja  226
+Szczecin  Zielonka  459
+W³oc³awek  Œwiecie  95
+Brzeg  Gliwice  106
+Jelenia Góra  Bytom  231
+Gostynin  Warka  138
+Zgierz  Gi¿ycko  288
+Lublin  E³k  251
+Rawicz  Brzeg  92
+Warka  W³oszczowa  135
+Szczecin  Koœcierzyna  236
+Pi³a  Starachowice  378
+Stargard Szczeciñski  Z³otoryja  252
+£om¿a  Ko³o  255
+Nowy S¹cz  Starachowice  160
+Pi³a  Lesko  565
+Wadowice  ¯ary  364
+O¿arów Mazowiecki  Gliwice  261
+Pabianice  ¯ary  292
+Lubartów  Œwiebodzin  494
+Be³chatów  Œwiecie  237
+Radom  Zakopane  249
+Bia³a Podlaska  Miêdzychód  495
+O¿arów Mazowiecki  Bi³goraj  230
+Warka  Che³m  174
+Nysa  Wadowice  167
+Katowice  Œwiecie  354
+Lubartów  Sokó³ka  225
+P³ock  Zielonka  102
+Bia³ystok  Katowice  430
+Rzeszów  I³awa  429
+Warka  Pu³tusk  104
+Grudzi¹dz  Wis³a  426
+¯nin  Z³otoryja  227
+Bia³ystok  Krosno  394
+Stalowa Wola  W³adys³awowo  532
+Tuchola  Lidzbark Warmiñski  188
+Zakopane  Koœcierzyna  553
+Lidzbark Warmiñski  Wis³a  510
+Kraków  Poznañ  337
+Radom  W³oszczowa  104
+Elbl¹g  W³oszczowa  371
+Zielona Góra  Gorlice  471
+Lidzbark Warmiñski  ¯ary  458
+¯ywiec  Koœcierzyna  498
+Gdañsk  Augustów  288
+Gostynin  Nowa Sól  265
+I³awa  Wadowice  413
+Olsztyn  I³awa  65
+Zgierz  Gorlice  274
+Nowy S¹cz  Wa³brzych  340
+Gdañsk  Zielonka  284
+K³odzko  Wadowice  213
+Bi³goraj  Zielonka  224
+Rzeszów  Zgierz  272
+Krosno  Gniezno  429
+K³odzko  Sokó³ka  573
+Augustów  Lidzbark Warmiñski  159
+Nysa  Bia³a Podlaska  438
+Wa³brzych  Wis³a  223
+Zamoœæ  W³adys³awowo  560
+Wa³brzych  ¯ary  124
+Gorlice  Œwiebodzin  488
+Kalisz  Miêdzychód  177
+Œwiebodzin  Z³otoryja  127
+W³oszczowa  Miêdzychód  342
+Ko³o  Pabianice  77
+I³awa  K³odzko  403
+Gdañsk  Elbl¹g  55
+Wroc³aw  Be³chatów  165
+Wroc³aw  Bia³a Podlaska  432
+Gdañsk  Sandomierz  461
+Lublin  Zielonka  154
+Pi³a  Busko Zdrój  409
+Warszawa  P³ock  99
+Bytów  Nowa Sól  289
+Rybnik  Z³otoryja  219
+Olsztyn  Gorlice  460
+Gorzów Wielkopolski  Kraków  443
+Grudzi¹dz  Gorlice  456
+Zakopane  Che³m  324
+Gi¿ycko  Stalowa Wola  386
+Kraków  Gostynin  265
+O¿arów Mazowiecki  W³oszczowa  163
+Katowice  Grudzi¹dz  360
+Wroc³aw  Grudzi¹dz  288
+Jelenia Góra  Zgorzelec  57
+Kielce  Stargard Szczeciñski  468
+Stargard Szczeciñski  Bia³owie¿a  595
+Warka  Pabianice  127
+Kielce  Lidzbark Warmiñski  360
+Jelenia Góra  Che³m  542
+Che³m  Siemiatycze  151
+Szczecin  Che³m  658
+¯ywiec  Wis³a  25
+Be³chatów  Lubartów  226
+O¿arów Mazowiecki  Gorlice  285
+Bytom  Bia³owie¿a  429
+Ko³o  Kwidzyn  172
+Czêstochowa  Chojnice  340
+Gorzów Wielkopolski  Pi³a  112
+Opole  Siemiatycze  394
+Szczecin  Wis³a  515
+P³ock  Wis³a  328
+Œwiecie  W³adys³awowo  154
+P³ock  Che³m  304
+Gniezno  K³odzko  241
+Suwa³ki  Bia³owie¿a  168
+Bia³ystok  Rybnik  465
+Chorzele  Czêstochowa  300
+Czêstochowa  Gi¿ycko  402
+Gdañsk  Bi³goraj  508
+Kielce  Tuchola  356
+Augustów  Bi³goraj  369
+Kraków  Siemiatycze  334
+Bia³owie¿a  Lidzbark Warmiñski  269
+Zgierz  Œwiebodzin  269
+Kraków  Opole  159
+Siemiatycze  Œwiecie  317
+Bydgoszcz  Che³m  434
+Szczecin  ¯ary  204
+I³awa  Czêstochowa  313
+Bia³owie¿a  Zielonka  189
+£ódŸ  Pi³a  240
+Zakopane  ¯ary  428
+Ciechanów  Œwiecie  159
+Bydgoszcz  Pabianice  186
+Warszawa  Grudzi¹dz  209
+Rawicz  Bi³goraj  426
+O¿arów Mazowiecki  Siemiatycze  142
+Koœcierzyna  P³ock  209
+Wadowice  Ciechanów  341
+Nowa Sól  Œwiebodzin  52
+Kielce  Pu³tusk  206
+Chojnice  Pu³tusk  259
+Inowroc³aw  Œwiebodzin  194
+I³awa  Ko³o  167
+Starogard Gdañski  Chojnice  71
+Nysa  K³odzko  48
+Radom  Tuchola  332
+Gi¿ycko  Z³otów  321
+W³oc³awek  Bytom  252
+Krosno  Pu³awy  191
+Gi¿ycko  Œwiebodzin  461
+Olsztyn  Œwiebodzin  373
+Bi³goraj  Lidzbark Warmiñski  424
+Mielec  ¯ary  466
+Zgierz  Nowa Sól  254
+Toruñ  Bia³a Podlaska  324
+Nysa  Sokó³ka  534
+£ódŸ  Kwidzyn  220
+Szczecin  Zgierz  371
+Zakopane  Wis³a  87
+Bydgoszcz  Wroc³aw  232
+Pi³a  Bytów  122
+Brzeg  Œwiebodzin  205
+Szczecin  Kalisz  302
+Warszawa  Zamoœæ  226
+Lidzbark Warmiñski  Ciechanów  139
+Zakopane  Rybnik  133
+Chorzele  Busko Zdrój  311
+Kalisz  Bia³a Podlaska  345
+Kwidzyn  Œwiecie  48
+Katowice  Bytów  447
+Ciechocinek  Bia³owie¿a  342
+Starogard Gdañski  Gi¿ycko  213
+Zielona Góra  Kalisz  180
+E³k  Pabianice  285
+Katowice  Starachowice  170
+Gi¿ycko  Pu³awy  291
+Wroc³aw  Œwiecie  273
+Zamoœæ  Tuchola  489
+Kraków  Gorlice  97
+Gdañsk  Brzeg  397
+Gliwice  W³adys³awowo  503
+Kraków  W³oszczowa  89
+Radom  Pu³tusk  147
+Koœcierzyna  Bytów  31
+Bydgoszcz  Rzeszów  440
+Rzeszów  Chojnice  508
+Wis³a  Rypin  382
+Stalowa Wola  Tuchola  444
+Lublin  Nysa  377
+Toruñ  Wadowice  356
+Elbl¹g  Bi³goraj  462
+Katowice  Lesko  254
+Poznañ  Siemiatycze  403
+Rawicz  Augustów  481
+Warszawa  Bia³a Podlaska  143
+Inowroc³aw  Ko³obrzeg  234
+Gorzów Wielkopolski  Kwidzyn  270
+Suwa³ki  Ciechanów  205
+Augustów  Z³otów  395
+O¿arów Mazowiecki  Gi¿ycko  212
+Czêstochowa  Miêdzychód  299
+Kwidzyn  Pabianice  232
+Chojnice  Tuchola  23
+Opole  Czêstochowa  85
+Gliwice  Stalowa Wola  244
+Z³otów  W³adys³awowo  183
+Chorzele  Siemiatycze  162
+Be³chatów  Mielec  189
+Radom  Pabianice  128
+Zgierz  Gliwice  184
+Szczecin  Chorzele  420
+Bia³ystok  Z³otoryja  542
+Ko³o  Zgorzelec  276
+Jelenia Góra  Lubartów  484
+Ko³obrzeg  Z³otoryja  338
+Kielce  Suwa³ki  391
+Brzeg  Gorlice  294
+Jelenia Góra  Mielec  408
+Kraków  Gi¿ycko  460
+Warszawa  Rawicz  294
+Ko³obrzeg  Rybnik  498
+Gostynin  Wis³a  310
+Suwa³ki  Siemiatycze  185
+Bytom  Ciechanów  301
+Ciechanów  Pabianice  159
+£ódŸ  Lubartów  221
+Lesko  Zgorzelec  552
+Gorlice  Nowa Sól  451
+Chorzele  Starachowice  249
+Warka  Tuchola  303
+¯ywiec  Kalisz  242
+Bia³ystok  Toruñ  304
+Rawicz  Elbl¹g  332
+Krosno  Lesko  48
+Starogard Gdañski  Miêdzychód  233
+Poznañ  Bia³owie¿a  471
+Siemiatycze  Pabianice  254
+Opole  K³odzko  94
+Augustów  Rypin  252
+Gorzów Wielkopolski  Lubartów  524
+Stargard Szczeciñski  Ciechanów  377
+Pi³a  W³adys³awowo  211
+Poznañ  Ciechanów  256
+Warszawa  Wadowice  279
+Starogard Gdañski  Gniezno  171
+Radom  Wis³a  254
+Nysa  Stalowa Wola  336
+Wroc³aw  Warka  298
+Radom  Oborniki  328
+Starogard Gdañski  Wa³brzych  385
+Ko³obrzeg  Radom  486
+Kalisz  Warka  213
+Bia³a Podlaska  Bytów  444
+Szczecin  Warka  484
+Gi¿ycko  Siemiatycze  192
+Bukowina Tatrzañska  ¯nin  425
+Opole  Bia³owie¿a  467
+Gostynin  Kwidzyn  151
+Bia³ystok  Kielce  305
+Kraków  Œwiebodzin  393
+Gdañsk  Œwiebodzin  313
+Poznañ  Nowy S¹cz  409
+Krosno  Starachowice  156
+Pi³a  Gniezno  91
+Stalowa Wola  Pu³tusk  249
+Kraków  Zielona Góra  375
+Toruñ  Oborniki  129
+Starogard Gdañski  W³adys³awowo  93
+Wadowice  Che³m  314
+Inowroc³aw  Mielec  356
+Bi³goraj  Nowa Sól  508
+E³k  Ciechanów  133
+Krosno  Bytów  576
+Warszawa  Nysa  321
+Zielona Góra  Che³m  559
+Stalowa Wola  P³ock  275
+Gi¿ycko  Brzeg  457
+Radom  Bytom  195
+Bia³owie¿a  Rypin  302
+Olsztyn  Bi³goraj  392
+Che³m  Nowa Sól  543
+Mielec  Miêdzychód  463
+Ko³o  W³oszczowa  176
+Chojnice  Z³otów  50
+Gdañsk  Rypin  153
+Bi³goraj  Rypin  362
+Katowice  Gniezno  272
+Rzeszów  Sandomierz  73
+Nowy S¹cz  Lesko  119
+Bukowina Tatrzañska  Bytom  145
+£om¿a  Rypin  178
+Bia³ystok  Radom  236
+Zgierz  W³oszczowa  119
+Kraków  Szczecin  528
+Olsztyn  Pi³a  257
+¯ywiec  Warka  271
+Szczecin  Wroc³aw  307
+Kwidzyn  Che³m  423
+Gniezno  Wadowice  323
+Olsztyn  Ko³obrzeg  325
+Poznañ  Zgierz  181
+Radom  ¯nin  285
+Rybnik  Pu³awy  282
+Nowy S¹cz  Pu³tusk  346
+Gorzów Wielkopolski  Sokó³ka  557
+O¿arów Mazowiecki  Rypin  134
+Kielce  Z³otów  369
+Wroc³aw  Kalisz  103
+Wroc³aw  Pabianice  173
+Chorzele  Pu³awy  218
+Ciechocinek  Ciechanów  124
+Starachowice  Bi³goraj  129
+Zgierz  Bi³goraj  274
+Zamoœæ  Pu³tusk  268
+Koœcierzyna  Starachowice  402
+Rzeszów  Ciechanów  328
+Stargard Szczeciñski  Starogard Gdañski  241
+Zielona Góra  W³oszczowa  332
+Inowroc³aw  Zielonka  204
+Szczecin  Pabianice  379
+Nowa Sól  Rypin  287
+Nysa  Lidzbark Warmiñski  462
+Wroc³aw  Bytom  155
+£ódŸ  Sokó³ka  326
+Kwidzyn  Koœcierzyna  76
+Katowice  Rybnik  37
+Elbl¹g  Miêdzychód  291
+Gi¿ycko  Augustów  80
+Chojnice  P³ock  192
+Wroc³aw  I³awa  325
+Nowy S¹cz  Tuchola  485
+W³oc³awek  £om¿a  211
+Kalisz  Œwiecie  185
+Koœcierzyna  Œwiecie  84
+Brzeg  Bi³goraj  370
+Szczecin  I³awa  331
+E³k  Lubartów  227
+Opole  Starogard Gdañski  369
+Elbl¹g  Gorlice  515
+Lubartów  Zielonka  138
+Wadowice  Miêdzychód  393
+W³oc³awek  Koœcierzyna  178
+Kalisz  Bukowina Tatrzañska  305
+Siemiatycze  Wis³a  417
+Olsztyn  Sandomierz  355
+Gdañsk  Nowa Sól  345
+Bia³owie¿a  Œwiebodzin  566
+¯nin  Pu³awy  331
+Grudzi¹dz  Che³m  414
+W³oszczowa  ¯ary  347
+Rzeszów  Zielonka  257
+Bytów  Gliwice  439
+Warka  Wis³a  289
+Sandomierz  Tuchola  419
+Warka  W³adys³awowo  384
+Inowroc³aw  Nowa Sól  205
+Sandomierz  Bukowina Tatrzañska  191
+Elbl¹g  Zgorzelec  447
+Busko Zdrój  Warka  149
+Olsztyn  Kwidzyn  103
+Olsztyn  Zielonka  171
+Sokó³ka  Rypin  275
+Gdañsk  Opole  414
+Bia³a Podlaska  Ciechocinek  308
+Be³chatów  Che³m  288
+£om¿a  Zgorzelec  531
+Chorzele  Z³otów  256
+Czêstochowa  Wa³brzych  199
+O¿arów Mazowiecki  Nowa Sól  351
+Kraków  Rypin  338
+I³awa  Sokó³ka  261
+Kalisz  Wis³a  241
+Stargard Szczeciñski  Ko³o  274
+¯nin  P³ock  138
+W³oc³awek  Stargard Szczeciñski  279
+Poznañ  Gostynin  173
+Siemiatycze  ¯ary  536
+Chojnice  Pu³awy  392
+Bukowina Tatrzañska  W³adys³awowo  619
+Bydgoszcz  Lubartów  365
+¯ywiec  Che³m  343
+Bytów  Bi³goraj  537
+Zakopane  Bytom  142
+Olsztyn  Poznañ  283
+Bia³a Podlaska  Bukowina Tatrzañska  368
+Grudzi¹dz  W³oszczowa  304
+Inowroc³aw  Sandomierz  337
+Zamoœæ  P³ock  320
+Krosno  Rybnik  234
+Sandomierz  Ciechocinek  319
+Krosno  Œwiecie  473
+Poznañ  Szczecin  194
+Ko³obrzeg  Wadowice  547
+Tuchola  Bia³owie¿a  413
+Inowroc³aw  Pi³a  108
+Starachowice  Œwiebodzin  405
+Krosno  Bia³a Podlaska  276
+Radom  Wa³brzych  348
+Zgorzelec  W³adys³awowo  465
+Ciechanów  Wis³a  378
+Bukowina Tatrzañska  Ciechocinek  405
+Chorzele  Augustów  152
+Radom  W³adys³awowo  421
+Kielce  Jelenia Góra  342
+Poznañ  Gliwice  267
+Krosno  Bukowina Tatrzañska  127
+Wa³brzych  Miêdzychód  204
+Gdañsk  Ko³obrzeg  200
+Lidzbark Warmiñski  Pabianice  284
+Be³chatów  ¯ary  294
+Toruñ  Stalowa Wola  363
+Bia³ystok  Inowroc³aw  331
+W³oszczowa  W³adys³awowo  452
+Ko³o  Gi¿ycko  292
+Wroc³aw  Che³m  450
+Jelenia Góra  W³oszczowa  297
+Lubartów  Nowa Sól  478
+Lublin  Sokó³ka  249
+Rybnik  Starachowice  207
+Gi¿ycko  Elbl¹g  156
+Bytów  Siemiatycze  405
+Ciechocinek  Zielonka  173
+Katowice  Krosno  207
+Gorlice  Siemiatycze  330
+Bia³ystok  Pu³awy  208
+W³oszczowa  Wa³brzych  259
+Oborniki  Sokó³ka  455
+Warszawa  Rybnik  292
+Wroc³aw  ¯nin  198
+Pu³awy  Pu³tusk  157
+Rybnik  P³ock  286
+Wroc³aw  Wis³a  209
+Z³otów  Pu³tusk  280
+Oborniki  Siemiatycze  410
+Bydgoszcz  Kwidzyn  92
+£om¿a  Gliwice  398
+Grudzi¹dz  ¯nin  99
+Brzeg  Nowa Sól  161
+Rzeszów  Ko³o  335
+Nysa  E³k  480
+Lublin  Rawicz  397
+Elbl¹g  Chojnice  132
+Koœcierzyna  Rybnik  450
+W³oc³awek  Zakopane  378
+Jelenia Góra  Gorlice  410
+P³ock  Pabianice  101
+Bia³a Podlaska  W³adys³awowo  438
+Sandomierz  Wa³brzych  385
+Olsztyn  Lubartów  296
+Zielona Góra  Warka  392
+Sandomierz  W³adys³awowo  510
+Ko³obrzeg  E³k  451
+Kraków  Nowa Sól  355
+Bia³a Podlaska  Wa³brzych  494
+Lublin  Warszawa  151
+Nowy S¹cz  Bytów  551
+Bydgoszcz  Zgierz  169
+Pi³a  Pu³tusk  295
+Bydgoszcz  Mielec  394
+Kraków  Bi³goraj  204
+Suwa³ki  Gliwice  514
+Opole  Gliwice  67
+Oborniki  K³odzko  243
+Lesko  Miêdzychód  570
+E³k  Kwidzyn  227
+Gorzów Wielkopolski  Ko³obrzeg  161
+Stalowa Wola  Starachowice  88
+Rawicz  O¿arów Mazowiecki  278
+W³oc³awek  Bia³a Podlaska  285
+Lublin  Z³otoryja  463
+Gorzów Wielkopolski  Œwiebodzin  57
+Kielce  Stalowa Wola  109
+W³oc³awek  Suwa³ki  304
+Rzeszów  Nowy S¹cz  106
+Warszawa  Radom  89
+K³odzko  Lidzbark Warmiñski  487
+Miêdzychód  Pu³awy  437
+Nowy S¹cz  Bukowina Tatrzañska  54
+Zielona Góra  Pabianice  268
+Gostynin  W³oszczowa  178
+Brzeg  Lubartów  364
+Zgierz  Kwidzyn  210
+Bi³goraj  Œwiebodzin  533
+Kalisz  Bytów  270
+Zamoœæ  Radom  165
+Œwiecie  Pu³tusk  193
+Stargard Szczeciñski  Zielonka  427
+Zakopane  Œwiecie  470
+Nowa Sól  Zgorzelec  87
+Katowice  Bia³a Podlaska  349
+Lublin  Lidzbark Warmiñski  347
+Kraków  Pi³a  411
+Kraków  Zgorzelec  369
+Bytów  Œwiebodzin  250
+Mielec  Ciechanów  293
+I³awa  Siemiatycze  256
+W³oc³awek  Zamoœæ  361
+£ódŸ  Ko³obrzeg  372
+Jelenia Góra  Pabianice  267
+W³oszczowa  Lesko  228
+Starachowice  Siemiatycze  199
+Starogard Gdañski  ¯ary  346
+Zielona Góra  I³awa  330
+Oborniki  Bia³owie¿a  475
+Lubartów  Bi³goraj  102
+Che³m  Œwiebodzin  562
+Inowroc³aw  Lubartów  334
+Kalisz  Lesko  393
+£ódŸ  Œwiebodzin  274
+Be³chatów  Pabianice  33
+Nowy S¹cz  Gniezno  390
+Poznañ  Zielona Góra  111
+Bytom  Zielonka  264
+Bia³a Podlaska  Lesko  291
+Warka  Wa³brzych  359
+Be³chatów  I³awa  249
+Chorzele  Elbl¹g  140
+W³oc³awek  Oborniki  151
+¯ywiec  I³awa  434
+Zamoœæ  Jelenia Góra  529
+Gostynin  Gorlice  328
+E³k  Mielec  361
+Sokó³ka  Siemiatycze  116
+Gliwice  Pu³tusk  318
+Zakopane  Bukowina Tatrzañska  11
+Czêstochowa  ¯ary  292
+Wa³brzych  Pabianice  236
+Warszawa  Starachowice  130
+Sandomierz  Bytów  483
+Lublin  Toruñ  336
+Bydgoszcz  Ciechanów  178
+Zamoœæ  Starachowice  158
+Wadowice  Pabianice  199
+Kielce  Busko Zdrój  48
+Stargard Szczeciñski  Sandomierz  546
+Zamoœæ  Busko Zdrój  176
+Ko³o  Gorlice  332
+Bia³ystok  P³ock  242
+Bukowina Tatrzañska  Wa³brzych  317
+Rzeszów  Starogard Gdañski  496
+P³ock  W³oszczowa  190
+¯ywiec  Pabianice  219
+Katowice  £om¿a  389
+Sandomierz  Lesko  142
+Tuchola  Z³otoryja  304
+Che³m  Rypin  352
+Nowy S¹cz  W³adys³awowo  597
+Grudzi¹dz  Warka  250
+O¿arów Mazowiecki  Zgorzelec  416
+£om¿a  Bi³goraj  298
+Ko³obrzeg  P³ock  328
+Jelenia Góra  Warka  392
+Bydgoszcz  Bukowina Tatrzañska  445
+Rybnik  Tuchola  394
+Nysa  Ciechanów  351
+Kielce  Kalisz  201
+Sokó³ka  ¯ary  599
+I³awa  Gliwice  374
+Nysa  Elbl¹g  435
+Radom  Sokó³ka  273
+¯nin  Rypin  115
+Stargard Szczeciñski  Mielec  555
+Nysa  Z³otów  323
+Opole  Warka  259
+Chojnice  Z³otoryja  306
+P³ock  Wa³brzych  307
+Lubartów  W³oszczowa  196
+Katowice  Ciechocinek  293
+Zamoœæ  ¯ary  576
+Gorzów Wielkopolski  ¯nin  167
+Gostynin  Œwiecie  131
+Warszawa  Zakopane  331
+Elbl¹g  Œwiebodzin  334
+I³awa  Sandomierz  357
+Gdañsk  Bia³a Podlaska  395
+P³ock  W³adys³awowo  264
+Gdañsk  Wa³brzych  429
+Bia³ystok  Œwiecie  316
+£ódŸ  Gorlice  264
+Kielce  Gostynin  188
+Bytom  Mielec  180
+Be³chatów  Nowa Sól  257
+Suwa³ki  Sokó³ka  86
+E³k  Nowa Sól  485
+Kwidzyn  Oborniki  187
+¯nin  Tuchola  84
+Siemiatycze  Œwiebodzin  498
+Szczecin  Miêdzychód  128
+Pi³a  Nowa Sól  167
+Toruñ  Pu³tusk  169
+Katowice  Zamoœæ  306
+Rzeszów  Suwa³ki  455
+Inowroc³aw  Pu³tusk  191
+Grudzi¹dz  Rypin  63
+I³awa  Gniezno  177
+Zakopane  Miêdzychód  464
+Ciechanów  Z³otów  247
+¯ywiec  Pi³a  421
+Katowice  Szczecin  467
+Kwidzyn  ¯ary  347
+Rybnik  Rypin  337
+£ódŸ  ¯nin  168
+E³k  Bukowina Tatrzañska  487
+Chojnice  Stalowa Wola  466
+Lublin  Pi³a  451
+Stargard Szczeciñski  Bytów  187
+Katowice  Gi¿ycko  461
+K³odzko  Bi³goraj  429
+Starogard Gdañski  Rypin  115
+Czêstochowa  Brzeg  115
+Rawicz  Ciechocinek  193
+O¿arów Mazowiecki  Kwidzyn  210
+Gorzów Wielkopolski  Gorlice  536
+Suwa³ki  Wadowice  524
+Jelenia Góra  Gi¿ycko  538
+W³oszczowa  Pu³tusk  221
+Zielona Góra  Zgorzelec  93
+¯ywiec  Lubartów  310
+Nowy S¹cz  ¯nin  415
+Augustów  Warka  259
+Rzeszów  Zielona Góra  502
+Poznañ  Sokó³ka  455
+Ko³obrzeg  Bytom  478
+K³odzko  Z³otów  325
+Kraków  Lubartów  244
+Zgierz  Lubartów  226
+Bia³ystok  Gorzów Wielkopolski  533
+Œwiebodzin  Pabianice  271
+Krosno  Sokó³ka  428
+Bytom  Bytów  431
+Bia³ystok  K³odzko  538
+Szczecin  Chojnice  199
+Olsztyn  Tuchola  176
+Gi¿ycko  Pabianice  309
+Lesko  Nowa Sól  534
+Rawicz  Nysa  130
+Stargard Szczeciñski  Czêstochowa  396
+Zakopane  Chojnice  517
+Bi³goraj  Sokó³ka  323
+Be³chatów  Bukowina Tatrzañska  232
+Kalisz  Koœcierzyna  261
+Bia³a Podlaska  W³oszczowa  255
+Starogard Gdañski  Jelenia Góra  390
+Chojnice  ¯nin  95
+Elbl¹g  Z³otoryja  411
+Lublin  Kwidzyn  371
+Kalisz  Pu³awy  270
+Koœcierzyna  Zielonka  293
+Bia³ystok  Rypin  252
+¯nin  Œwiecie  79
+W³oc³awek  Nowy S¹cz  356
+Inowroc³aw  Augustów  334
+Bia³a Podlaska  Brzeg  411
+Gdañsk  Be³chatów  337
+Gi¿ycko  Starachowice  337
+Bia³owie¿a  W³adys³awowo  428
+Inowroc³aw  Bi³goraj  398
+Zamoœæ  Rybnik  342
+Zgierz  Bytów  286
+Bytów  Lidzbark Warmiñski  201
+Chorzele  ¯ywiec  413
+Gorzów Wielkopolski  Oborniki  107
+Warszawa  Pu³awy  108
+Opole  Wis³a  131
+Wroc³aw  Augustów  504
+Kielce  Nysa  236
+Grudzi¹dz  Zgorzelec  364
+Kraków  Kwidzyn  415
+Stalowa Wola  ¯ary  499
+£ódŸ  Oborniki  204
+Chorzele  Œwiebodzin  377
+Gi¿ycko  Mielec  418
+¯nin  Brzeg  221
+Wroc³aw  Bi³goraj  404
+£ódŸ  Ciechanów  144
+Olsztyn  Busko Zdrój  369
+Mielec  Œwiecie  405
+W³oc³awek  ¯ary  290
+Rybnik  W³oszczowa  132
+Kielce  Wis³a  185
+Chorzele  Bukowina Tatrzañska  441
+Sandomierz  Z³otów  439
+Lubartów  Tuchola  401
+Inowroc³aw  Jelenia Góra  273
+Czêstochowa  Rypin  253
+Gostynin  Busko Zdrój  236
+Nysa  Bia³owie¿a  515
+Bukowina Tatrzañska  Che³m  313
+Starachowice  Pabianice  137
+Chorzele  Z³otoryja  413
+Ko³o  Zielonka  171
+Bi³goraj  Wadowice  240
+Bia³ystok  Busko Zdrój  338
+Rybnik  Œwiecie  371
+Chojnice  Gorlice  513
+Kalisz  Gniezno  92
+Rawicz  Gi¿ycko  427
+K³odzko  W³oszczowa  238
+Lubartów  Z³otów  434
+Inowroc³aw  Rypin  83
+Sokó³ka  Nowa Sól  555
+Bia³ystok  Bia³a Podlaska  122
+Nowy S¹cz  Elbl¹g  514
+Bydgoszcz  Ko³o  111
+¯ywiec  Radom  235
+Gorzów Wielkopolski  Ciechanów  363
+Sokó³ka  Z³otoryja  574
+Gorlice  Che³m  231
+Nysa  ¯nin  266
+Inowroc³aw  Ciechanów  160
+£om¿a  Gorlice  396
+Kielce  Gliwice  153
+Kraków  Ko³obrzeg  547
+Sandomierz  Rybnik  236
+I³awa  Kalisz  227
+Grudzi¹dz  K³odzko  367
+Nysa  Toruñ  299
+E³k  ¯nin  317
+Rzeszów  Siemiatycze  272
+Chorzele  Kwidzyn  139
+Wroc³aw  W³oszczowa  207
+Gostynin  Bia³a Podlaska  252
+Warszawa  Krosno  283
+Bydgoszcz  Oborniki  96
+£om¿a  Jelenia Góra  502
+E³k  Oborniki  382
+Kraków  Bytom  83
+Bydgoszcz  Ko³obrzeg  198
+Toruñ  Elbl¹g  136
+Bytów  Che³m  526
+Bydgoszcz  Nowy S¹cz  432
+Kielce  E³k  312
+Nowy S¹cz  Z³otoryja  379
+Krosno  W³adys³awowo  611
+Bia³ystok  Wa³brzych  539
+Olsztyn  W³oszczowa  328
+Grudzi¹dz  Jelenia Góra  354
+Nysa  Pu³tusk  360
+Zakopane  Mielec  153
+Zamoœæ  Nowa Sól  539
+Lubartów  Bia³owie¿a  163
+Zgierz  Pi³a  231
+Kwidzyn  Nowa Sól  305
+Mielec  Tuchola  443
+¯nin  K³odzko  277
+Kielce  Inowroc³aw  268
+Ko³o  Warka  181
+Bydgoszcz  ¯nin  35
+¯ywiec  Starachowice  199
+Jelenia Góra  Wis³a  262
+Chojnice  Œwiebodzin  210
+Gdañsk  Warszawa  289
+Warszawa  Lidzbark Warmiñski  215
+Zamoœæ  Bi³goraj  44
+Zgorzelec  Rypin  367
+Krosno  Wa³brzych  408
+Lublin  Bytom  274
+¯ywiec  Bytów  510
+Augustów  Wadowice  501
+Bytom  Lesko  266
+£ódŸ  Poznañ  188
+Pi³a  Ko³obrzeg  136
+Gdañsk  O¿arów Mazowiecki  279
+Poznañ  K³odzko  219
+Kalisz  Lidzbark Warmiñski  310
+W³oszczowa  Rypin  250
+Toruñ  Z³otów  112
+Stalowa Wola  Bi³goraj  45
+Bia³a Podlaska  ¯ary  550
+Stalowa Wola  Nowa Sól  464
+Szczecin  Mielec  587
+Nowy S¹cz  £om¿a  408
+Czêstochowa  W³oszczowa  60
+Gliwice  Starachowice  189
+Z³otoryja  Zielonka  383
+Gorzów Wielkopolski  Poznañ  119
+Olsztyn  Grudzi¹dz  119
+Krosno  K³odzko  374
+Katowice  Pu³awy  245
+Sandomierz  ¯nin  367
+Pi³a  Chojnice  80
+Ko³o  Wis³a  284
+Gi¿ycko  Chojnice  280
+Nowy S¹cz  ¯ywiec  108
+Opole  Kalisz  123
+Warszawa  Zielona Góra  379
+Chojnice  Oborniki  128
+¯ywiec  Czêstochowa  122
+Gorlice  Lidzbark Warmiñski  496
+Olsztyn  W³adys³awowo  177
+Rawicz  E³k  426
+W³oc³awek  Chorzele  141
+Zgorzelec  Pu³tusk  451
+Ciechocinek  Siemiatycze  280
+Bia³ystok  Brzeg  463
+Radom  Wadowice  206
+Bia³ystok  Zgorzelec  598
+Bukowina Tatrzañska  Gliwice  147
+Olsztyn  Œwiecie  142
+W³oc³awek  Zgierz  91
+Gi¿ycko  Bytów  280
+O¿arów Mazowiecki  Bukowina Tatrzañska  324
+Kielce  Warka  108
+Koœcierzyna  Pu³awy  403
+Nowy S¹cz  Rybnik  163
+Kalisz  Zielonka  217
+Ko³obrzeg  Lubartów  562
+Tuchola  Œwiebodzin  216
+Rzeszów  Bytom  225
+Jelenia Góra  Sokó³ka  598
+Kielce  Sandomierz  83
+Kielce  Rawicz  273
+Rawicz  Krosno  405
+Bia³a Podlaska  Pu³tusk  158
+Sandomierz  Elbl¹g  419
+Oborniki  Warka  313
+Zielona Góra  Jelenia Góra  116
+¯ywiec  Kwidzyn  449
+O¿arów Mazowiecki  Ko³obrzeg  410
+Koœcierzyna  Lesko  598
+Gniezno  Z³otoryja  194
+Stargard Szczeciñski  Lesko  664
+Bia³a Podlaska  Augustów  202
+Zielona Góra  Sokó³ka  563
+Pi³a  Miêdzychód  86
+Rybnik  Bi³goraj  300
+Warszawa  Zielonka  14
+Gi¿ycko  Miêdzychód  423
+Szczecin  Ko³o  307
+Ko³obrzeg  Che³m  631
+Zamoœæ  Augustów  349
+Nysa  Z³otoryja  124
+Rawicz  Zielonka  304
+Koœcierzyna  Siemiatycze  376
+£om¿a  Ciechanów  102
+Gi¿ycko  P³ock  215
+Bytom  Starachowice  169
+Inowroc³aw  Gorlice  403
+I³awa  Wis³a  442
+Zielona Góra  K³odzko  183
+Opole  Sokó³ka  487
+I³awa  Che³m  382
+Nowy S¹cz  Toruñ  407
+Ko³o  Che³m  354
+Zgierz  Pabianice  23
+Nowa Sól  Pu³awy  434
+Gdañsk  Zgorzelec  432
+Rzeszów  Koœcierzyna  530
+Stargard Szczeciñski  Starachowice  484
+Starogard Gdañski  W³oszczowa  360
+Oborniki  Wadowice  358
+Bia³a Podlaska  Bi³goraj  169
+Bytów  Lubartów  458
+Kielce  I³awa  310
+Bydgoszcz  Nowa Sól  213
+Oborniki  Gliwice  291
+Brzeg  Che³m  421
+Poznañ  I³awa  221
+Chorzele  Lubartów  234
+Olsztyn  Be³chatów  279
+Toruñ  ¯nin  64
+Kwidzyn  W³oszczowa  328
+Poznañ  Kalisz  108
+Gdañsk  Inowroc³aw  176
+Kielce  Warszawa  149
+K³odzko  Stalowa Wola  384
+Stargard Szczeciñski  P³ock  325
+Elbl¹g  Bia³owie¿a  338
+Brzeg  Siemiatycze  410
+Zamoœæ  Brzeg  407
+Wroc³aw  Rypin  270
+Rawicz  Bia³a Podlaska  432
+Bi³goraj  Warka  175
+Augustów  Pu³awy  279
+Olsztyn  Elbl¹g  84
+I³awa  Lidzbark Warmiñski  88
+Rybnik  W³adys³awowo  525
+Olsztyn  O¿arów Mazowiecki  175
+Ko³obrzeg  Koœcierzyna  156
+Oborniki  Pu³awy  377
+Kielce  Koœcierzyna  402
+K³odzko  Rypin  347
+Bia³ystok  Sokó³ka  37
+Be³chatów  Bi³goraj  252
+Starachowice  P³ock  193
+Wadowice  Siemiatycze  368
+Katowice  Be³chatów  127
+Katowice  Wa³brzych  201
+W³oc³awek  W³oszczowa  210
+Stargard Szczeciñski  Radom  468
+Inowroc³aw  K³odzko  284
+Kraków  Lidzbark Warmiñski  454
+Kielce  O¿arów Mazowiecki  149
+Suwa³ki  Kalisz  415
+W³oc³awek  Brzeg  226
+Gniezno  Bia³owie¿a  423
+Krosno  Gi¿ycko  482
+Bia³ystok  Bi³goraj  291
+Bytom  Chojnice  380
+Lublin  Œwiebodzin  497
+Szczecin  Suwa³ki  555
+Lubartów  ¯ary  518
+Gorzów Wielkopolski  Jelenia Góra  207
+Jelenia Góra  Gniezno  223
+Augustów  Gliwice  493
+Olsztyn  Bia³owie¿a  254
+Gostynin  O¿arów Mazowiecki  93
+P³ock  Tuchola  170
+K³odzko  Nowa Sól  164
+¯ywiec  Lesko  227
+Stargard Szczeciñski  Chojnice  171
+Be³chatów  Ko³obrzeg  403
+Rybnik  ¯ary  295
+Olsztyn  Z³otów  234
+Warszawa  Ciechocinek  170
+Lublin  Bukowina Tatrzañska  274
+Nowy S¹cz  Radom  201
+Rybnik  Wa³brzych  178
+¯ywiec  Œwiebodzin  382
+Gi¿ycko  Radom  296
+Katowice  Wadowice  54
+Warszawa  Bytów  321
+Wa³brzych  Œwiebodzin  171
+Lidzbark Warmiñski  Œwiebodzin  395
+Bia³ystok  Lublin  215
+Sokó³ka  W³oszczowa  372
+Inowroc³aw  ¯nin  36
+Bia³ystok  £om¿a  74
+Olsztyn  Warszawa  180
+Gostynin  £om¿a  194
+Zgierz  Zakopane  288
+Suwa³ki  Wis³a  568
+Jelenia Góra  Koœcierzyna  388
+Zakopane  Lidzbark Warmiñski  537
+Bukowina Tatrzañska  Lubartów  295
+Kielce  Che³m  202
+Zgierz  Lesko  337
+O¿arów Mazowiecki  Bytom  243
+Be³chatów  Ko³o  105
+Bytom  Miêdzychód  323
+Szczecin  Bytom  451
+¯nin  Rybnik  313
+Starogard Gdañski  Bi³goraj  476
+O¿arów Mazowiecki  Lidzbark Warmiñski  212
+Che³m  Lidzbark Warmiñski  385
+Ko³o  Sokó³ka  352
+I³awa  Warka  230
+Zielona Góra  Bi³goraj  526
+Zamoœæ  Ko³obrzeg  647
+Zgierz  Stargard Szczeciñski  338
+K³odzko  Tuchola  360
+Gostynin  Bia³owie¿a  299
+Gdañsk  Rawicz  330
+Wroc³aw  Jelenia Góra  94
+Nowy S¹cz  Kwidzyn  474
+Kwidzyn  Bi³goraj  440
+Suwa³ki  K³odzko  589
+Zgierz  ¯ywiec  241
+Gostynin  Wa³brzych  285
+Bia³a Podlaska  Zgorzelec  568
+Szczecin  Nowy S¹cz  600
+Wroc³aw  Nowy S¹cz  309
+Lubartów  Wa³brzych  448
+Kielce  Gniezno  277
+Elbl¹g  ¯ary  401
+Pi³a  Augustów  418
+Koœcierzyna  Pabianice  288
+Miêdzychód  Zielonka  358
+Warszawa  Stargard Szczeciñski  423
+Stargard Szczeciñski  ¯ywiec  496
+Zielona Góra  Pu³tusk  389
+Szczecin  Zielona Góra  178
+Radom  Zgorzelec  429
+Busko Zdrój  Bytów  468
+£ódŸ  Jelenia Góra  277
+Bia³ystok  Opole  452
+Wroc³aw  Oborniki  169
+Kalisz  Gi¿ycko  353
+Poznañ  Wis³a  336
+Krosno  Ciechocinek  410
+£ódŸ  Augustów  329
+Szczecin  Nowa Sól  198
+Koœcierzyna  Ciechocinek  147
+Katowice  Sokó³ka  467
+Nysa  Oborniki  244
+Gdañsk  Busko Zdrój  458
+Rawicz  Zgorzelec  138
+Gorzów Wielkopolski  Augustów  528
+Bia³owie¿a  Zgorzelec  630
+Lublin  Suwa³ki  320
+Kwidzyn  Pu³tusk  182
+Busko Zdrój  Lesko  156
+¯nin  Zgorzelec  264
+Bydgoszcz  Kraków  367
+Olsztyn  Wa³brzych  440
+Stargard Szczeciñski  Miêdzychód  99
+¯nin  W³adys³awowo  221
+Gorlice  Lubartów  223
+Wroc³aw  Nowa Sól  119
+Bytom  P³ock  247
+W³oszczowa  Zgorzelec  348
+Opole  Pu³awy  294
+Jelenia Góra  Siemiatycze  520
+Kwidzyn  Chojnice  91
+Nowy S¹cz  Busko Zdrój  95
+Sokó³ka  Miêdzychód  517
+Lublin  Oborniki  424
+K³odzko  Zgorzelec  139
+Chorzele  Starogard Gdañski  173
+Rzeszów  Che³m  159
+£om¿a  Brzeg  406
+Ko³obrzeg  Bukowina Tatrzañska  621
+Grudzi¹dz  Pu³tusk  177
+Wroc³aw  Zgorzelec  141
+Tuchola  Ciechanów  202
+Bia³ystok  Tuchola  356
+Toruñ  Bia³owie¿a  354
+W³oc³awek  Miêdzychód  214
+Nowy S¹cz  Z³otów  488
+O¿arów Mazowiecki  Che³m  221
+Rzeszów  Wis³a  230
+Ciechocinek  Lidzbark Warmiñski  182
+Wroc³aw  Pu³tusk  330
+£ódŸ  Rzeszów  263
+Nowy S¹cz  Stalowa Wola  145
+Nowy S¹cz  Ciechanów  361
+Busko Zdrój  Gliwice  153
+Lubartów  Z³otoryja  467
+Szczecin  Oborniki  175
+Bydgoszcz  Bytom  310
+Szczecin  Siemiatycze  567
+Gi¿ycko  Nowa Sól  476
+Elbl¹g  Bytów  124
+W³oc³awek  Augustów  293
+Radom  Pu³awy  56
+Olsztyn  Rawicz  345
+Gliwice  Warka  243
+Mielec  W³adys³awowo  542
+Kalisz  Mielec  286
+Toruñ  Z³otoryja  280
+Czêstochowa  Bi³goraj  255
+Siemiatycze  Ciechanów  158
+Z³otów  ¯ary  232
+Warszawa  Lesko  317
+Starogard Gdañski  Pu³tusk  219
+¯ywiec  Zakopane  70
+Ko³o  Bytom  203
+Czêstochowa  Oborniki  258
+Sokó³ka  Z³otów  429
+Œwiecie  ¯ary  299
+Ko³obrzeg  Œwiebodzin  213
+Czêstochowa  Nowa Sól  261
+Wroc³aw  Zgierz  185
+O¿arów Mazowiecki  ¯nin  220
+Sandomierz  Busko Zdrój  71
+Warszawa  Siemiatycze  127
+Gorzów Wielkopolski  Rzeszów  557
+Starogard Gdañski  Nowy S¹cz  506
+E³k  Bytom  418
+Gostynin  Tuchola  170
+Rybnik  Sokó³ka  502
+Sandomierz  Gorlice  120
+Zgierz  Z³otoryja  256
+Wadowice  Nowa Sól  340
+Be³chatów  Pu³tusk  191
+Mielec  Wa³brzych  368
+Lublin  Lubartów  24
+¯nin  Bi³goraj  430
+Gorlice  Pu³awy  203
+Opole  I³awa  345
+Chorzele  Oborniki  281
+Bytów  Pu³awy  428
+Gdañsk  £ódŸ  293
+Bia³ystok  Grudzi¹dz  295
+Gliwice  Wis³a  72
+Sandomierz  Stalowa Wola  27
+Czêstochowa  Zgorzelec  290
+K³odzko  Rybnik  141
+Rzeszów  Wroc³aw  371
+Gliwice  Che³m  352
+Jelenia Góra  Zielonka  405
+Zakopane  Pabianice  266
+Brzeg  Lidzbark Warmiñski  418
+Rzeszów  Lidzbark Warmiñski  463
+Chojnice  Bia³owie¿a  435
+Grudzi¹dz  Oborniki  161
+Gdañsk  W³oszczowa  401
+Chorzele  Pi³a  275
+Wadowice  Zielonka  292
+Sandomierz  Ciechanów  255
+Nysa  Œwiebodzin  234
+Suwa³ki  Warka  283
+Nowa Sól  Wis³a  326
+Stargard Szczeciñski  Pabianice  347
+Opole  Wadowice  141
+Ciechocinek  Wis³a  360
+Ko³o  Siemiatycze  288
+Kraków  ¯nin  348
+£om¿a  ¯nin  293
+Gdañsk  Nysa  443
+Miêdzychód  W³adys³awowo  295
+Pabianice  Z³otoryja  247
+Zgierz  Czêstochowa  120
+Gdañsk  Z³otów  153
+Czêstochowa  Pu³tusk  252
+Krosno  Wadowice  164
+Ko³o  Gniezno  80
+¯nin  Nowa Sól  179
+Chorzele  Suwa³ki  164
+Bukowina Tatrzañska  Kwidzyn  496
+Warszawa  Sokó³ka  213
+Bi³goraj  Pu³awy  111
+Z³otoryja  Zgorzelec  63
+Lublin  Starogard Gdañski  408
+Bukowina Tatrzañska  Starachowice  201
+Ciechocinek  Che³m  376
+Starachowice  Miêdzychód  396
+Inowroc³aw  Brzeg  221
+Ko³o  Koœcierzyna  218
+Bytom  Pabianice  146
+Gdañsk  Gi¿ycko  208
+Gostynin  W³adys³awowo  274
+Pi³a  Brzeg  261
+P³ock  Œwiecie  128
+Nowy S¹cz  P³ock  334
+Kraków  Wroc³aw  238
+Grudzi¹dz  Bi³goraj  425
+Nysa  Bukowina Tatrzañska  235
+Gniezno  Œwiebodzin  144
+Poznañ  Wadowice  334
+Kraków  Che³m  277
+Pi³a  ¯ary  203
+Ko³obrzeg  Gniezno  226
+£om¿a  Augustów  95
+Szczecin  Ko³obrzeg  105
+Wroc³aw  Ko³o  164
+Nowy S¹cz  Gorlice  34
+Be³chatów  Oborniki  224
+Koœcierzyna  Lidzbark Warmiñski  171
+Bia³ystok  W³adys³awowo  363
+Bydgoszcz  Opole  272
+Mielec  Bia³owie¿a  317
+Starogard Gdañski  Zgorzelec  393
+I³awa  Pu³awy  292
+Poznañ  Warka  301
+Rawicz  Busko Zdrój  302
+Katowice  Lidzbark Warmiñski  443
+Szczecin  Bukowina Tatrzañska  596
+Zielona Góra  Rypin  292
+Sandomierz  Radom  90
+Olsztyn  Toruñ  150
+Olsztyn  ¯ary  433
+Bydgoszcz  Suwa³ki  343
+Warszawa  Miêdzychód  352
+Warszawa  Be³chatów  147
+W³oc³awek  K³odzko  296
+Stalowa Wola  Zgorzelec  500
+Kwidzyn  Zgorzelec  391
+Bytów  Warka  363
+Nysa  Pi³a  303
+Lublin  Poznañ  410
+Pi³a  Rypin  177
+P³ock  Bia³owie¿a  282
+Bukowina Tatrzañska  P³ock  359
+Tuchola  Che³m  470
+Kielce  Wroc³aw  252
+Bia³a Podlaska  Sokó³ka  154
+Elbl¹g  Busko Zdrój  422
+Olsztyn  Nysa  427
+Gorlice  Warka  235
+Rawicz  Tuchola  232
+Katowice  Rypin  314
+Suwa³ki  Koœcierzyna  324
+¯ary  W³adys³awowo  414
+£om¿a  Wadowice  408
+Lublin  Ciechanów  225
+W³oc³awek  Zgorzelec  323
+Kwidzyn  K³odzko  397
+Bia³ystok  Zgierz  290
+Tuchola  Pu³tusk  237
+Lublin  Gniezno  370
+Sandomierz  Kwidzyn  390
+Rzeszów  Bukowina Tatrzañska  159
+Nowy S¹cz  Lubartów  245
+Be³chatów  Rypin  189
+Warszawa  Chojnice  287
+Lubartów  P³ock  234
+Kraków  Gniezno  321
+Gostynin  Nysa  262
+Krosno  Siemiatycze  313
+Bia³a Podlaska  Wadowice  348
+Bydgoszcz  Lidzbark Warmiñski  203
+Suwa³ki  Che³m  332
+Olsztyn  Stalowa Wola  374
+Katowice  Zielona Góra  308
+¯ywiec  Rybnik  63
+Zielona Góra  Oborniki  119
+Elbl¹g  Tuchola  120
+Warszawa  Ko³obrzeg  425
+Rawicz  Lesko  453
+¯ywiec  Bia³owie¿a  466
+Radom  Siemiatycze  164
+Koœcierzyna  Miêdzychód  218
+Bia³ystok  Nowy S¹cz  427
+¯ywiec  Z³otów  434
+Bia³ystok  Chorzele  153
+Olsztyn  Ciechocinek  152
+Œwiebodzin  ¯ary  74
+Ko³obrzeg  ¯nin  204
+Poznañ  Koœcierzyna  202
+Szczecin  Pu³awy  549
+Zgierz  Krosno  292
+Oborniki  Pu³tusk  288
+Lesko  Lidzbark Warmiñski  531
+Gostynin  Stalowa Wola  274
+E³k  Lidzbark Warmiñski  136
+Kalisz  Ko³obrzeg  316
+Pi³a  Pabianice  244
+Lesko  Pu³tusk  372
+Katowice  Pabianice  160
+Stargard Szczeciñski  E³k  485
+Zielona Góra  Pu³awy  449
+Bydgoszcz  Brzeg  253
+Rzeszów  Kalisz  334
+Ciechocinek  Oborniki  135
+Che³m  Pu³awy  110
+Olsztyn  Zamoœæ  389
+Gorzów Wielkopolski  Bytom  364
+Zakopane  Bi³goraj  241
+Kalisz  Ko³o  61
+Augustów  Pu³tusk  178
+Sokó³ka  Wa³brzych  572
+Opole  Bytom  75
+Stargard Szczeciñski  Nysa  356
+Sandomierz  P³ock  251
+Lidzbark Warmiñski  Z³otów  248
+Bytom  ¯ary  298
+Koœcierzyna  Sokó³ka  372
+Olsztyn  Chorzele  63
+£ódŸ  Bytom  161
+Gostynin  Krosno  342
+Chorzele  Che³m  296
+Miêdzychód  Pabianice  259
+Gdañsk  Katowice  458
+Gdañsk  Krosno  561
+Ko³obrzeg  Warka  461
+Warszawa  Ko³o  162
+Rawicz  W³oszczowa  231
+Zakopane  Augustów  547
+Œwiecie  Miêdzychód  193
+Wroc³aw  Wadowice  222
+Olsztyn  Inowroc³aw  185
+Poznañ  Che³m  474
+Stargard Szczeciñski  ¯ary  189
+Bia³ystok  Nowa Sól  526
+Bytom  Rybnik  42
+Ko³obrzeg  Gliwice  481
+Gliwice  Œwiebodzin  309
+Gostynin  Zamoœæ  324
+E³k  Brzeg  441
+Katowice  Mielec  173
+Bytów  Oborniki  176
+Bia³ystok  Olsztyn  191
+K³odzko  Wa³brzych  45
+Elbl¹g  Œwiecie  105
+Oborniki  Che³m  487
+O¿arów Mazowiecki  Augustów  232
+Bia³ystok  Zielonka  164
+Sokó³ka  Pabianice  339
+Starogard Gdañski  Nowa Sól  306
+Stargard Szczeciñski  Rybnik  435
+Opole  Wroc³aw  81
+Zamoœæ  Zgorzelec  580
+Miêdzychód  Rypin  242
+Szczecin  Augustów  555
+Krosno  Brzeg  331
+Jelenia Góra  Pu³tusk  419
+Zgierz  Toruñ  141
+Poznañ  Gniezno  48
+Krosno  W³oszczowa  181
+Ko³o  K³odzko  239
+Wadowice  Pu³awy  244
+Mielec  Z³otoryja  400
+Radom  Brzeg  264
+Zgierz  Nysa  213
+Lublin  Rzeszów  137
+Inowroc³aw  Wadowice  336
+Czêstochowa  Sokó³ka  416
+Jelenia Góra  Lidzbark Warmiñski  485
+¯ywiec  Toruñ  373
+Be³chatów  Brzeg  143
+Gniezno  Che³m  433
+Ko³o  Wadowice  264
+Opole  Che³m  393
+Bi³goraj  Pu³tusk  268
+Gostynin  Rybnik  267
+Czêstochowa  Ko³obrzeg  445
+Koœcierzyna  K³odzko  417
+Kraków  Koœcierzyna  472
+Sandomierz  Lubartów  105
+Bia³owie¿a  ¯ary  607
+Toruñ  Warka  224
+Toruñ  Pi³a  126
+Katowice  W³oszczowa  95
+Poznañ  Pu³awy  364
+Olsztyn  E³k  126
+Katowice  Opole  89
+Kwidzyn  Rypin  80
+Poznañ  Jelenia Góra  187
+Be³chatów  K³odzko  216
+Stargard Szczeciñski  Stalowa Wola  572
+Stalowa Wola  Miêdzychód  484
+Che³m  Wis³a  366
+Wa³brzych  Z³otoryja  47
+Suwa³ki  Pu³awy  305
+Pi³a  W³oszczowa  339
+Nowy S¹cz  O¿arów Mazowiecki  289
+Chorzele  Bytom  348
+Stargard Szczeciñski  Ciechocinek  255
+Bytów  ¯nin  147
+Rawicz  Œwiecie  228
+Bytów  Wis³a  511
+Katowice  K³odzko  168
+Jelenia Góra  K³odzko  82
+Bukowina Tatrzañska  Œwiebodzin  456
+Kwidzyn  Wadowice  430
+Bytom  Stalowa Wola  226
+E³k  Pu³tusk  120
+Bia³ystok  Ciechocinek  295
+Starogard Gdañski  Ko³obrzeg  195
+Wis³a  Pu³tusk  374
+Zgierz  Elbl¹g  256
+Gorzów Wielkopolski  Wroc³aw  218
+Zgierz  Z³otów  232
+Nowy S¹cz  Czêstochowa  173
+Chorzele  Koœcierzyna  214
+Lidzbark Warmiñski  Z³otoryja  457
+Zakopane  Brzeg  248
+Zamoœæ  Rypin  372
+Lubartów  W³adys³awowo  467
+£ódŸ  Wroc³aw  184
+Grudzi¹dz  Pu³awy  316
+Jelenia Góra  Brzeg  123
+Radom  Lidzbark Warmiñski  305
+Gorlice  Wis³a  166
+Suwa³ki  Gniezno  395
+W³oc³awek  Chojnice  154
+Z³otoryja  W³adys³awowo  440
+Nowy S¹cz  Pi³a  480
+Gdañsk  £om¿a  261
+Zgierz  Zamoœæ  297
+Pi³a  Siemiatycze  419
+Bytom  Ciechocinek  278
+Toruñ  Œwiebodzin  226
+Radom  Rypin  221
+Suwa³ki  Jelenia Góra  603
+Miêdzychód  Zgorzelec  172
+Olsztyn  Radom  269
+Be³chatów  Siemiatycze  268
+Siemiatycze  Z³otów  405
+Gdañsk  Lublin  437
+Gdañsk  Chorzele  192
+O¿arów Mazowiecki  Koœcierzyna  283
+Bydgoszcz  Pu³tusk  211
+Z³otów  Rypin  161
+Grudzi¹dz  Sokó³ka  314
+Gostynin  Toruñ  89
+Œwiebodzin  Zielonka  382
+Ciechocinek  Gniezno  89
+Nysa  Kwidzyn  379
+O¿arów Mazowiecki  Pu³awy  120
+K³odzko  Œwiecie  352
+Wroc³aw  Ko³obrzeg  353
+Gi¿ycko  Zakopane  541
+Rzeszów  Pu³awy  152
+W³oc³awek  Sokó³ka  309
+Radom  Augustów  298
+Warka  Z³otów  332
+Opole  Jelenia Góra  157
+Sandomierz  Pi³a  440
+Brzeg  Pu³awy  319
+Stalowa Wola  Pabianice  226
+Radom  Bi³goraj  145
+Olsztyn  P³ock  147
+Gniezno  Lubartów  364
+W³oszczowa  Nowa Sól  314
+E³k  Augustów  58
+Gdañsk  ¯ary  384
+Starogard Gdañski  Pu³awy  366
+Zamoœæ  Pabianice  292
+Zgierz  E³k  267
+Radom  Zielonka  100
+Zgorzelec  Zielonka  441
+Inowroc³aw  Bukowina Tatrzañska  407
+Warszawa  Pabianice  129
+Szczecin  Brzeg  348
+Pabianice  Z³otów  246
+Gostynin  Z³otoryja  283
+Kalisz  Wadowice  231
+£om¿a  Bytom  380
+Bia³ystok  Szczecin  572
+Lublin  Koœcierzyna  446
+K³odzko  W³adys³awowo  498
+Zgierz  Inowroc³aw  131
+K³odzko  Miêdzychód  245
+Gdañsk  Rybnik  476
+W³oc³awek  Mielec  311
+Bi³goraj  Che³m  86
+Ciechocinek  Pu³awy  272
+Bia³ystok  ¯ary  570
+Chorzele  Ciechanów  48
+Rawicz  Pabianice  173
+Katowice  Siemiatycze  362
+Lublin  Gorlice  200
+Czêstochowa  Pu³awy  210
+Stalowa Wola  Rypin  334
+Koœcierzyna  Chojnice  54
+Starachowice  ¯ary  417
+Be³chatów  Jelenia Góra  259
+Nysa  Lubartów  386
+Bia³a Podlaska  Nowa Sól  508
+P³ock  Z³otoryja  304
+Bi³goraj  Wis³a  292
+Bydgoszcz  Augustów  339
+Ko³obrzeg  Wis³a  551
+Suwa³ki  Bytom  496
+Rybnik  Nowa Sól  275
+Busko Zdrój  Z³otoryja  351
+Kraków  Pu³awy  208
+O¿arów Mazowiecki  Gniezno  220
+Poznañ  Bytom  265
+Zakopane  Rypin  421
+Gdañsk  Tuchola  99
+Stalowa Wola  W³oszczowa  152
+£ódŸ  Pu³tusk  151
+Gliwice  Lubartów  306
+¯ywiec  Busko Zdrój  142
+Koœcierzyna  Nowa Sól  298
+Gdañsk  Zamoœæ  513
+Gniezno  Ciechanów  208
+Rawicz  Wa³brzych  99
+Zgierz  Radom  131
+I³awa  Suwa³ki  228
+¯nin  Wa³brzych  250
+Zamoœæ  W³oszczowa  232
+Sandomierz  Czêstochowa  186
+Grudzi¹dz  Wadowice  403
+Be³chatów  Augustów  368
+Opole  Gniezno  209
+Elbl¹g  Bia³a Podlaska  343
+Gorzów Wielkopolski  Pu³tusk  394
+Ko³o  Lidzbark Warmiñski  249
+Gi¿ycko  W³oszczowa  375
+Kraków  Suwa³ki  494
+Kielce  Starogard Gdañski  371
+Zgierz  P³ock  78
+Lesko  Pu³awy  218
+Bia³ystok  Ko³o  322
+Tuchola  Wis³a  445
+Ciechanów  Œwiebodzin  351
+¯ywiec  Inowroc³aw  351
+Kielce  Kwidzyn  337
+Warszawa  Nowa Sól  367
+Bia³ystok  Bydgoszcz  345
+Gdañsk  Ciechocinek  165
+Brzeg  Pu³tusk  322
+W³oc³awek  Siemiatycze  259
+Zielona Góra  Brzeg  182
+¯ywiec  Stalowa Wola  227
+Gdañsk  Lesko  601
+Warszawa  Nowy S¹cz  288
+Jelenia Góra  Augustów  590
+Sokó³ka  Lesko  445
+Lublin  Warka  113
+Stargard Szczeciñski  £om¿a  468
+Gostynin  Radom  162
+Olsztyn  Zakopane  500
+Kwidzyn  Brzeg  334
+Chorzele  Gorlice  401
+Ko³obrzeg  Kwidzyn  225
+I³awa  Bukowina Tatrzañska  476
+Suwa³ki  Oborniki  437
+Warka  Bia³owie¿a  208
+Bia³ystok  Chojnice  377
+Bydgoszcz  Pu³awy  329
+Toruñ  Lubartów  324
+Kalisz  Rypin  169
+Augustów  Gniezno  386
+Jelenia Góra  Wadowice  290
+Rzeszów  Gniezno  413
+Krosno  Mielec  69
+Kraków  Bukowina Tatrzañska  80
+Gi¿ycko  Lesko  509
+¯ywiec  Z³otoryja  282
+Gostynin  Rawicz  200
+Gorzów Wielkopolski  Koœcierzyna  238
+Starogard Gdañski  Augustów  291
+Zielona Góra  Lidzbark Warmiñski  418
+Starogard Gdañski  Wadowice  459
+Rawicz  ¯ary  120
+Pi³a  Zielonka  311
+Bia³a Podlaska  K³odzko  483
+£ódŸ  Suwa³ki  347
+Elbl¹g  E³k  208
+Czêstochowa  K³odzko  178
+Lubartów  Œwiecie  358
+Pi³a  Bi³goraj  503
+Zamoœæ  Ko³o  360
+Katowice  Ko³obrzeg  494
+Opole  Koœcierzyna  384
+E³k  Pu³awy  231
+Katowice  Zielonka  273
+Bukowina Tatrzañska  Z³otoryja  359
+Kielce  Pi³a  367
+Stargard Szczeciñski  Zakopane  564
+¯ywiec  Nysa  158
+Œwiecie  Zgorzelec  343
+Krosno  Zgorzelec  504
+Wadowice  Lidzbark Warmiñski  477
+Bia³a Podlaska  Rypin  276
+Rybnik  Zgorzelec  276
+Szczecin  Jelenia Góra  293
+¯nin  ¯ary  222
+W³oc³awek  Ko³o  57
+Rawicz  Zakopane  336
+Mielec  P³ock  279
+Gorzów Wielkopolski  Suwa³ki  532
+Rybnik  Miêdzychód  336
+Chorzele  Wis³a  426
+Jelenia Góra  Pu³awy  438
+Bia³ystok  Be³chatów  325
+Szczecin  Lidzbark Warmiñski  402
+Wroc³aw  Lidzbark Warmiñski  411
+Zgierz  £om¿a  231
+Zakopane  Nowa Sól  408
+Toruñ  Gorlice  414
+O¿arów Mazowiecki  Oborniki  274
+Busko Zdrój  Starachowice  66
+Kraków  Jelenia Góra  313
+Che³m  Pu³tusk  241
+Elbl¹g  Z³otów  179
+Be³chatów  Pu³awy  180
+Ko³obrzeg  Ciechanów  365
+Warszawa  Zgorzelec  431
+O¿arów Mazowiecki  Jelenia Góra  380
+Sandomierz  Z³otoryja  412
+Oborniki  Gniezno  54
+Elbl¹g  Rybnik  458
+Koœcierzyna  Mielec  487
+Gdañsk  Olsztyn  138
+Lublin  Kalisz  315
+Poznañ  Bukowina Tatrzañska  409
+Augustów  ¯nin  366
+Augustów  Koœcierzyna  328
+Mielec  Z³otów  457
+Gostynin  Elbl¹g  195
+Kalisz  Brzeg  109
+Bia³owie¿a  Œwiecie  372
+Inowroc³aw  Oborniki  98
+Warszawa  Gi¿ycko  210
+Lublin  I³awa  333
+Koœcierzyna  Rypin  150
+£om¿a  Bukowina Tatrzañska  449
+Starachowice  Wa³brzych  336
+K³odzko  Pabianice  233
+Kwidzyn  Siemiatycze  300
+Sandomierz  Œwiebodzin  464
+Busko Zdrój  Stalowa Wola  91
+Kwidzyn  Lidzbark Warmiñski  116
+Oborniki  Wis³a  361
+Rawicz  W³adys³awowo  370
+¯nin  Miêdzychód  127
+Nysa  Warka  307
+Zamoœæ  Miêdzychód  550
+Chojnice  Lubartów  424
+I³awa  Koœcierzyna  120
+Elbl¹g  Radom  330
+Zgierz  Busko Zdrój  183
+Grudzi¹dz  Brzeg  304
+Kalisz  K³odzko  178
+Gdañsk  Gorzów Wielkopolski  289
+Katowice  Zgorzelec  298
+Gdañsk  Œwiecie  106
+Bytom  Tuchola  365
+Kielce  Lubartów  153
+Zakopane  Siemiatycze  404
+¯ywiec  P³ock  319
+Olsztyn  Krosno  462
+Œwiecie  Zielonka  221
+Bukowina Tatrzañska  Bia³owie¿a  458
+Lublin  Wis³a  316
+W³oc³awek  Nowa Sól  246
+Wa³brzych  Z³otów  292
+Elbl¹g  P³ock  181
+I³awa  Bytom  361
+Pi³a  Zgorzelec  253
+Augustów  Wis³a  545
+¯nin  W³oszczowa  271
+Krosno  Zielonka  292
+Lublin  ¯nin  377
+W³oc³awek  Rypin  52
+Starachowice  W³adys³awowo  455
+Toruñ  Ciechanów  136
+Ciechocinek  Pu³tusk  156
+Poznañ  Suwa³ki  442
+Augustów  Bytom  475
+Starachowice  Tuchola  359
+Nysa  Gorlice  288
+Kraków  Oborniki  360
+Pi³a  Mielec  455
+£om¿a  Pu³tusk  84
+Opole  Oborniki  232
+Nowa Sól  Pu³tusk  379
+Warka  Z³otoryja  373
+Grudzi¹dz  Lidzbark Warmiñski  139
+Gniezno  Gorlice  404
+¯ywiec  Rawicz  268
+Augustów  Che³m  304
+Opole  Pu³tusk  315
+Be³chatów  Lidzbark Warmiñski  317
+Czêstochowa  Wadowice  105
+Œwiebodzin  Miêdzychód  46
+Starogard Gdañski  K³odzko  412
+Kalisz  Siemiatycze  334
+Nowy S¹cz  Bia³owie¿a  408
+Katowice  Ko³o  218
+Poznañ  Pu³tusk  284
+W³oc³awek  Bi³goraj  346
+Starachowice  Lesko  196
+Chorzele  I³awa  95
+Starogard Gdañski  Sokó³ka  333
+Olsztyn  Rybnik  433
+O¿arów Mazowiecki  Pu³tusk  59
+Sokó³ka  Œwiecie  336
+Zgierz  Stalowa Wola  235
+Rybnik  Mielec  206
+£ódŸ  Koœcierzyna  278
+Zielona Góra  Augustów  544
+Krosno  Rypin  409
+Zgierz  Rybnik  207
+Œwiecie  Rypin  75
+Siemiatycze  Z³otoryja  499
+Rzeszów  Oborniki  461
+Gdañsk  Bytów  77
+Wroc³aw  Sokó³ka  508
+Zamoœæ  Chojnice  511
+Gi¿ycko  Ciechocinek  236
+Rawicz  Bytów  289
+Gostynin  E³k  227
+Olsztyn  Bia³a Podlaska  262
+Stargard Szczeciñski  Tuchola  189
+W³oc³awek  Ko³obrzeg  286
+Koœcierzyna  Zgorzelec  385
+Wroc³aw  K³odzko  79
+Czêstochowa  Augustów  428
+Z³otoryja  ¯ary  78
+Katowice  Nowy S¹cz  141
+Toruñ  Kwidzyn  81
+Ciechanów  Z³otoryja  376
+Nowy S¹cz  Œwiebodzin  465
+Kielce  Poznañ  307
+Zakopane  Zielonka  344
+Nowy S¹cz  Gostynin  323
+Z³otów  Zgorzelec  282
+Kalisz  Sokó³ka  407
+Ko³obrzeg  Gorlice  630
+£ódŸ  Bukowina Tatrzañska  276
+Lublin  Wroc³aw  386
+Bia³owie¿a  Wa³brzych  564
+Sandomierz  Bia³owie¿a  268
+W³oc³awek  Zielona Góra  254
+Kwidzyn  Sokó³ka  304
+Zgierz  Starachowice  147
+Zielona Góra  Wadowice  361
+Zamoœæ  Mielec  138
+Bia³ystok  W³oszczowa  335
+Olsztyn  £om¿a  123
+Radom  K³odzko  334
+Gdañsk  Grudzi¹dz  99
+£om¿a  Suwa³ki  117
+¯nin  Pabianice  173
+Chojnice  Ciechanów  225
+Kraków  Pu³tusk  307
+¯ywiec  E³k  474
+Bydgoszcz  Jelenia Góra  291
+Gostynin  Z³otów  194
+¯ywiec  Elbl¹g  497
+£om¿a  Oborniki  357
+Katowice  Bi³goraj  265
+Chorzele  ¯nin  217
+Warszawa  Zgierz  117
+Kielce  Ciechanów  221
+Sokó³ka  W³adys³awowo  367
+Warszawa  Mielec  215
+Busko Zdrój  P³ock  244
+Bia³ystok  Gi¿ycko  135
+Gdañsk  Zakopane  571
+Rzeszów  Pu³tusk  304
+Stargard Szczeciñski  Krosno  616
+Pi³a  Ko³o  167
+Gorzów Wielkopolski  Gniezno  161
+Stargard Szczeciñski  Bia³a Podlaska  563
+Bia³a Podlaska  Siemiatycze  48
+Krosno  Bi³goraj  115
+Busko Zdrój  Z³otów  413
+Chorzele  Warka  166
+Poznañ  Oborniki  25
+Bytów  Gniezno  182
+Wroc³aw  Brzeg  42
+Bia³owie¿a  Lesko  375
+Elbl¹g  Stalowa Wola  440
+Opole  Suwa³ki  511
+P³ock  Z³otów  200
+Gorzów Wielkopolski  Bukowina Tatrzañska  508
+Starogard Gdañski  Brzeg  352
+Gdañsk  W³adys³awowo  50
+Stargard Szczeciñski  Zamoœæ  634
+Gdañsk  Stargard Szczeciñski  263
+Lublin  Che³m  65
+£ódŸ  Gniezno  152
+Mielec  Stalowa Wola  56
+Ko³o  Pu³awy  244
+Gostynin  P³ock  22
+Bia³ystok  Miêdzychód  492
+Grudzi¹dz  Augustów  280
+Krosno  Nowa Sól  485
+Be³chatów  Wadowice  165
+Suwa³ki  Pu³tusk  197
+Elbl¹g  Starachowice  366
+K³odzko  ¯ary  169
+W³oc³awek  Zielonka  147
+Gi¿ycko  ¯ary  520

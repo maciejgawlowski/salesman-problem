@@ -70,7 +70,7 @@ public class MainController implements Initializable, MapComponentInitializedLis
         map = mapView.createMap(mapOptions);
 
         mapShapeDrawer = new MapShapeDrawer(map);
-        mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.MAIN_CITIES);
+        mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.CITIES_16);
 
         nearestNeighbourCalc = new NearestNeighbourCalc(mapShapeDrawer, this);
         randomPathCalc = new RandomPathCalc(mapShapeDrawer, this);
@@ -81,9 +81,11 @@ public class MainController implements Initializable, MapComponentInitializedLis
     public void initialize(URL location, ResourceBundle resources) {
         cbData.valueProperty().addListener((observable, oldValue, newValue) -> {
             if (newValue.equals("Polish cities (16)"))
-                mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.MAIN_CITIES);
-            else
-                mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.ALL_CITIES);
+                mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.CITIES_16);
+            if (newValue.equals("Polish cities (50)"))
+                mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.CITIES_50);
+            if (newValue.equals("Polish cities (100)"))
+                mapShapeDrawer.addMarkersToMapForPoints(CitiesLoader.CITIES_100);
         });
 
         mapView = new GoogleMapView();
@@ -103,8 +105,8 @@ public class MainController implements Initializable, MapComponentInitializedLis
             }, 0, 1000);
 
             long startTime = System.currentTimeMillis();
-            List<City> points = isChosenData("Polish cities (16)") ? CitiesLoader.MAIN_CITIES : CitiesLoader.ALL_CITIES;
-            List<PointsDistance> pointsDistances = isChosenData("Polish cities (16)") ? CitiesDistancesLoader.MAIN_CITIES_DISTANCES : CitiesDistancesLoader.ALL_CITIES_DISTANCES;
+            List<City> points = isChosenData("Polish cities (16)") ? CitiesLoader.CITIES_16 : isChosenData("Polish cities (50)") ? CitiesLoader.CITIES_50 : CitiesLoader.CITIES_100;
+            List<PointsDistance> pointsDistances = isChosenData("Polish cities (16)") ? CitiesDistancesLoader.DISTANCES_16 : isChosenData("Polish cities (50)") ? CitiesDistancesLoader.DISTANCES_50 : CitiesDistancesLoader.DISTANCES_100;
             mapShapeDrawer.clearAllMapPolylines();
 
             TSPResult tspResult = isChosenAlgorithm("Nearest neighbour") ? nearestNeighbourCalc.getPath(points, pointsDistances) : randomPathCalc.getPath(points, pointsDistances);

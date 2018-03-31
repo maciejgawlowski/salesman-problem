@@ -25,7 +25,8 @@
                      <items>
                         <FXCollections fx:factory="observableArrayList">
                            <String fx:value="Polish cities (16)" />
-                           <String fx:value="Polish cities (600)" />
+                           <String fx:value="Polish cities (50)" />
+                           <String fx:value="Polish cities (100)" />
                         </FXCollections>
                      </items>
                   </ComboBox>
