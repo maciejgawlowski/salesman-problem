@@ -32,11 +32,13 @@
         <element id="module-output" name="salesman-problem" />
       </element>
       <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/files_description.txt" />
-      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/main_polish_cities.txt" />
-      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/main_polish_cities_distances.txt" />
       <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/map_marker_icon.png" />
-      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/polish_cities.txt" />
-      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/polish_cities_distances.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/100_polish_cities.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/100_polish_cities_distances.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/16_polish_cities.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/16_polish_cities_distances.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/50_polish_cities.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/50_polish_cities_distances.txt" />
     </root>
   </artifact>
 </component>
